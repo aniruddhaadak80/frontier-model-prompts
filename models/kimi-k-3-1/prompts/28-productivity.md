@@ -1,0 +1,2669 @@
+# ⚡ Everyday Productivity - 120 copyable Kimi K 3.1 Pro prompts
+
+> Inbox, calendar, travel, job search, food ordering, plus Astra tedious-task wins.
+
+> Target model: Kimi K 3.1 Pro (`kimi-k-3-1-pro`). Open-weight 3T-class MoE; 1M context; text+image. Released Oct 23, 2026. Strong coding-agent performance and 3D generation.
+
+> Safety: defensive / authorized-scope use only. Stop before destructive, irreversible, sending, purchasing, deleting, or permission-changing steps without approval.
+
+**Jump:** [Model index](../../README.md) · [Search all](prompts_index.json)
+
+How to use: click any prompt title to expand it top to bottom, then use the copy icon on the code block.
+
+<details>
+<summary><code>productivity-001</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a week of meals from fridge contents and a budget for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-002</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Organize a family calendar with conflicts resolved for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-003</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a weekly review template that takes 15 minutes for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-004</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a study week around work shifts for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-005</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Draft a meeting follow-up sequence for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-006</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Create a tax-return document checklist (no filing advice beyond organizing) for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-007</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a conference visit: sessions, meetings, transit for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-008</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Build a moving checklist with vendors and dates for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-009</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a workout plan around injury constraints for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-010</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft job-search outreach with tailored bullets for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-011</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Create a home-maintenance schedule for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-012</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Plan a 3-day trip with transit, stays, and backups for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-013</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft a landlord email with photos inventory for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-014</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Triage 200 unread emails into act/file/archive with drafts for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-015</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a gift list with budget and links for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-016</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a week of meals from fridge contents and a budget for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-017</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Organize a family calendar with conflicts resolved for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-018</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a weekly review template that takes 15 minutes for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-019</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a study week around work shifts for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-020</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Draft a meeting follow-up sequence for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-021</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Create a tax-return document checklist (no filing advice beyond organizing) for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-022</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a conference visit: sessions, meetings, transit for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-023</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Build a moving checklist with vendors and dates for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-024</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a workout plan around injury constraints for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-025</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft job-search outreach with tailored bullets for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-026</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Create a home-maintenance schedule for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>productivity-027</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Plan a 3-day trip with transit, stays, and backups for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-028</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft a landlord email with photos inventory for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>productivity-029</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Triage 200 unread emails into act/file/archive with drafts for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-030</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a gift list with budget and links for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>productivity-031</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a week of meals from fridge contents and a budget for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 31.
+```
+</details>
+
+<details>
+<summary><code>productivity-032</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Organize a family calendar with conflicts resolved for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 32.
+```
+</details>
+
+<details>
+<summary><code>productivity-033</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a weekly review template that takes 15 minutes for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 33.
+```
+</details>
+
+<details>
+<summary><code>productivity-034</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a study week around work shifts for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 34.
+```
+</details>
+
+<details>
+<summary><code>productivity-035</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Draft a meeting follow-up sequence for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 35.
+```
+</details>
+
+<details>
+<summary><code>productivity-036</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Create a tax-return document checklist (no filing advice beyond organizing) for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 36.
+```
+</details>
+
+<details>
+<summary><code>productivity-037</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a conference visit: sessions, meetings, transit for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 37.
+```
+</details>
+
+<details>
+<summary><code>productivity-038</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Build a moving checklist with vendors and dates for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 38.
+```
+</details>
+
+<details>
+<summary><code>productivity-039</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a workout plan around injury constraints for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 39.
+```
+</details>
+
+<details>
+<summary><code>productivity-040</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft job-search outreach with tailored bullets for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 40.
+```
+</details>
+
+<details>
+<summary><code>productivity-041</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Create a home-maintenance schedule for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 41.
+```
+</details>
+
+<details>
+<summary><code>productivity-042</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Plan a 3-day trip with transit, stays, and backups for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 42.
+```
+</details>
+
+<details>
+<summary><code>productivity-043</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft a landlord email with photos inventory for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 43.
+```
+</details>
+
+<details>
+<summary><code>productivity-044</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Triage 200 unread emails into act/file/archive with drafts for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 44.
+```
+</details>
+
+<details>
+<summary><code>productivity-045</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a gift list with budget and links for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 45.
+```
+</details>
+
+<details>
+<summary><code>productivity-046</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a week of meals from fridge contents and a budget for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 46.
+```
+</details>
+
+<details>
+<summary><code>productivity-047</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Organize a family calendar with conflicts resolved for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 47.
+```
+</details>
+
+<details>
+<summary><code>productivity-048</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a weekly review template that takes 15 minutes for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 48.
+```
+</details>
+
+<details>
+<summary><code>productivity-049</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a study week around work shifts for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 49.
+```
+</details>
+
+<details>
+<summary><code>productivity-050</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Draft a meeting follow-up sequence for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 50.
+```
+</details>
+
+<details>
+<summary><code>productivity-051</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Create a tax-return document checklist (no filing advice beyond organizing) for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 51.
+```
+</details>
+
+<details>
+<summary><code>productivity-052</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a conference visit: sessions, meetings, transit for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 52.
+```
+</details>
+
+<details>
+<summary><code>productivity-053</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Build a moving checklist with vendors and dates for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 53.
+```
+</details>
+
+<details>
+<summary><code>productivity-054</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a workout plan around injury constraints for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 54.
+```
+</details>
+
+<details>
+<summary><code>productivity-055</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft job-search outreach with tailored bullets for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 55.
+```
+</details>
+
+<details>
+<summary><code>productivity-056</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Create a home-maintenance schedule for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 56.
+```
+</details>
+
+<details>
+<summary><code>productivity-057</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Plan a 3-day trip with transit, stays, and backups for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 57.
+```
+</details>
+
+<details>
+<summary><code>productivity-058</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft a landlord email with photos inventory for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 58.
+```
+</details>
+
+<details>
+<summary><code>productivity-059</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Triage 200 unread emails into act/file/archive with drafts for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 59.
+```
+</details>
+
+<details>
+<summary><code>productivity-060</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a gift list with budget and links for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 60.
+```
+</details>
+
+<details>
+<summary><code>productivity-061</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a week of meals from fridge contents and a budget for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 61.
+```
+</details>
+
+<details>
+<summary><code>productivity-062</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Organize a family calendar with conflicts resolved for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 62.
+```
+</details>
+
+<details>
+<summary><code>productivity-063</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a weekly review template that takes 15 minutes for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 63.
+```
+</details>
+
+<details>
+<summary><code>productivity-064</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a study week around work shifts for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 64.
+```
+</details>
+
+<details>
+<summary><code>productivity-065</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Draft a meeting follow-up sequence for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 65.
+```
+</details>
+
+<details>
+<summary><code>productivity-066</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Create a tax-return document checklist (no filing advice beyond organizing) for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 66.
+```
+</details>
+
+<details>
+<summary><code>productivity-067</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a conference visit: sessions, meetings, transit for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 67.
+```
+</details>
+
+<details>
+<summary><code>productivity-068</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Build a moving checklist with vendors and dates for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 68.
+```
+</details>
+
+<details>
+<summary><code>productivity-069</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a workout plan around injury constraints for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 69.
+```
+</details>
+
+<details>
+<summary><code>productivity-070</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft job-search outreach with tailored bullets for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 70.
+```
+</details>
+
+<details>
+<summary><code>productivity-071</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Create a home-maintenance schedule for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 71.
+```
+</details>
+
+<details>
+<summary><code>productivity-072</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Plan a 3-day trip with transit, stays, and backups for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 72.
+```
+</details>
+
+<details>
+<summary><code>productivity-073</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft a landlord email with photos inventory for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 73.
+```
+</details>
+
+<details>
+<summary><code>productivity-074</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Triage 200 unread emails into act/file/archive with drafts for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 74.
+```
+</details>
+
+<details>
+<summary><code>productivity-075</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a gift list with budget and links for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 75.
+```
+</details>
+
+<details>
+<summary><code>productivity-076</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a week of meals from fridge contents and a budget for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 76.
+```
+</details>
+
+<details>
+<summary><code>productivity-077</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Organize a family calendar with conflicts resolved for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 77.
+```
+</details>
+
+<details>
+<summary><code>productivity-078</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a weekly review template that takes 15 minutes for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 78.
+```
+</details>
+
+<details>
+<summary><code>productivity-079</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a study week around work shifts for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 79.
+```
+</details>
+
+<details>
+<summary><code>productivity-080</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Draft a meeting follow-up sequence for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 80.
+```
+</details>
+
+<details>
+<summary><code>productivity-081</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Create a tax-return document checklist (no filing advice beyond organizing) for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 81.
+```
+</details>
+
+<details>
+<summary><code>productivity-082</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a conference visit: sessions, meetings, transit for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 82.
+```
+</details>
+
+<details>
+<summary><code>productivity-083</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Build a moving checklist with vendors and dates for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 83.
+```
+</details>
+
+<details>
+<summary><code>productivity-084</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a workout plan around injury constraints for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 84.
+```
+</details>
+
+<details>
+<summary><code>productivity-085</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft job-search outreach with tailored bullets for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 85.
+```
+</details>
+
+<details>
+<summary><code>productivity-086</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Create a home-maintenance schedule for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 86.
+```
+</details>
+
+<details>
+<summary><code>productivity-087</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Plan a 3-day trip with transit, stays, and backups for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 87.
+```
+</details>
+
+<details>
+<summary><code>productivity-088</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft a landlord email with photos inventory for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 88.
+```
+</details>
+
+<details>
+<summary><code>productivity-089</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Triage 200 unread emails into act/file/archive with drafts for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 89.
+```
+</details>
+
+<details>
+<summary><code>productivity-090</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a gift list with budget and links for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 90.
+```
+</details>
+
+<details>
+<summary><code>productivity-091</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a week of meals from fridge contents and a budget for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 91.
+```
+</details>
+
+<details>
+<summary><code>productivity-092</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Organize a family calendar with conflicts resolved for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 92.
+```
+</details>
+
+<details>
+<summary><code>productivity-093</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a weekly review template that takes 15 minutes for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 93.
+```
+</details>
+
+<details>
+<summary><code>productivity-094</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a study week around work shifts for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 94.
+```
+</details>
+
+<details>
+<summary><code>productivity-095</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Draft a meeting follow-up sequence for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 95.
+```
+</details>
+
+<details>
+<summary><code>productivity-096</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Create a tax-return document checklist (no filing advice beyond organizing) for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 96.
+```
+</details>
+
+<details>
+<summary><code>productivity-097</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a conference visit: sessions, meetings, transit for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 97.
+```
+</details>
+
+<details>
+<summary><code>productivity-098</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Build a moving checklist with vendors and dates for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 98.
+```
+</details>
+
+<details>
+<summary><code>productivity-099</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a workout plan around injury constraints for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 99.
+```
+</details>
+
+<details>
+<summary><code>productivity-100</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft job-search outreach with tailored bullets for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 100.
+```
+</details>
+
+<details>
+<summary><code>productivity-101</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Create a home-maintenance schedule for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 101.
+```
+</details>
+
+<details>
+<summary><code>productivity-102</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Plan a 3-day trip with transit, stays, and backups for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 102.
+```
+</details>
+
+<details>
+<summary><code>productivity-103</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft a landlord email with photos inventory for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 103.
+```
+</details>
+
+<details>
+<summary><code>productivity-104</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Triage 200 unread emails into act/file/archive with drafts for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 104.
+```
+</details>
+
+<details>
+<summary><code>productivity-105</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Build a gift list with budget and links for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 105.
+```
+</details>
+
+<details>
+<summary><code>productivity-106</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a week of meals from fridge contents and a budget for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 106.
+```
+</details>
+
+<details>
+<summary><code>productivity-107</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Organize a family calendar with conflicts resolved for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 107.
+```
+</details>
+
+<details>
+<summary><code>productivity-108</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a weekly review template that takes 15 minutes for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 108.
+```
+</details>
+
+<details>
+<summary><code>productivity-109</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Plan a study week around work shifts for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 109.
+```
+</details>
+
+<details>
+<summary><code>productivity-110</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Draft a meeting follow-up sequence for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 110.
+```
+</details>
+
+<details>
+<summary><code>productivity-111</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Create a tax-return document checklist (no filing advice beyond organizing) for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 111.
+```
+</details>
+
+<details>
+<summary><code>productivity-112</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Plan a conference visit: sessions, meetings, transit for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 112.
+```
+</details>
+
+<details>
+<summary><code>productivity-113</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Build a moving checklist with vendors and dates for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 113.
+```
+</details>
+
+<details>
+<summary><code>productivity-114</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a workout plan around injury constraints for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 114.
+```
+</details>
+
+<details>
+<summary><code>productivity-115</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert executive assistant.
+Draft job-search outreach with tailored bullets for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 115.
+```
+</details>
+
+<details>
+<summary><code>productivity-116</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior life-admin coach.
+Create a home-maintenance schedule for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 116.
+```
+</details>
+
+<details>
+<summary><code>productivity-117</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a travel planner.
+Plan a 3-day trip with transit, stays, and backups for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 117.
+```
+</details>
+
+<details>
+<summary><code>productivity-118</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior career coach.
+Draft a landlord email with photos inventory for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 118.
+```
+</details>
+
+<details>
+<summary><code>productivity-119</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a meal-planning aide.
+Triage 200 unread emails into act/file/archive with drafts for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 119.
+```
+</details>
+
+<details>
+<summary><code>productivity-120</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior home-ops organizer.
+Build a gift list with budget and links for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 120.
+```
+</details>

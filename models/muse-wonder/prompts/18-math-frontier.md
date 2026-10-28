@@ -1,0 +1,2729 @@
+# 🧮 Math (Frontier-Style Rigor) - 120 copyable Muse Wonder prompts
+
+> Proof sketches, counterexamples, and verification discipline.
+
+> Target model: Muse Wonder (`muse-wonder`). Active memory + goal persistence for long-context conversations. Meta Model API $4/$20. Released Oct 12, 2026. Strong agentic task completion.
+
+> Safety: defensive / authorized-scope use only. Stop before destructive, irreversible, sending, purchasing, deleting, or permission-changing steps without approval.
+
+**Jump:** [Model index](../../README.md) · [Search all](prompts_index.json)
+
+How to use: click any prompt title to expand it top to bottom, then use the copy icon on the code block.
+
+<details>
+<summary><code>math-frontier-001</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Prove a combinatorial identity with a clear lemma chain for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-002</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Prove an inequality with named theorems for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-003</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Write a solution sketch plus a full-solution expansion for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-004</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Analyze a recurrence with generating functions for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-005</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Design a practice set that ramps difficulty for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-006</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Design a counting argument with bijection for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-007</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Explain Bayes with a worked medical-test example for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-008</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Explain a FrontierMath-style problem's structure without solving for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-009</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Build a probability model with assumptions stated for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-010</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Build intuition for eigenvalues with worked cases for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-011</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Translate a word problem into equations cleanly for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-012</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Solve a number-theory problem with modular reasoning for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-013</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Verify a proof step by step and flag gaps for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-014</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Find a counterexample to a plausible conjecture for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-015</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Explore prime gaps computationally with a plan for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-016</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Prove a combinatorial identity with a clear lemma chain for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-017</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Prove an inequality with named theorems for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-018</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Write a solution sketch plus a full-solution expansion for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-019</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Analyze a recurrence with generating functions for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-020</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Design a practice set that ramps difficulty for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-021</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Design a counting argument with bijection for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-022</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Explain Bayes with a worked medical-test example for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-023</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Explain a FrontierMath-style problem's structure without solving for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-024</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Build a probability model with assumptions stated for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-025</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Build intuition for eigenvalues with worked cases for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-026</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Translate a word problem into equations cleanly for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-027</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Solve a number-theory problem with modular reasoning for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-028</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Verify a proof step by step and flag gaps for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-029</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Find a counterexample to a plausible conjecture for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-030</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Explore prime gaps computationally with a plan for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-031</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Prove a combinatorial identity with a clear lemma chain for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 31.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-032</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Prove an inequality with named theorems for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 32.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-033</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Write a solution sketch plus a full-solution expansion for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 33.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-034</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Analyze a recurrence with generating functions for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 34.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-035</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Design a practice set that ramps difficulty for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 35.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-036</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Design a counting argument with bijection for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 36.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-037</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Explain Bayes with a worked medical-test example for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 37.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-038</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Explain a FrontierMath-style problem's structure without solving for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 38.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-039</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Build a probability model with assumptions stated for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 39.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-040</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Build intuition for eigenvalues with worked cases for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 40.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-041</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Translate a word problem into equations cleanly for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 41.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-042</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Solve a number-theory problem with modular reasoning for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 42.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-043</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Verify a proof step by step and flag gaps for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 43.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-044</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Find a counterexample to a plausible conjecture for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 44.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-045</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Explore prime gaps computationally with a plan for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 45.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-046</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Prove a combinatorial identity with a clear lemma chain for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 46.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-047</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Prove an inequality with named theorems for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 47.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-048</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Write a solution sketch plus a full-solution expansion for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 48.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-049</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Analyze a recurrence with generating functions for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 49.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-050</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Design a practice set that ramps difficulty for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 50.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-051</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Design a counting argument with bijection for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 51.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-052</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Explain Bayes with a worked medical-test example for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 52.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-053</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Explain a FrontierMath-style problem's structure without solving for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 53.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-054</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Build a probability model with assumptions stated for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 54.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-055</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Build intuition for eigenvalues with worked cases for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 55.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-056</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Translate a word problem into equations cleanly for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 56.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-057</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Solve a number-theory problem with modular reasoning for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 57.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-058</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Verify a proof step by step and flag gaps for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 58.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-059</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Find a counterexample to a plausible conjecture for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 59.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-060</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Explore prime gaps computationally with a plan for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 60.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-061</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Prove a combinatorial identity with a clear lemma chain for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 61.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-062</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Prove an inequality with named theorems for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 62.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-063</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Write a solution sketch plus a full-solution expansion for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 63.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-064</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Analyze a recurrence with generating functions for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 64.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-065</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Design a practice set that ramps difficulty for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 65.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-066</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Design a counting argument with bijection for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 66.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-067</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Explain Bayes with a worked medical-test example for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 67.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-068</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Explain a FrontierMath-style problem's structure without solving for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 68.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-069</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Build a probability model with assumptions stated for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 69.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-070</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Build intuition for eigenvalues with worked cases for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 70.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-071</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Translate a word problem into equations cleanly for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 71.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-072</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Solve a number-theory problem with modular reasoning for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 72.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-073</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Verify a proof step by step and flag gaps for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 73.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-074</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Find a counterexample to a plausible conjecture for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 74.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-075</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Explore prime gaps computationally with a plan for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 75.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-076</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Prove a combinatorial identity with a clear lemma chain for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 76.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-077</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Prove an inequality with named theorems for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 77.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-078</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Write a solution sketch plus a full-solution expansion for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 78.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-079</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Analyze a recurrence with generating functions for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 79.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-080</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Design a practice set that ramps difficulty for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 80.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-081</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Design a counting argument with bijection for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 81.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-082</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Explain Bayes with a worked medical-test example for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 82.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-083</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Explain a FrontierMath-style problem's structure without solving for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 83.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-084</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Build a probability model with assumptions stated for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 84.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-085</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Build intuition for eigenvalues with worked cases for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 85.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-086</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Translate a word problem into equations cleanly for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 86.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-087</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Solve a number-theory problem with modular reasoning for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 87.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-088</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Verify a proof step by step and flag gaps for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 88.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-089</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Find a counterexample to a plausible conjecture for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 89.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-090</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Explore prime gaps computationally with a plan for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 90.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-091</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Prove a combinatorial identity with a clear lemma chain for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 91.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-092</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Prove an inequality with named theorems for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 92.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-093</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Write a solution sketch plus a full-solution expansion for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 93.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-094</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Analyze a recurrence with generating functions for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 94.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-095</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Design a practice set that ramps difficulty for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 95.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-096</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Design a counting argument with bijection for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 96.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-097</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Explain Bayes with a worked medical-test example for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 97.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-098</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Explain a FrontierMath-style problem's structure without solving for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 98.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-099</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Build a probability model with assumptions stated for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 99.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-100</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Build intuition for eigenvalues with worked cases for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 100.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-101</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Translate a word problem into equations cleanly for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 101.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-102</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Solve a number-theory problem with modular reasoning for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 102.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-103</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Verify a proof step by step and flag gaps for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 103.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-104</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Find a counterexample to a plausible conjecture for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 104.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-105</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Explore prime gaps computationally with a plan for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 105.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-106</code> - prove a combinatorial identity with a clear lemma chain (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Prove a combinatorial identity with a clear lemma chain for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 106.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-107</code> - prove an inequality with named theorems (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Prove an inequality with named theorems for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 107.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-108</code> - write a solution sketch plus a full-solution expansion (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Write a solution sketch plus a full-solution expansion for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 108.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-109</code> - analyze a recurrence with generating functions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Analyze a recurrence with generating functions for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 109.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-110</code> - design a practice set that ramps difficulty (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Design a practice set that ramps difficulty for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 110.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-111</code> - design a counting argument with bijection (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Design a counting argument with bijection for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 111.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-112</code> - explain Bayes with a worked medical-test example (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Explain Bayes with a worked medical-test example for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 112.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-113</code> - explain a FrontierMath-style problem's structure without solving (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Explain a FrontierMath-style problem's structure without solving for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 113.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-114</code> - build a probability model with assumptions stated (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Build a probability model with assumptions stated for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 114.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-115</code> - build intuition for eigenvalues with worked cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior mathematician aide.
+Build intuition for eigenvalues with worked cases for a contest student.
+The intended result is a rigorous solution.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 115.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-116</code> - translate a word problem into equations cleanly (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert contest coach.
+Translate a word problem into equations cleanly for a teacher.
+The intended result is an intuition-plus-proof pair.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 116.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-117</code> - solve a number-theory problem with modular reasoning (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a patient proof tutor.
+Solve a number-theory problem with modular reasoning for a study group.
+The intended result is a verification report.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 117.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-118</code> - verify a proof step by step and flag gaps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior statistics mentor.
+Verify a proof step by step and flag gaps for a curious adult.
+The intended result is a practice set with hints.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 118.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-119</code> - find a counterexample to a plausible conjecture (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert discrete-math guide.
+Find a counterexample to a plausible conjecture for a researcher.
+The intended result is a counterexample with check.
+Requirements: show each logical step; name theorems used; separate proof from intuition explicitly.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 119.
+```
+</details>
+
+<details>
+<summary><code>math-frontier-120</code> - explore prime gaps computationally with a plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior olympiad trainer.
+Explore prime gaps computationally with a plan for an undergrad.
+The intended result is a lemma chain outline.
+Requirements: check edge cases and small n by hand; no hand-waving; quantify where possible.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 120.
+```
+</details>

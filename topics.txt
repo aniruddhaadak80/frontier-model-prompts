@@ -14,3 +14,8 @@ browser-automation
 multi-agent
 reasoning
 awesome
+claude-opus
+gemini
+muse-wonder
+kimi
+multi-model

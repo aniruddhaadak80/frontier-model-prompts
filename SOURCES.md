@@ -1,4 +1,14 @@
-# SOURCES - accessed 2026-09-10
+# SOURCES - accessed 2026-10-28
+
+## Additional models (added 2026-10-28)
+- https://platform.claude.com/docs/en/models/opus-5-5/overview - Claude Opus 5.5 specs, pricing, capabilities
+- https://www.anthropic.com/claude-opus-5-5 - announcement
+- https://deepmind.google/models/model-cards/gemini-4-argon/ - Gemini 4 Argon model card
+- https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ - Gemini 4 Argon blog
+- https://ai.google.dev/gemini-api/docs/models/gemini-4-argon - Gemini API docs
+- https://research.meta.ai/blog/muse-wonder - Muse Wonder model card
+- https://www.analyticsvidhya.com/blog/2026/10/kimi-k3-1-pro-review/ - Kimi K 3.1 Pro review
+- https://www.geeky-gadgets.com/kimi-k3-1-ai-model-benchmarks/ - Kimi K 3.1 benchmarks
 
 ## Official (OpenAI / GitHub / mirror specs)
 

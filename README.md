@@ -1,18 +1,21 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-3360-orange" alt="3360 prompts">
+  <img src="https://img.shields.io/badge/prompts-16800-orange" alt="16800 prompts">
+  <img src="https://img.shields.io/badge/models-5-blueviolet" alt="5 models">
   <img src="https://img.shields.io/badge/categories-28-yellow" alt="28 categories">
   <img src="https://img.shields.io/badge/unique-100_percent-brightgreen" alt="100 percent unique">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license">
   <img src="https://img.shields.io/badge/showcase-live-brightgreen" alt="showcase live">
-  <img src="https://img.shields.io/badge/updated-2026--09--10-informational" alt="updated Sept 10 2026">
+  <img src="https://img.shields.io/badge/updated-2026--10--28-informational" alt="updated Oct 28 2026">
 </p>
 
-<h1 align="center">GPT-6 Astra Awesome Hub</h1>
+<h1 align="center">Frontier Model Prompt Universe</h1>
 
 <p align="center">
-  <b>3,360 copy-paste GPT-6 Astra prompts, carousel navigator, real community builds index, API quickstarts, safety notes</b>
+  <b>16,800 copy-paste prompts across 5 frontier models: GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1 Pro</b>
   <br>
-  Launch-aware: GPT-6 Astra shipped <b>Sept 3 to 4, 2026</b>. The public ecosystem is days old. This repo stays factual about that.
+  28 categories x 120 prompts per model. Carousel navigator, real community builds index, API quickstarts, safety notes.
+  <br>
+  Launch-aware: every model here shipped between Sept and Oct 2026. This repo stays factual about that.
 </p>
 
 <p align="center">
@@ -149,6 +152,52 @@ For strictly found material, use the builds table plus `SOURCES.md`. For a worki
 
 ---
 
+## Models covered
+
+Five frontier models, one prompt library. Each pack ships 28 categories x 120 prompts with markdown, JSONL, CSV, and an index.
+
+| Model | Provider | Model ID | Context | Max out | Price (in/out per MTok) | Knowledge cutoff | Strengths |
+|---|---|---|---|---|---|---|---|
+| GPT-6 Astra | OpenAI | `gpt-6-astra` | 1,050,000 | 128,000 | $10 / $50 | Apr 2026 | Agentic coding, 3D, computer use, long context |
+| Claude Opus 5.5 | Anthropic | `claude-opus-5-5` | 1,000,000 | 128,000 | $4 / $20 | Jun 2026 | Long-running agentic coding, vision, computer use |
+| Gemini 4 Argon | Google | `gemini-4-argon` | 1,000,000 | 1,000,000 | (see Google) | Mar 2026 | Deep visual perception, finance/legal, cybersecurity |
+| Muse Wonder | Meta | `muse-wonder` | long-context | - | $4 / $20 | Oct 2026 | Active memory, goal persistence, agentic tasks |
+| Kimi K 3.1 Pro | Moonshot | `kimi-k-3-1-pro` | 1,000,000 | - | open weights (Nov 4 2026) | - | Coding agents, 3D generation, cost-efficient |
+
+```mermaid
+flowchart LR
+  A[Prompt Universe] --> B[GPT-6 Astra]
+  A --> C[Claude Opus 5.5]
+  A --> D[Gemini 4 Argon]
+  A --> E[Muse Wonder]
+  A --> F[Kimi K 3.1 Pro]
+  B --> G[28 categories x 120]
+  C --> G
+  D --> G
+  E --> G
+  F --> G
+```
+
+### Where each pack lives
+
+| Pack | Path |
+|---|---|
+| GPT-6 Astra | `prompts/` (root) |
+| Claude Opus 5.5 | `models/opus-5-5/` |
+| Gemini 4 Argon | `models/gemini-4-argon/` |
+| Muse Wonder | `models/muse-wonder/` |
+| Kimi K 3.1 Pro | `models/kimi-k-3-1/` |
+
+### Model control knobs
+
+| Model | Control parameter |
+|---|---|
+| GPT-6 Astra | `reasoning.effort`: low / medium / high / xhigh / max |
+| Claude Opus 5.5 | Adaptive thinking (always on) + `effort`: low / medium / high / xhigh / max |
+| Gemini 4 Argon | Thinking level: low / medium / high |
+| Muse Wonder | Reasoning depth: quick / balanced / deep / deeper / max |
+| Kimi K 3.1 Pro | Thinking mode: off / low / medium / high / max |
+
 ## Highlights
 
 | Highlight | Detail |
@@ -190,7 +239,8 @@ Press `?` anywhere for the keyboard map. Press `/` to jump back into search from
 
 | Slice | Count | Share |
 |---|---|---|
-| Total prompts | 3360 | 100 percent |
+| Total prompts (all models) | 16800 | 100 percent |
+| Prompts per model | 3360 | 5 models |
 | Low-level starters | 864 | 25.7 percent |
 | Medium-level builds | 1584 | 47.1 percent |
 | High-level deep work | 912 | 27.1 percent |
@@ -555,20 +605,36 @@ Measure full-task cost with retries, not list price. Pin effort per task type af
 
 ## Architecture and data flow
 
-How the 3360 prompts flow from generator to every surface:
+How the 16,800 prompts flow from generators to every surface:
 
 ```text
-scripts/generate_prompts.py  (28 categories x 120, deterministic, SHA-256 checked)
-  -> prompts/NN-name.md      (collapsible details blocks, circular Prev and Next)
-  -> prompts/prompts.jsonl   (id, category, prompt, one row per line)
-  -> prompts/prompts.csv     (same rows, spreadsheet friendly)
-  -> prompts/prompts_index.json plus prompts_index.json (search indexes)
-  -> categories.json         (28-entry manifest with counts)
-  -> web/data/build-data.py  (adds effort tags parsed from prompt text)
-    -> web/data/prompts.json plus web/data/categories.json (bundled with the app)
-      -> Next.js static export (web/out) -> Vercel preview and production
-  -> docs/carousel.html      (dependency-free interactive carousel)
+scripts/generate_prompts.py          (GPT-6 Astra: 28 categories x 120)
+scripts/generate_model_prompts.py    (Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1: 4 x 28 x 120)
+  -> prompts/NN-name.md             (Astra, root)
+  -> models/<slug>/prompts/NN-name.md (per model)
+  -> prompts/prompts.jsonl + models/<slug>/prompts/prompts.jsonl
+  -> prompts/prompts.csv + models/<slug>/prompts/prompts.csv
+  -> prompts/prompts_index.json + models/<slug>/prompts/prompts_index.json
+  -> categories.json + models/<slug>/categories.json
+  -> web/data/build-data.py         (Astra showcase data)
+    -> web/data/prompts.json + web/data/categories.json
+      -> Next.js static export (web/out) -> Vercel
+  -> docs/carousel.html             (dependency-free interactive carousel)
 scripts/verify_prompts.py plus .github/workflows/verify.yml guard every change
+```
+
+```mermaid
+flowchart TD
+  G1[generate_prompts.py] --> Astra[prompts/ Astra]
+  G2[generate_model_prompts.py] --> Opus[models/opus-5-5]
+  G2 --> Gem[models/gemini-4-argon]
+  G2 --> Muse[models/muse-wonder]
+  G2 --> Kimi[models/kimi-k-3-1]
+  Astra --> Web[Next.js showcase]
+  Opus --> Docs[README + models index]
+  Gem --> Docs
+  Muse --> Docs
+  Kimi --> Docs
 ```
 
 Single source of truth is the generator plus `prompts.jsonl`. Everything else derives from it, so counts can never drift between the repo, the carousel, and the showcase.
