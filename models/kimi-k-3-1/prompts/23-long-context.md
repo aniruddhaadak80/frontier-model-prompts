@@ -2727,3 +2727,690 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>long-context-121</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior knowledge engineer.
+Digest a 500-page manual into a task-indexed guide for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>long-context-122</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert archivist.
+Merge three handbooks into one canonical SOP for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>long-context-123</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal-discovery aide.
+Design a context-refresh plan for a long project for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>long-context-124</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal analyst.
+Find every mention of a deprecated flag for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>long-context-125</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior docs miner.
+Build a compliance evidence pack for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>long-context-126</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert librarian.
+Build a changelog across 50 release notes for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>long-context-127</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior knowledge engineer.
+Summarize a research corpus with gaps flagged for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>long-context-128</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert archivist.
+Summarize a monorepo's conventions from ten docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>long-context-129</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal-discovery aide.
+Create a personalized glossary from course material for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>long-context-130</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal analyst.
+Extract all action items from a year of meeting notes for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>long-context-131</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior docs miner.
+Trace a decision across emails and docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>long-context-132</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert librarian.
+Build a citation map for a claim family for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>long-context-133</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior knowledge engineer.
+Build a FAQ from 200 support threads for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>long-context-134</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert archivist.
+Reconcile conflicting specs across versions for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>long-context-135</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal-discovery aide.
+Audit a contract set for renewal dates for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>long-context-136</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal analyst.
+Digest a 500-page manual into a task-indexed guide for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>long-context-137</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior docs miner.
+Merge three handbooks into one canonical SOP for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>long-context-138</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert librarian.
+Design a context-refresh plan for a long project for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>long-context-139</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior knowledge engineer.
+Find every mention of a deprecated flag for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>long-context-140</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert archivist.
+Build a compliance evidence pack for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>long-context-141</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal-discovery aide.
+Build a changelog across 50 release notes for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>long-context-142</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal analyst.
+Summarize a research corpus with gaps flagged for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>long-context-143</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior docs miner.
+Summarize a monorepo's conventions from ten docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>long-context-144</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert librarian.
+Create a personalized glossary from course material for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>long-context-145</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior knowledge engineer.
+Extract all action items from a year of meeting notes for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>long-context-146</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert archivist.
+Trace a decision across emails and docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>long-context-147</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal-discovery aide.
+Build a citation map for a claim family for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>long-context-148</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal analyst.
+Build a FAQ from 200 support threads for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>long-context-149</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior docs miner.
+Reconcile conflicting specs across versions for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>long-context-150</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert librarian.
+Audit a contract set for renewal dates for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

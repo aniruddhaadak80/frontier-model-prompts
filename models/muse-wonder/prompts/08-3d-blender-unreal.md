@@ -2847,3 +2847,720 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>3d-blender-unreal-121</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior 3D artist.
+Block out a seaside house then add lived-in detail pass for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-122</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert Blender technical artist.
+Build a bottle-ship diorama with water and reef accents for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-123</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior environment artist.
+Retopology pass plan for a sculpt with pole-flow notes for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-124</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an Unreal scene assembler.
+Light a museum gallery for two camera framings for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-125</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a Three.js scene developer.
+Plan a shot list so actors stay in frame for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-126</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior lookdev artist.
+Model a steam-train vignette with named collections for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-127</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior 3D artist.
+Build a palace facade study with modular pieces for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-128</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert Blender technical artist.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-129</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior environment artist.
+Create an isometric office diorama with Chiaki-style warmth for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-130</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an Unreal scene assembler.
+Build a low-poly Manhattan block with street-level props for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-131</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a Three.js scene developer.
+Design a kitchen scene optimized for a laptop GPU for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-132</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior lookdev artist.
+Model a stylized wolf character with clean topology for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-133</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior 3D artist.
+Build a game-ready prop set with LOD notes for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-134</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert Blender technical artist.
+Reconstruct a room from listing photos with inferred dimensions for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-135</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior environment artist.
+Create a product turntable scene with studio lighting for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-136</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an Unreal scene assembler.
+Block out a seaside house then add lived-in detail pass for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-137</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a Three.js scene developer.
+Build a bottle-ship diorama with water and reef accents for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-138</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior lookdev artist.
+Retopology pass plan for a sculpt with pole-flow notes for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-139</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior 3D artist.
+Light a museum gallery for two camera framings for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-140</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert Blender technical artist.
+Plan a shot list so actors stay in frame for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-141</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior environment artist.
+Model a steam-train vignette with named collections for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-142</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an Unreal scene assembler.
+Build a palace facade study with modular pieces for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-143</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a Three.js scene developer.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-144</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior lookdev artist.
+Create an isometric office diorama with Chiaki-style warmth for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-145</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior 3D artist.
+Build a low-poly Manhattan block with street-level props for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-146</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert Blender technical artist.
+Design a kitchen scene optimized for a laptop GPU for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-147</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior environment artist.
+Model a stylized wolf character with clean topology for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-148</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an Unreal scene assembler.
+Build a game-ready prop set with LOD notes for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-149</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a Three.js scene developer.
+Reconstruct a room from listing photos with inferred dimensions for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-150</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior lookdev artist.
+Create a product turntable scene with studio lighting for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

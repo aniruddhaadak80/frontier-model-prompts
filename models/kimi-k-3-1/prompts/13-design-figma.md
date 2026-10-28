@@ -2667,3 +2667,675 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>design-figma-121</code> - redesign a dashboard using a compact table reference (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior product designer.
+Redesign a dashboard using a compact table reference for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>design-figma-122</code> - build a notification system with priority rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert design engineer.
+Build a notification system with priority rules for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>design-figma-123</code> - design a handoff pack developers will love (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior brand designer.
+Design a handoff pack developers will love for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>design-figma-124</code> - design a settings page that reuses existing patterns (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an UX writing lead.
+Design a settings page that reuses existing patterns for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>design-figma-125</code> - create a prototype test script with tasks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior design-system owner.
+Create a prototype test script with tasks for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>design-figma-126</code> - create a mobile checkout with trust signals (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert visual designer.
+Create a mobile checkout with trust signals for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>design-figma-127</code> - design a dark-mode pass with token mapping (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior product designer.
+Design a dark-mode pass with token mapping for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>design-figma-128</code> - design an onboarding flow with empty/error states (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert design engineer.
+Design an onboarding flow with empty/error states for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>design-figma-129</code> - build an icon usage guide with do/don'ts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior brand designer.
+Build an icon usage guide with do/don'ts for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>design-figma-130</code> - build a component spec with states and tokens (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an UX writing lead.
+Build a component spec with states and tokens for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>design-figma-131</code> - design an accessible form with help and errors (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior design-system owner.
+Design an accessible form with help and errors for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>design-figma-132</code> - turn a whiteboard sketch into a clickable flow (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert visual designer.
+Turn a whiteboard sketch into a clickable flow for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>design-figma-133</code> - create a landing hero with three tested variants (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior product designer.
+Create a landing hero with three tested variants for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>design-figma-134</code> - design a pricing page from two typography references (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert design engineer.
+Design a pricing page from two typography references for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>design-figma-135</code> - design a data-viz card with honest scales (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior brand designer.
+Design a data-viz card with honest scales for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>design-figma-136</code> - redesign a dashboard using a compact table reference (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an UX writing lead.
+Redesign a dashboard using a compact table reference for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>design-figma-137</code> - build a notification system with priority rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior design-system owner.
+Build a notification system with priority rules for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>design-figma-138</code> - design a handoff pack developers will love (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert visual designer.
+Design a handoff pack developers will love for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>design-figma-139</code> - design a settings page that reuses existing patterns (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior product designer.
+Design a settings page that reuses existing patterns for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>design-figma-140</code> - create a prototype test script with tasks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert design engineer.
+Create a prototype test script with tasks for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>design-figma-141</code> - create a mobile checkout with trust signals (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior brand designer.
+Create a mobile checkout with trust signals for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>design-figma-142</code> - design a dark-mode pass with token mapping (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an UX writing lead.
+Design a dark-mode pass with token mapping for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>design-figma-143</code> - design an onboarding flow with empty/error states (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior design-system owner.
+Design an onboarding flow with empty/error states for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>design-figma-144</code> - build an icon usage guide with do/don'ts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert visual designer.
+Build an icon usage guide with do/don'ts for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>design-figma-145</code> - build a component spec with states and tokens (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior product designer.
+Build a component spec with states and tokens for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>design-figma-146</code> - design an accessible form with help and errors (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert design engineer.
+Design an accessible form with help and errors for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>design-figma-147</code> - turn a whiteboard sketch into a clickable flow (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior brand designer.
+Turn a whiteboard sketch into a clickable flow for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>design-figma-148</code> - create a landing hero with three tested variants (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an UX writing lead.
+Create a landing hero with three tested variants for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>design-figma-149</code> - design a pricing page from two typography references (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior design-system owner.
+Design a pricing page from two typography references for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>design-figma-150</code> - design a data-viz card with honest scales (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert visual designer.
+Design a data-viz card with honest scales for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

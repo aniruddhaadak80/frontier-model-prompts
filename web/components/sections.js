@@ -326,11 +326,11 @@ export function SiteFooter() {
         <div>
           <b style={{ color: "var(--ink)" }}>Repo</b>
           <p>
-            <a href="https://github.com/aniruddhaadak80/gpt-6-astra-awesome" target="_blank" rel="noreferrer">GitHub repo</a>
+            <a href="https://github.com/aniruddhaadak80/frontier-model-prompts" target="_blank" rel="noreferrer">GitHub repo</a>
             <br />
-            <a href="https://github.com/aniruddhaadak80/gpt-6-astra-awesome/tree/main/prompts" target="_blank" rel="noreferrer">Prompt library</a>
+            <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/prompts" target="_blank" rel="noreferrer">Prompt library</a>
             <br />
-            <a href="https://github.com/aniruddhaadak80/gpt-6-astra-awesome/blob/main/docs/3d-advanced-guide.md" target="_blank" rel="noreferrer">Advanced 3D guide</a>
+            <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/blob/main/docs/3d-advanced-guide.md" target="_blank" rel="noreferrer">Advanced 3D guide</a>
           </p>
         </div>
         <div>

@@ -1,6 +1,6 @@
 # Muse Wonder Prompt Pack
 
-**3,360 copy-paste prompts** across 28 categories, tuned for `muse-wonder`.
+**4,650 copy-paste prompts** across 31 categories, tuned for `muse-wonder`.
 
 - Model: `muse-wonder`
 - Strengths: Long-context conversations, active memory, goal persistence, agentic tasks.

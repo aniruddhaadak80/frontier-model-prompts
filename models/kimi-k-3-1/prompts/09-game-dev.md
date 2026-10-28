@@ -2727,3 +2727,690 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>game-dev-121</code> - design a Fall Guys-style obstacle loop with elimination (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior game designer.
+Design a Fall Guys-style obstacle loop with elimination for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>game-dev-122</code> - design a 10v10 shooter map with spawns and lanes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert gameplay programmer.
+Design a 10v10 shooter map with spawns and lanes for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>game-dev-123</code> - build a tutorial, pause, and win-state shell for any prototype (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior systems designer.
+Build a tutorial, pause, and win-state shell for any prototype for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>game-dev-124</code> - prototype a kart racer grey-box with drift tuning (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an indie game producer.
+Prototype a kart racer grey-box with drift tuning for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>game-dev-125</code> - design a horror-vignette with sound-cue scares (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior level designer.
+Design a horror-vignette with sound-cue scares for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>game-dev-126</code> - build a Sim City-lite zoning and happiness loop (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert playtest lead.
+Build a Sim City-lite zoning and happiness loop for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>game-dev-127</code> - prototype a puzzle-platformer with three mechanics (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior game designer.
+Prototype a puzzle-platformer with three mechanics for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>game-dev-128</code> - create a roguelike deck-builder about AI founders (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert gameplay programmer.
+Create a roguelike deck-builder about AI founders for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>game-dev-129</code> - build a survival-coop agent sandbox with incentives (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior systems designer.
+Build a survival-coop agent sandbox with incentives for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>game-dev-130</code> - design a StarCraft-style RTS skirmish with two factions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an indie game producer.
+Design a StarCraft-style RTS skirmish with two factions for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>game-dev-131</code> - design a GTA-style driving sandbox with missions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior level designer.
+Design a GTA-style driving sandbox with missions for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>game-dev-132</code> - build a train-top FPS encounter with cover logic (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert playtest lead.
+Build a train-top FPS encounter with cover logic for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>game-dev-133</code> - create a Red Alert-style RTS harvest-and-attack loop (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior game designer.
+Create a Red Alert-style RTS harvest-and-attack loop for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>game-dev-134</code> - prototype a Star Fox-style rail shooter level (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert gameplay programmer.
+Prototype a Star Fox-style rail shooter level for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>game-dev-135</code> - build a Minecraft-style voxel sandbox starter (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior systems designer.
+Build a Minecraft-style voxel sandbox starter for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>game-dev-136</code> - design a Fall Guys-style obstacle loop with elimination (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an indie game producer.
+Design a Fall Guys-style obstacle loop with elimination for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>game-dev-137</code> - design a 10v10 shooter map with spawns and lanes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior level designer.
+Design a 10v10 shooter map with spawns and lanes for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>game-dev-138</code> - build a tutorial, pause, and win-state shell for any prototype (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert playtest lead.
+Build a tutorial, pause, and win-state shell for any prototype for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>game-dev-139</code> - prototype a kart racer grey-box with drift tuning (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior game designer.
+Prototype a kart racer grey-box with drift tuning for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>game-dev-140</code> - design a horror-vignette with sound-cue scares (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert gameplay programmer.
+Design a horror-vignette with sound-cue scares for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>game-dev-141</code> - build a Sim City-lite zoning and happiness loop (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior systems designer.
+Build a Sim City-lite zoning and happiness loop for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>game-dev-142</code> - prototype a puzzle-platformer with three mechanics (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an indie game producer.
+Prototype a puzzle-platformer with three mechanics for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>game-dev-143</code> - create a roguelike deck-builder about AI founders (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior level designer.
+Create a roguelike deck-builder about AI founders for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>game-dev-144</code> - build a survival-coop agent sandbox with incentives (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert playtest lead.
+Build a survival-coop agent sandbox with incentives for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>game-dev-145</code> - design a StarCraft-style RTS skirmish with two factions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior game designer.
+Design a StarCraft-style RTS skirmish with two factions for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>game-dev-146</code> - design a GTA-style driving sandbox with missions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert gameplay programmer.
+Design a GTA-style driving sandbox with missions for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>game-dev-147</code> - build a train-top FPS encounter with cover logic (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior systems designer.
+Build a train-top FPS encounter with cover logic for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>game-dev-148</code> - create a Red Alert-style RTS harvest-and-attack loop (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an indie game producer.
+Create a Red Alert-style RTS harvest-and-attack loop for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>game-dev-149</code> - prototype a Star Fox-style rail shooter level (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior level designer.
+Prototype a Star Fox-style rail shooter level for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>game-dev-150</code> - build a Minecraft-style voxel sandbox starter (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert playtest lead.
+Build a Minecraft-style voxel sandbox starter for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

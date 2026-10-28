@@ -2847,3 +2847,720 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>professional-docs-121</code> - draft a one-page project charter with scope, risks, and milestones (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior business writer.
+Draft a one-page project charter with scope, risks, and milestones for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-122</code> - create a client onboarding checklist with acceptance criteria (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a principal consultant.
+Create a client onboarding checklist with acceptance criteria for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-123</code> - draft a handover doc a new owner can run with (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an executive communications lead.
+Draft a handover doc a new owner can run with for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-124</code> - draft a policy doc with examples and edge cases (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior proposal manager.
+Draft a policy doc with examples and edge cases for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-125</code> - build a KPI dashboard spec with definitions and owners (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert technical communicator.
+Build a KPI dashboard spec with definitions and owners for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-126</code> - write a postmortem that is blameless and action-oriented (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Write a postmortem that is blameless and action-oriented for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-127</code> - write an escalation email that is firm but professional (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior business writer.
+Write an escalation email that is firm but professional for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-128</code> - build a project plan with owners, dates, and dependencies (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a principal consultant.
+Build a project plan with owners, dates, and dependencies for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-129</code> - create a decision log with options, trade-offs, and owner (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an executive communications lead.
+Create a decision log with options, trade-offs, and owner for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-130</code> - draft an RFP response outline mapped to each requirement (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior proposal manager.
+Draft an RFP response outline mapped to each requirement for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-131</code> - draft a statement of work with deliverables and exclusions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert technical communicator.
+Draft a statement of work with deliverables and exclusions for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-132</code> - create a meeting agenda that forces decisions, not updates (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Create a meeting agenda that forces decisions, not updates for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-133</code> - build a stakeholder update with risks and asks (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior business writer.
+Build a stakeholder update with risks and asks for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-134</code> - write a status report that executives can skim in 60 seconds (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a principal consultant.
+Write a status report that executives can skim in 60 seconds for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-135</code> - write release notes grouped by user impact (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an executive communications lead.
+Write release notes grouped by user impact for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-136</code> - draft a one-page project charter with scope, risks, and milestones (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior proposal manager.
+Draft a one-page project charter with scope, risks, and milestones for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-137</code> - create a client onboarding checklist with acceptance criteria (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert technical communicator.
+Create a client onboarding checklist with acceptance criteria for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-138</code> - draft a handover doc a new owner can run with (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Draft a handover doc a new owner can run with for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-139</code> - draft a policy doc with examples and edge cases (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior business writer.
+Draft a policy doc with examples and edge cases for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-140</code> - build a KPI dashboard spec with definitions and owners (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a principal consultant.
+Build a KPI dashboard spec with definitions and owners for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-141</code> - write a postmortem that is blameless and action-oriented (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an executive communications lead.
+Write a postmortem that is blameless and action-oriented for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-142</code> - write an escalation email that is firm but professional (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior proposal manager.
+Write an escalation email that is firm but professional for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-143</code> - build a project plan with owners, dates, and dependencies (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert technical communicator.
+Build a project plan with owners, dates, and dependencies for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-144</code> - create a decision log with options, trade-offs, and owner (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Create a decision log with options, trade-offs, and owner for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-145</code> - draft an RFP response outline mapped to each requirement (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior business writer.
+Draft an RFP response outline mapped to each requirement for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-146</code> - draft a statement of work with deliverables and exclusions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a principal consultant.
+Draft a statement of work with deliverables and exclusions for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-147</code> - create a meeting agenda that forces decisions, not updates (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an executive communications lead.
+Create a meeting agenda that forces decisions, not updates for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-148</code> - build a stakeholder update with risks and asks (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior proposal manager.
+Build a stakeholder update with risks and asks for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-149</code> - write a status report that executives can skim in 60 seconds (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert technical communicator.
+Write a status report that executives can skim in 60 seconds for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-150</code> - write release notes grouped by user impact (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Write release notes grouped by user impact for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

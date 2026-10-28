@@ -3,13 +3,13 @@
 ## Settings → About → Description (160 chars shown, full allowed)
 
 ```text
-🌌 GPT-6 Astra Awesome Hub - 3,360+ copy-paste prompts, carousel navigator, real community builds index, API quickstarts & safety notes (Sept 2026 launch).
+🌌 Frontier Model Prompts - 3,360+ copy-paste prompts, carousel navigator, real community builds index, API quickstarts & safety notes (Sept 2026 launch).
 ```
 
 ## Settings → About → Website
 
 ```text
-https://github.com/aniruddhaadak80/gpt-6-astra-awesome/blob/main/docs/carousel.html
+https://github.com/aniruddhaadak80/frontier-model-prompts/blob/main/docs/carousel.html
 ```
 
 (Enable Pages → Deploy from branch → `/docs` for a live carousel URL, then replace Website with the Pages URL.)
@@ -23,8 +23,8 @@ gpt-6-astra, openai, prompt-engineering, ai-agents, computer-use, llm-prompts, a
 CLI:
 
 ```bash
-gh repo edit aniruddhaadak80/gpt-6-astra-awesome \
- --description "🌌 GPT-6 Astra Awesome Hub - 3,360+ copy-paste prompts, carousel navigator, real community builds index, API quickstarts & safety notes (Sept 2026 launch)." \
+gh repo edit aniruddhaadak80/frontier-model-prompts \
+ --description "🌌 Frontier Model Prompts - 3,360+ copy-paste prompts, carousel navigator, real community builds index, API quickstarts & safety notes (Sept 2026 launch)." \
  --add-topic gpt-6-astra --add-topic openai --add-topic prompt-engineering \
  --add-topic ai-agents --add-topic computer-use --add-topic llm-prompts \
  --add-topic awesome-list --add-topic github-copilot --add-topic codex \

@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-16800-orange" alt="16800 prompts">
+  <img src="https://img.shields.io/badge/prompts-23250-orange" alt="23250 prompts">
   <img src="https://img.shields.io/badge/models-5-blueviolet" alt="5 models">
-  <img src="https://img.shields.io/badge/categories-28-yellow" alt="28 categories">
+  <img src="https://img.shields.io/badge/categories-31-yellow" alt="31 categories">
   <img src="https://img.shields.io/badge/unique-100_percent-brightgreen" alt="100 percent unique">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license">
   <img src="https://img.shields.io/badge/showcase-live-brightgreen" alt="showcase live">
@@ -11,7 +11,7 @@
 <h1 align="center">Frontier Model Prompt Universe</h1>
 
 <p align="center">
-  <b>16,800 copy-paste prompts across 5 frontier models: GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1 Pro</b>
+  <b>23,250 copy-paste prompts across 5 frontier models: GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1 Pro</b>
   <br>
   28 categories x 120 prompts per model. Carousel navigator, real community builds index, API quickstarts, safety notes.
   <br>
@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="https://gpt-6-astra-showcase.vercel.app"><img src="https://img.shields.io/badge/open_live_showcase-orange" alt="Open live showcase"></a>
-  <a href="https://github.com/aniruddhaadak80/gpt-6-astra-awesome/tree/main/prompts"><img src="https://img.shields.io/badge/browse-3360_prompts-yellow" alt="Browse 3360 prompts"></a>
-  <a href="https://github.com/aniruddhaadak80/gpt-6-astra-awesome/blob/main/docs/3d-advanced-guide.md"><img src="https://img.shields.io/badge/advanced-3D_guide-blue" alt="Advanced 3D guide"></a>
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/aniruddhaadak80/gpt-6-astra-awesome&amp;root-directory=web"><img src="https://vercel.com/button" alt="Deploy with Vercel"></a>
+  <a href="https://frontier-model-prompts-showcase.vercel.app"><img src="https://img.shields.io/badge/open_live_showcase-orange" alt="Open live showcase"></a>
+  <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/prompts"><img src="https://img.shields.io/badge/browse-3360_prompts-yellow" alt="Browse 3360 prompts"></a>
+  <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/blob/main/docs/3d-advanced-guide.md"><img src="https://img.shields.io/badge/advanced-3D_guide-blue" alt="Advanced 3D guide"></a>
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/aniruddhaadak80/frontier-model-prompts&amp;root-directory=web"><img src="https://vercel.com/button" alt="Deploy with Vercel"></a>
 </p>
 
 <p align="center">
@@ -37,8 +37,8 @@
 
 The full library now runs as a cinematic web app: all 3360 prompts hard-coded in the bundle, one-click copy, dropdown filters, advanced search, animated hero with particle canvas, scroll reveals, stat counters, marquee ticker, 3D pipeline timeline, builds gallery, framework, quickstart, safety, and sources.
 
-- **Production URL:** https://gpt-6-astra-showcase.vercel.app
-- **Project:** `gpt-6-astra-showcase` under the account workspace, root directory `web`, auto-deploys every push to `main` once the Git integration is connected. Fresh deploys from an authenticated shell use `npx vercel deploy --prod` inside `web/`.
+- **Production URL:** https://frontier-model-prompts-showcase.vercel.app
+- **Project:** `frontier-model-prompts-showcase` under the account workspace, root directory `web`, auto-deploys every push to `main` once the Git integration is connected. Fresh deploys from an authenticated shell use `npx vercel deploy --prod` inside `web/`.
 - **Run locally:** `cd web`, `npm install`, `npm run dev`, open the printed localhost address.
 - **Regenerate data:** `cd web`, `py data/build-data.py`, then rebuild. The bundle reads `web/data/prompts.json` plus `web/data/categories.json`, both generated from `prompts/prompts.jsonl`.
 - **Palette:** obsidian black, amber, signal orange, teal, sky. No purple, no pink anywhere in the interface.
@@ -217,7 +217,7 @@ flowchart LR
 
 ## Visual tour
 
-A screen-by-screen walk of the [live showcase](https://gpt-6-astra-showcase.vercel.app). Open each stop in order for the full first-visit arc.
+A screen-by-screen walk of the [live showcase](https://frontier-model-prompts-showcase.vercel.app). Open each stop in order for the full first-visit arc.
 
 | Stop | Screen | What to do there |
 |---|---|---|
@@ -239,8 +239,8 @@ Press `?` anywhere for the keyboard map. Press `/` to jump back into search from
 
 | Slice | Count | Share |
 |---|---|---|
-| Total prompts (all models) | 16800 | 100 percent |
-| Prompts per model | 3360 | 5 models |
+| Total prompts (all models) | 23250 | 100 percent |
+| Prompts per model | 4650 | 5 models |
 | Low-level starters | 864 | 25.7 percent |
 | Medium-level builds | 1584 | 47.1 percent |
 | High-level deep work | 912 | 27.1 percent |
@@ -423,7 +423,7 @@ Swap one slot at a time: new role, new task, new audience, tighter constraints, 
 > **3,360 prompts, 28 categories, 120 each, all unique with SHA-256 verification.**
 > Each file uses collapsible sections. Click a title to expand it top to bottom, then use the copy icon on the inner code block. Text wraps vertically. There is no left to right scrolling.
 > Interactive version with search plus prev, next, random, and keyboard support: [`docs/carousel.html`](docs/carousel.html).
-> Cinematic version with filters and animations: [live showcase](https://gpt-6-astra-showcase.vercel.app).
+> Cinematic version with filters and animations: [live showcase](https://frontier-model-prompts-showcase.vercel.app).
 > Machine-readable: [`prompts/prompts.jsonl`](prompts/prompts.jsonl), [`prompts/prompts.csv`](prompts/prompts.csv), [`prompts/prompts_index.json`](prompts/prompts_index.json).
 
 | Number | Card | Coverage | Open |
@@ -472,7 +472,7 @@ Each category file header links Index, Prev, Next, Search, and Carousel, so navi
 
 **Showcase path:**
 
-1. Open the [live showcase](https://gpt-6-astra-showcase.vercel.app).
+1. Open the [live showcase](https://frontier-model-prompts-showcase.vercel.app).
 2. Type in advanced search, pick the category dropdown, filter by difficulty or effort, sort, or hit Surprise me. The navbar search filters the same vault from anywhere on the page.
 3. Skim the number, summary, preview, and difficulty tag, expand any card downward, and press Copy prompt. Clipboard feedback confirms the copy. Press ? at any time for the keyboard map.
 
@@ -525,7 +525,7 @@ This hub treats 3D as a first-class pipeline, not a novelty, because the stronge
 
 **Full advanced playbook:** [`docs/3d-advanced-guide.md`](docs/3d-advanced-guide.md)
 **Prompt pack:** [`prompts/08-3d-blender-unreal.md`](prompts/08-3d-blender-unreal.md)
-**Visual run-through:** [live showcase 3D pipeline](https://gpt-6-astra-showcase.vercel.app#pipeline)
+**Visual run-through:** [live showcase 3D pipeline](https://frontier-model-prompts-showcase.vercel.app#pipeline)
 
 **Stage-gate pipeline used across the 3D prompts:**
 
@@ -605,7 +605,7 @@ Measure full-task cost with retries, not list price. Pin effort per task type af
 
 ## Architecture and data flow
 
-How the 16,800 prompts flow from generators to every surface:
+How the 23,250 prompts flow from generators to every surface:
 
 ```text
 scripts/generate_prompts.py          (GPT-6 Astra: 28 categories x 120)
@@ -740,7 +740,7 @@ Independent builds worth cross-checking against this hub. Listed for orientation
 ## Repo map
 
 ```text
-gpt-6-astra-awesome/
+frontier-model-prompts/
 - README.md, hub plus carousel plus showcase links
 - REPO_META.md, description, topics, homepage notes (kept out of this README by request)
 - topics.txt, one topic per line
@@ -797,7 +797,7 @@ npm run build
 **Deploy paths:**
 
 1. One-click: use the Deploy button at the top with root directory `web`.
-2. Dashboard: import `aniruddhaadak80/gpt-6-astra-awesome` in Vercel, set root directory to `web`, deploy.
+2. Dashboard: import `aniruddhaadak80/frontier-model-prompts` in Vercel, set root directory to `web`, deploy.
 3. CLI from an authenticated shell: `cd web`, then `vercel deploy --prod`.
 4. Git integration: connect the repo in the Vercel dashboard so every push to `main` ships automatically.
 
@@ -897,7 +897,7 @@ MIT, see [`LICENSE`](LICENSE). Builds and demos belong to their creators, linked
 
 <p align="center">
 <a href="#carousel-jump-anything-to-anything">Back to carousel</a> -
-<a href="https://gpt-6-astra-showcase.vercel.app">Live showcase</a> -
+<a href="https://frontier-model-prompts-showcase.vercel.app">Live showcase</a> -
 <a href="docs/carousel.html">Interactive carousel</a> -
 <a href="prompts/01-agentic-coding.md">Start copying</a> -
 <a href="docs/3d-advanced-guide.md">Advanced 3D guide</a>

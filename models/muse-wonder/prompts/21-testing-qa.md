@@ -2967,3 +2967,750 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>testing-qa-121</code> - write targeted tests for a one-line fix without over-testing (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior QA engineer.
+Write targeted tests for a one-line fix without over-testing for a web app.
+The intended result is a test plan with cases.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning depth: `quick`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-122</code> - create a data-migration verification plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert test automation lead.
+Create a data-migration verification plan for a game build.
+The intended result is a flake backlog.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning depth: `balanced`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-123</code> - build a test-data factory plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior SDET.
+Build a test-data factory plan for a data pipeline.
+The intended result is a gate checklist.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning depth: `deep`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-124</code> - build a mobile-layout QA checklist (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff release engineer.
+Build a mobile-layout QA checklist for a CLI.
+The intended result is a bug list with repro.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning depth: `deeper`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-125</code> - write a bug report that gets fixed fast (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior accessibility auditor.
+Write a bug report that gets fixed fast for a mobile web view.
+The intended result is a QA report with evidence.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning depth: `max`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-126</code> - write accessibility checks for a form (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert performance tester.
+Write accessibility checks for a form for an API.
+The intended result is targeted tests plus rationale.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning depth: `quick`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-127</code> - design a release gate with quality bars (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior QA engineer.
+Design a release gate with quality bars for a web app.
+The intended result is a test plan with cases.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning depth: `balanced`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-128</code> - design a load-test plan with thresholds (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert test automation lead.
+Design a load-test plan with thresholds for a game build.
+The intended result is a flake backlog.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning depth: `deep`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-129</code> - create a flaky-test triage workflow (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior SDET.
+Create a flaky-test triage workflow for a data pipeline.
+The intended result is a gate checklist.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning depth: `deeper`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-130</code> - create API contract tests with edge cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff release engineer.
+Create API contract tests with edge cases for a CLI.
+The intended result is a bug list with repro.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning depth: `max`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-131</code> - build a visual-regression checklist vs reference (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior accessibility auditor.
+Build a visual-regression checklist vs reference for a mobile web view.
+The intended result is a QA report with evidence.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning depth: `quick`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-132</code> - build a browser test plan for a booking flow (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert performance tester.
+Build a browser test plan for a booking flow for an API.
+The intended result is targeted tests plus rationale.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning depth: `balanced`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-133</code> - write a security smoke-test list (defensive) (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior QA engineer.
+Write a security smoke-test list (defensive) for a web app.
+The intended result is a test plan with cases.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning depth: `deep`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-134</code> - design a regression set for a refactor (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert test automation lead.
+Design a regression set for a refactor for a game build.
+The intended result is a flake backlog.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning depth: `deeper`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-135</code> - design a chaos-drill with abort criteria (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior SDET.
+Design a chaos-drill with abort criteria for a data pipeline.
+The intended result is a gate checklist.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning depth: `max`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-136</code> - write targeted tests for a one-line fix without over-testing (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff release engineer.
+Write targeted tests for a one-line fix without over-testing for a CLI.
+The intended result is a bug list with repro.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning depth: `quick`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-137</code> - create a data-migration verification plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior accessibility auditor.
+Create a data-migration verification plan for a mobile web view.
+The intended result is a QA report with evidence.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning depth: `balanced`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-138</code> - build a test-data factory plan (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert performance tester.
+Build a test-data factory plan for an API.
+The intended result is targeted tests plus rationale.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning depth: `deep`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-139</code> - build a mobile-layout QA checklist (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior QA engineer.
+Build a mobile-layout QA checklist for a web app.
+The intended result is a test plan with cases.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning depth: `deeper`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-140</code> - write a bug report that gets fixed fast (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert test automation lead.
+Write a bug report that gets fixed fast for a game build.
+The intended result is a flake backlog.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning depth: `max`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-141</code> - write accessibility checks for a form (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior SDET.
+Write accessibility checks for a form for a data pipeline.
+The intended result is a gate checklist.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning depth: `quick`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-142</code> - design a release gate with quality bars (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff release engineer.
+Design a release gate with quality bars for a CLI.
+The intended result is a bug list with repro.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning depth: `balanced`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-143</code> - design a load-test plan with thresholds (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior accessibility auditor.
+Design a load-test plan with thresholds for a mobile web view.
+The intended result is a QA report with evidence.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning depth: `deep`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-144</code> - create a flaky-test triage workflow (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert performance tester.
+Create a flaky-test triage workflow for an API.
+The intended result is targeted tests plus rationale.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning depth: `deeper`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-145</code> - create API contract tests with edge cases (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior QA engineer.
+Create API contract tests with edge cases for a web app.
+The intended result is a test plan with cases.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning depth: `max`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-146</code> - build a visual-regression checklist vs reference (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert test automation lead.
+Build a visual-regression checklist vs reference for a game build.
+The intended result is a flake backlog.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning depth: `quick`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-147</code> - build a browser test plan for a booking flow (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior SDET.
+Build a browser test plan for a booking flow for a data pipeline.
+The intended result is a gate checklist.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning depth: `balanced`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-148</code> - write a security smoke-test list (defensive) (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff release engineer.
+Write a security smoke-test list (defensive) for a CLI.
+The intended result is a bug list with repro.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning depth: `deep`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-149</code> - design a regression set for a refactor (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior accessibility auditor.
+Design a regression set for a refactor for a mobile web view.
+The intended result is a QA report with evidence.
+Requirements: scale testing to risk; justify full-suite runs; each test needs an oracle and a
+failure message.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning depth: `deeper`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>testing-qa-150</code> - design a chaos-drill with abort criteria (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert performance tester.
+Design a chaos-drill with abort criteria for an API.
+The intended result is targeted tests plus rationale.
+Requirements: cover happy, empty, invalid, and slow paths; record environment, seed, and version per
+run.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning depth: `max`.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

@@ -2907,3 +2907,735 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>migration-121</code> - migrate a Chat Completions tool app to the Responses API (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior migration lead.
+Migrate a Chat Completions tool app to the Responses API for a production API.
+The intended result is a migration checklist with sign-offs.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>migration-122</code> - migrate a RAG app's citation format to Astra style (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert API integrator.
+Migrate a RAG app's citation format to Astra style for a classroom codebase.
+The intended result is a launch note.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>migration-123</code> - run the $openai-docs migrate checklist with sign-off (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Run the $openai-docs migrate checklist with sign-off for an enterprise.
+The intended result is an updated prompt pack.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>migration-124</code> - re-baseline evals after the model swap (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a staff developer-experience engineer.
+Re-baseline evals after the model swap for a startup.
+The intended result is a rollback plan.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>migration-125</code> - migrate a support bot's verbosity to concise paragraphs (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior QA migration tester.
+Migrate a support bot's verbosity to concise paragraphs for a Cursor-style relay.
+The intended result is a config diff.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>migration-126</code> - migrate a multi-agent harness to Astra delegation norms (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert docs migrator.
+Migrate a multi-agent harness to Astra delegation norms for a Codex project.
+The intended result is a before/after eval table.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>migration-127</code> - build a rollback plan if Astra regresses a task (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior migration lead.
+Build a rollback plan if Astra regresses a task for a production API.
+The intended result is a migration checklist with sign-offs.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>migration-128</code> - update cache config for Astra's read/write pricing (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert API integrator.
+Update cache config for Astra's read/write pricing for a classroom codebase.
+The intended result is a launch note.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>migration-129</code> - migrate structured-output schemas with semantic prompts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Migrate structured-output schemas with semantic prompts for an enterprise.
+The intended result is an updated prompt pack.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>migration-130</code> - migrate a GPT-5.6 Sol agent to Astra's autonomy model (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a staff developer-experience engineer.
+Migrate a GPT-5.6 Sol agent to Astra's autonomy model for a startup.
+The intended result is a rollback plan.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>migration-131</code> - re-price a workload at $10/$50 with cache math (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior QA migration tester.
+Re-price a workload at $10/$50 with cache math for a Cursor-style relay.
+The intended result is a config diff.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>migration-132</code> - re-tune prompts that over-ask after moving to Astra (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert docs migrator.
+Re-tune prompts that over-ask after moving to Astra for a Codex project.
+The intended result is a before/after eval table.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>migration-133</code> - migrate a browser-use workflow with new stop rules (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior migration lead.
+Migrate a browser-use workflow with new stop rules for a production API.
+The intended result is a migration checklist with sign-offs.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>migration-134</code> - remove temperature/top_p/logprobs with behavior checks (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert API integrator.
+Remove temperature/top_p/logprobs with behavior checks for a classroom codebase.
+The intended result is a launch note.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>migration-135</code> - update AGENTS.md/SKILL.md priority blocks for Astra (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Update AGENTS.md/SKILL.md priority blocks for Astra for an enterprise.
+The intended result is an updated prompt pack.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>migration-136</code> - migrate a Chat Completions tool app to the Responses API (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a staff developer-experience engineer.
+Migrate a Chat Completions tool app to the Responses API for a startup.
+The intended result is a rollback plan.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>migration-137</code> - migrate a RAG app's citation format to Astra style (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior QA migration tester.
+Migrate a RAG app's citation format to Astra style for a Cursor-style relay.
+The intended result is a config diff.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>migration-138</code> - run the $openai-docs migrate checklist with sign-off (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert docs migrator.
+Run the $openai-docs migrate checklist with sign-off for a Codex project.
+The intended result is a before/after eval table.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>migration-139</code> - re-baseline evals after the model swap (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior migration lead.
+Re-baseline evals after the model swap for a production API.
+The intended result is a migration checklist with sign-offs.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>migration-140</code> - migrate a support bot's verbosity to concise paragraphs (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert API integrator.
+Migrate a support bot's verbosity to concise paragraphs for a classroom codebase.
+The intended result is a launch note.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>migration-141</code> - migrate a multi-agent harness to Astra delegation norms (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Migrate a multi-agent harness to Astra delegation norms for an enterprise.
+The intended result is an updated prompt pack.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>migration-142</code> - build a rollback plan if Astra regresses a task (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a staff developer-experience engineer.
+Build a rollback plan if Astra regresses a task for a startup.
+The intended result is a rollback plan.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>migration-143</code> - update cache config for Astra's read/write pricing (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior QA migration tester.
+Update cache config for Astra's read/write pricing for a Cursor-style relay.
+The intended result is a config diff.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>migration-144</code> - migrate structured-output schemas with semantic prompts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert docs migrator.
+Migrate structured-output schemas with semantic prompts for a Codex project.
+The intended result is a before/after eval table.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>migration-145</code> - migrate a GPT-5.6 Sol agent to Astra's autonomy model (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior migration lead.
+Migrate a GPT-5.6 Sol agent to Astra's autonomy model for a production API.
+The intended result is a migration checklist with sign-offs.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>migration-146</code> - re-price a workload at $10/$50 with cache math (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert API integrator.
+Re-price a workload at $10/$50 with cache math for a classroom codebase.
+The intended result is a launch note.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>migration-147</code> - re-tune prompts that over-ask after moving to Astra (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Re-tune prompts that over-ask after moving to Astra for an enterprise.
+The intended result is an updated prompt pack.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>migration-148</code> - migrate a browser-use workflow with new stop rules (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a staff developer-experience engineer.
+Migrate a browser-use workflow with new stop rules for a startup.
+The intended result is a rollback plan.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>migration-149</code> - remove temperature/top_p/logprobs with behavior checks (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior QA migration tester.
+Remove temperature/top_p/logprobs with behavior checks for a Cursor-style relay.
+The intended result is a config diff.
+Requirements: check interfaces, effort, deprecated params, cache item by item; validate single-task
+cost on your workload.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>migration-150</code> - update AGENTS.md/SKILL.md priority blocks for Astra (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert docs migrator.
+Update AGENTS.md/SKILL.md priority blocks for Astra for a Codex project.
+The intended result is a before/after eval table.
+Requirements: record before/after transcripts for review; keep a rollback branch until sign-off.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

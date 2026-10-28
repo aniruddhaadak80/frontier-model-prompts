@@ -162,7 +162,7 @@ export default function Home() {
                 if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
               }
             }}
-            placeholder="Search 3360 prompts, press / anytime"
+            placeholder="Search 4650 prompts, press / anytime"
             aria-label="Search prompts across the page"
           />
           <select
@@ -191,7 +191,7 @@ export default function Home() {
           </span>
           <a
             className="gh-link"
-            href="https://github.com/aniruddhaadak80/gpt-6-astra-awesome"
+            href="https://github.com/aniruddhaadak80/frontier-model-prompts"
             target="_blank"
             rel="noreferrer"
             aria-label="Open the GitHub repository"
@@ -238,10 +238,10 @@ export default function Home() {
             <br />
             starts from a <span className="gold">great prompt</span>.
             <br />
-            Here are <span className="sea">3,360</span> of them.
+            Here are <span className="sea">4,650</span> of them.
           </h1>
           <p className="lead">
-            A cinematic, searchable showcase for the GPT-6 Astra Awesome Hub. Filter 28
+            A cinematic, searchable showcase for the GPT-6 Astra Awesome Hub. Filter 31
             hard-coded categories, expand any card downward, and copy the full prompt in
             one click. No sideways scrolling, no guesswork.
           </p>
@@ -251,7 +251,7 @@ export default function Home() {
           </div>
           <div className="stats">
             <div className="stat">
-              <b><CountUp to={3360} /></b>
+              <b><CountUp to={4650} /></b>
               <span>Copy-ready prompts</span>
             </div>
             <div className="stat">

@@ -2787,3 +2787,705 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>structured-outputs-121</code> - define a ticket-triage schema with enums and confidence (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API designer.
+Define a ticket-triage schema with enums and confidence for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-122</code> - build a resume-parse schema with evidence spans (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert data-modeler.
+Build a resume-parse schema with evidence spans for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-123</code> - create a eval-row schema for prompt testing (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior integration engineer.
+Create a eval-row schema for prompt testing for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-124</code> - design an event-log schema with dedupe keys (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a prompt-interface designer.
+Design an event-log schema with dedupe keys for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-125</code> - build a translation-memory schema (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tooling engineer.
+Build a translation-memory schema for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-126</code> - create a catalog-item schema with variants (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert JSON-schema author.
+Create a catalog-item schema with variants for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-127</code> - design a deployment-manifest schema (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API designer.
+Design a deployment-manifest schema for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-128</code> - build a QA-report schema with severity enums (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert data-modeler.
+Build a QA-report schema with severity enums for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-129</code> - create a survey-response schema with scales (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior integration engineer.
+Create a survey-response schema with scales for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-130</code> - design a meeting-notes schema with owners/dates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a prompt-interface designer.
+Design a meeting-notes schema with owners/dates for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-131</code> - build a bug-report schema with repro steps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tooling engineer.
+Build a bug-report schema with repro steps for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-132</code> - create an invoice-line schema with totals validation (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert JSON-schema author.
+Create an invoice-line schema with totals validation for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-133</code> - design a course-outline schema with outcomes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API designer.
+Design a course-outline schema with outcomes for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-134</code> - build a product-review extraction schema (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert data-modeler.
+Build a product-review extraction schema for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-135</code> - create a recipe schema with units and steps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior integration engineer.
+Create a recipe schema with units and steps for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-136</code> - define a ticket-triage schema with enums and confidence (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a prompt-interface designer.
+Define a ticket-triage schema with enums and confidence for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-137</code> - build a resume-parse schema with evidence spans (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tooling engineer.
+Build a resume-parse schema with evidence spans for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-138</code> - create a eval-row schema for prompt testing (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert JSON-schema author.
+Create a eval-row schema for prompt testing for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-139</code> - design an event-log schema with dedupe keys (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API designer.
+Design an event-log schema with dedupe keys for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-140</code> - build a translation-memory schema (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert data-modeler.
+Build a translation-memory schema for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-141</code> - create a catalog-item schema with variants (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior integration engineer.
+Create a catalog-item schema with variants for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-142</code> - design a deployment-manifest schema (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a prompt-interface designer.
+Design a deployment-manifest schema for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-143</code> - build a QA-report schema with severity enums (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tooling engineer.
+Build a QA-report schema with severity enums for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-144</code> - create a survey-response schema with scales (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert JSON-schema author.
+Create a survey-response schema with scales for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-145</code> - design a meeting-notes schema with owners/dates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API designer.
+Design a meeting-notes schema with owners/dates for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-146</code> - build a bug-report schema with repro steps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert data-modeler.
+Build a bug-report schema with repro steps for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-147</code> - create an invoice-line schema with totals validation (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior integration engineer.
+Create an invoice-line schema with totals validation for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-148</code> - design a course-outline schema with outcomes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a prompt-interface designer.
+Design a course-outline schema with outcomes for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-149</code> - build a product-review extraction schema (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tooling engineer.
+Build a product-review extraction schema for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-150</code> - create a recipe schema with units and steps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert JSON-schema author.
+Create a recipe schema with units and steps for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

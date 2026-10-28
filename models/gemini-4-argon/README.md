@@ -1,6 +1,6 @@
 # Gemini 4 Argon Prompt Pack
 
-**3,360 copy-paste prompts** across 28 categories, tuned for `gemini-4-argon`.
+**4,650 copy-paste prompts** across 31 categories, tuned for `gemini-4-argon`.
 
 - Model: `gemini-4-argon`
 - Strengths: Deep visual perception, multimodal document analysis, finance/legal, cybersecurity defense.

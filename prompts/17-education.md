@@ -4,7 +4,7 @@
 
 > Safety: defensive / authorized-scope use only. Stop before destructive, irreversible, sending, purchasing, deleting, or permission-changing steps without approval.
 
-**Jump:** [Index](../README.md#category-carousel) · [Prev](16-business-ops.md) · [Next](18-math-frontier.md) · [Search all](prompts_index.json) · [Interactive carousel](../docs/carousel.html)
+**Jump:** [Index](../README.md#category-carousel) · [Prev](#) · [Next](#) · [Search all](prompts_index.json) · [Interactive carousel](../docs/carousel.html)
 
 How to use: click any prompt title to expand it top to bottom, then use the copy icon on the code block. Each block wraps vertically, so there is no left to right scrolling.
 
@@ -2243,5 +2243,572 @@ conflicting file if you must pause.
 Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
 assumptions and what you did not verify.
 Variant focus 120.
+```
+</details>
+
+<details>
+<summary><code>education-121</code> - teach recursion with three worked examples and checks (click to expand)</summary>
+
+```text
+Act as an expert tutor.
+Teach recursion with three worked examples and checks for a 5th grader.
+The intended result is a lesson with checks.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>education-122</code> - coach essay structure with a worked outline (click to expand)</summary>
+
+```text
+Act as a senior curriculum designer.
+Coach essay structure with a worked outline for ESL learners.
+The intended result is a cheat sheet.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>education-123</code> - create a final-review cheat sheet with examples (click to expand)</summary>
+
+```text
+Act as a patient math coach.
+Create a final-review cheat sheet with examples for a homeschool co-op.
+The intended result is a rubric.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>education-124</code> - build a quiz with explanations per answer (click to expand)</summary>
+
+```text
+Act as a senior science teacher.
+Build a quiz with explanations per answer for exam prep.
+The intended result is a worked example set.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>education-125</code> - coach presentation skills with a practice script (click to expand)</summary>
+
+```text
+Act as an expert language coach.
+Coach presentation skills with a practice script for an adult learner.
+The intended result is a quiz with answer key.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>education-126</code> - teach git branching with diagrams described (click to expand)</summary>
+
+```text
+Act as a senior study-skills coach.
+Teach git branching with diagrams described for a college freshman.
+The intended result is a study plan with milestones.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>education-127</code> - build a language drill set with corrections (click to expand)</summary>
+
+```text
+Act as an expert tutor.
+Build a language drill set with corrections for a 5th grader.
+The intended result is a lesson with checks.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>education-128</code> - design a lab activity with safety notes (click to expand)</summary>
+
+```text
+Act as a senior curriculum designer.
+Design a lab activity with safety notes for ESL learners.
+The intended result is a cheat sheet.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>education-129</code> - teach music theory basics with exercises (click to expand)</summary>
+
+```text
+Act as a patient math coach.
+Teach music theory basics with exercises for a homeschool co-op.
+The intended result is a rubric.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>education-130</code> - create a spaced-repetition deck plan for an exam (click to expand)</summary>
+
+```text
+Act as a senior science teacher.
+Create a spaced-repetition deck plan for an exam for exam prep.
+The intended result is a worked example set.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>education-131</code> - design a debate lesson with roles and rubric (click to expand)</summary>
+
+```text
+Act as an expert language coach.
+Design a debate lesson with roles and rubric for an adult learner.
+The intended result is a quiz with answer key.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Keep a searchable working note so the task survives context compaction.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>education-132</code> - explain T-cell activation like I'm a bright 10th grader (click to expand)</summary>
+
+```text
+Act as a senior study-skills coach.
+Explain T-cell activation like I'm a bright 10th grader for a college freshman.
+The intended result is a study plan with milestones.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Compare against the provided reference and fix the largest gaps first.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>education-133</code> - create a reading plan with difficulty ramp (click to expand)</summary>
+
+```text
+Act as an expert tutor.
+Create a reading plan with difficulty ramp for a 5th grader.
+The intended result is a lesson with checks.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>education-134</code> - build a 4-week Python plan with projects (click to expand)</summary>
+
+```text
+Act as a senior curriculum designer.
+Build a 4-week Python plan with projects for ESL learners.
+The intended result is a cheat sheet.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>education-135</code> - teach statistics intuition with simulations described (click to expand)</summary>
+
+```text
+Act as a patient math coach.
+Teach statistics intuition with simulations described for a homeschool co-op.
+The intended result is a rubric.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Use tools where they help; state what evidence you checked before acting.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>education-136</code> - teach recursion with three worked examples and checks (click to expand)</summary>
+
+```text
+Act as a senior science teacher.
+Teach recursion with three worked examples and checks for exam prep.
+The intended result is a worked example set.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>education-137</code> - coach essay structure with a worked outline (click to expand)</summary>
+
+```text
+Act as an expert language coach.
+Coach essay structure with a worked outline for an adult learner.
+The intended result is a quiz with answer key.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Keep a searchable working note so the task survives context compaction.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>education-138</code> - create a final-review cheat sheet with examples (click to expand)</summary>
+
+```text
+Act as a senior study-skills coach.
+Create a final-review cheat sheet with examples for a college freshman.
+The intended result is a study plan with milestones.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Compare against the provided reference and fix the largest gaps first.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>education-139</code> - build a quiz with explanations per answer (click to expand)</summary>
+
+```text
+Act as an expert tutor.
+Build a quiz with explanations per answer for a 5th grader.
+The intended result is a lesson with checks.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>education-140</code> - coach presentation skills with a practice script (click to expand)</summary>
+
+```text
+Act as a senior curriculum designer.
+Coach presentation skills with a practice script for ESL learners.
+The intended result is a cheat sheet.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>education-141</code> - teach git branching with diagrams described (click to expand)</summary>
+
+```text
+Act as a patient math coach.
+Teach git branching with diagrams described for a homeschool co-op.
+The intended result is a rubric.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Use tools where they help; state what evidence you checked before acting.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>education-142</code> - build a language drill set with corrections (click to expand)</summary>
+
+```text
+Act as a senior science teacher.
+Build a language drill set with corrections for exam prep.
+The intended result is a worked example set.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>education-143</code> - design a lab activity with safety notes (click to expand)</summary>
+
+```text
+Act as an expert language coach.
+Design a lab activity with safety notes for an adult learner.
+The intended result is a quiz with answer key.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Keep a searchable working note so the task survives context compaction.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>education-144</code> - teach music theory basics with exercises (click to expand)</summary>
+
+```text
+Act as a senior study-skills coach.
+Teach music theory basics with exercises for a college freshman.
+The intended result is a study plan with milestones.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Compare against the provided reference and fix the largest gaps first.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>education-145</code> - create a spaced-repetition deck plan for an exam (click to expand)</summary>
+
+```text
+Act as an expert tutor.
+Create a spaced-repetition deck plan for an exam for a 5th grader.
+The intended result is a lesson with checks.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>education-146</code> - design a debate lesson with roles and rubric (click to expand)</summary>
+
+```text
+Act as a senior curriculum designer.
+Design a debate lesson with roles and rubric for ESL learners.
+The intended result is a cheat sheet.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>education-147</code> - explain T-cell activation like I'm a bright 10th grader (click to expand)</summary>
+
+```text
+Act as a patient math coach.
+Explain T-cell activation like I'm a bright 10th grader for a homeschool co-op.
+The intended result is a rubric.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Use tools where they help; state what evidence you checked before acting.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>education-148</code> - create a reading plan with difficulty ramp (click to expand)</summary>
+
+```text
+Act as a senior science teacher.
+Create a reading plan with difficulty ramp for exam prep.
+The intended result is a worked example set.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>education-149</code> - build a 4-week Python plan with projects (click to expand)</summary>
+
+```text
+Act as an expert language coach.
+Build a 4-week Python plan with projects for an adult learner.
+The intended result is a quiz with answer key.
+Requirements: diagnose level first; adapt examples accordingly; one concept at a time with a check
+for understanding.
+Keep a searchable working note so the task survives context compaction.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>education-150</code> - teach statistics intuition with simulations described (click to expand)</summary>
+
+```text
+Act as a senior study-skills coach.
+Teach statistics intuition with simulations described for a college freshman.
+The intended result is a study plan with milestones.
+Requirements: encourage effort; correct errors kindly with fixes; no answer-dumps for homework;
+scaffold instead.
+Compare against the provided reference and fix the largest gaps first.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
 ```
 </details>

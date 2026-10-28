@@ -2787,3 +2787,705 @@ assumptions and what you did not verify.
 Variant focus 120.
 ```
 </details>
+
+<details>
+<summary><code>business-ops-121</code> - triage today's inbox into urgent/reply/file with drafts unsent (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Triage today's inbox into urgent/reply/file with drafts unsent for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>business-ops-122</code> - write a launch checklist with owners (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert RevOps lead.
+Write a launch checklist with owners for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>business-ops-123</code> - draft a status page update template (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior support lead.
+Draft a status page update template for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>business-ops-124</code> - build a vendor comparison with total cost (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a CRM administrator.
+Build a vendor comparison with total cost for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>business-ops-125</code> - build a knowledge-base article from tickets (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior SOP writer.
+Build a knowledge-base article from tickets for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>business-ops-126</code> - create an escalation matrix with SLAs (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert executive assistant.
+Create an escalation matrix with SLAs for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>business-ops-127</code> - write a returns QA checklist (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Write a returns QA checklist for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>business-ops-128</code> - draft support macros that stay human (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert RevOps lead.
+Draft support macros that stay human for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>business-ops-129</code> - create a meeting-notes-to-tasks pipeline (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior support lead.
+Create a meeting-notes-to-tasks pipeline for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>business-ops-130</code> - build a weekly ops review agenda with metrics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a CRM administrator.
+Build a weekly ops review agenda with metrics for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>business-ops-131</code> - build a hiring scorecard with structured questions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior SOP writer.
+Build a hiring scorecard with structured questions for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>business-ops-132</code> - write an SOP for refunds with edge cases (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert executive assistant.
+Write an SOP for refunds with edge cases for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>business-ops-133</code> - draft a renewal play with risk flags (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Draft a renewal play with risk flags for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>business-ops-134</code> - dedupe CRM contacts and merge with audit notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert RevOps lead.
+Dedupe CRM contacts and merge with audit notes for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>business-ops-135</code> - create a customer health review template (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior support lead.
+Create a customer health review template for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>business-ops-136</code> - triage today's inbox into urgent/reply/file with drafts unsent (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a CRM administrator.
+Triage today's inbox into urgent/reply/file with drafts unsent for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>business-ops-137</code> - write a launch checklist with owners (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior SOP writer.
+Write a launch checklist with owners for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>business-ops-138</code> - draft a status page update template (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert executive assistant.
+Draft a status page update template for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>business-ops-139</code> - build a vendor comparison with total cost (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Build a vendor comparison with total cost for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>business-ops-140</code> - build a knowledge-base article from tickets (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert RevOps lead.
+Build a knowledge-base article from tickets for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>business-ops-141</code> - create an escalation matrix with SLAs (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior support lead.
+Create an escalation matrix with SLAs for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>business-ops-142</code> - write a returns QA checklist (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a CRM administrator.
+Write a returns QA checklist for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>business-ops-143</code> - draft support macros that stay human (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior SOP writer.
+Draft support macros that stay human for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>business-ops-144</code> - create a meeting-notes-to-tasks pipeline (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert executive assistant.
+Create a meeting-notes-to-tasks pipeline for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>business-ops-145</code> - build a weekly ops review agenda with metrics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior operations manager.
+Build a weekly ops review agenda with metrics for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>business-ops-146</code> - build a hiring scorecard with structured questions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert RevOps lead.
+Build a hiring scorecard with structured questions for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>business-ops-147</code> - write an SOP for refunds with edge cases (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior support lead.
+Write an SOP for refunds with edge cases for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>business-ops-148</code> - draft a renewal play with risk flags (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a CRM administrator.
+Draft a renewal play with risk flags for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>business-ops-149</code> - dedupe CRM contacts and merge with audit notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior SOP writer.
+Dedupe CRM contacts and merge with audit notes for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>business-ops-150</code> - create a customer health review template (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert executive assistant.
+Create a customer health review template for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>

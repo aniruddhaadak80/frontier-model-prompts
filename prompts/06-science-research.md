@@ -4,7 +4,7 @@
 
 > Safety: defensive / authorized-scope use only. Stop before destructive, irreversible, sending, purchasing, deleting, or permission-changing steps without approval.
 
-**Jump:** [Index](../README.md#category-carousel) · [Prev](05-spreadsheets-data.md) · [Next](07-defensive-security.md) · [Search all](prompts_index.json) · [Interactive carousel](../docs/carousel.html)
+**Jump:** [Index](../README.md#category-carousel) · [Prev](#) · [Next](#) · [Search all](prompts_index.json) · [Interactive carousel](../docs/carousel.html)
 
 How to use: click any prompt title to expand it top to bottom, then use the copy icon on the code block. Each block wraps vertically, so there is no left to right scrolling.
 
@@ -2243,5 +2243,572 @@ conflicting file if you must pause.
 Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
 assumptions and what you did not verify.
 Variant focus 120.
+```
+</details>
+
+<details>
+<summary><code>science-research-121</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>science-research-122</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>science-research-123</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>science-research-124</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>science-research-125</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>science-research-126</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>science-research-127</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>science-research-128</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>science-research-129</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>science-research-130</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>science-research-131</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>science-research-132</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>science-research-133</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>science-research-134</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>science-research-135</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>science-research-136</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>science-research-137</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>science-research-138</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>science-research-139</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>science-research-140</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>science-research-141</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Act as a principal investigator aide.
+Draft a materials-and-methods section from lab notes for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>science-research-142</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Act as a senior biostatistician.
+Design a blinded evaluation procedure for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>science-research-143</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Act as an expert methods writer.
+Create a figure plan: panels, stats, and captions for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>science-research-144</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Act as a senior literature reviewer.
+Build a calibration schedule for instruments for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>science-research-145</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Act as a senior research scientist.
+Write a data-analysis plan with pre-registered hypotheses for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>science-research-146</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Act as an expert lab manager.
+Draft an ethics-application summary with risk mitigations for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>science-research-147</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Act as a principal investigator aide.
+Design an experiment with power analysis and randomization for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>science-research-148</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Act as a senior biostatistician.
+Create a systematic-review inclusion/exclusion rubric for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>science-research-149</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Act as an expert methods writer.
+Draft a reproducible protocol with controls and failure modes for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>science-research-150</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Act as a senior literature reviewer.
+Write a codebook for qualitative coding for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
 ```
 </details>
