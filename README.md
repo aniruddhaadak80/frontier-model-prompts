@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://frontier-model-prompts-showcase.vercel.app"><img src="https://img.shields.io/badge/open_live_showcase-orange" alt="Open live showcase"></a>
+  <a href="https://frontier-model-prompts.vercel.app"><img src="https://img.shields.io/badge/open_live_showcase-orange" alt="Open live showcase"></a>
   <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/prompts"><img src="https://img.shields.io/badge/browse-3360_prompts-yellow" alt="Browse 3360 prompts"></a>
   <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/blob/main/docs/3d-advanced-guide.md"><img src="https://img.shields.io/badge/advanced-3D_guide-blue" alt="Advanced 3D guide"></a>
   <a href="https://vercel.com/new/clone?repository-url=https://github.com/aniruddhaadak80/frontier-model-prompts&amp;root-directory=web"><img src="https://vercel.com/button" alt="Deploy with Vercel"></a>
@@ -37,7 +37,7 @@
 
 The full library now runs as a cinematic web app: all 3360 prompts hard-coded in the bundle, one-click copy, dropdown filters, advanced search, animated hero with particle canvas, scroll reveals, stat counters, marquee ticker, 3D pipeline timeline, builds gallery, framework, quickstart, safety, and sources.
 
-- **Production URL:** https://frontier-model-prompts-showcase.vercel.app
+- **Production URL:** https://frontier-model-prompts.vercel.app
 - **Project:** `frontier-model-prompts-showcase` under the account workspace, root directory `web`, auto-deploys every push to `main` once the Git integration is connected. Fresh deploys from an authenticated shell use `npx vercel deploy --prod` inside `web/`.
 - **Run locally:** `cd web`, `npm install`, `npm run dev`, open the printed localhost address.
 - **Regenerate data:** `cd web`, `py data/build-data.py`, then rebuild. The bundle reads `web/data/prompts.json` plus `web/data/categories.json`, both generated from `prompts/prompts.jsonl`.
@@ -217,7 +217,7 @@ flowchart LR
 
 ## Visual tour
 
-A screen-by-screen walk of the [live showcase](https://frontier-model-prompts-showcase.vercel.app). Open each stop in order for the full first-visit arc.
+A screen-by-screen walk of the [live showcase](https://frontier-model-prompts.vercel.app). Open each stop in order for the full first-visit arc.
 
 | Stop | Screen | What to do there |
 |---|---|---|
@@ -423,7 +423,7 @@ Swap one slot at a time: new role, new task, new audience, tighter constraints, 
 > **3,360 prompts, 28 categories, 120 each, all unique with SHA-256 verification.**
 > Each file uses collapsible sections. Click a title to expand it top to bottom, then use the copy icon on the inner code block. Text wraps vertically. There is no left to right scrolling.
 > Interactive version with search plus prev, next, random, and keyboard support: [`docs/carousel.html`](docs/carousel.html).
-> Cinematic version with filters and animations: [live showcase](https://frontier-model-prompts-showcase.vercel.app).
+> Cinematic version with filters and animations: [live showcase](https://frontier-model-prompts.vercel.app).
 > Machine-readable: [`prompts/prompts.jsonl`](prompts/prompts.jsonl), [`prompts/prompts.csv`](prompts/prompts.csv), [`prompts/prompts_index.json`](prompts/prompts_index.json).
 
 | Number | Card | Coverage | Open |
@@ -472,7 +472,7 @@ Each category file header links Index, Prev, Next, Search, and Carousel, so navi
 
 **Showcase path:**
 
-1. Open the [live showcase](https://frontier-model-prompts-showcase.vercel.app).
+1. Open the [live showcase](https://frontier-model-prompts.vercel.app).
 2. Type in advanced search, pick the category dropdown, filter by difficulty or effort, sort, or hit Surprise me. The navbar search filters the same vault from anywhere on the page.
 3. Skim the number, summary, preview, and difficulty tag, expand any card downward, and press Copy prompt. Clipboard feedback confirms the copy. Press ? at any time for the keyboard map.
 
@@ -525,7 +525,7 @@ This hub treats 3D as a first-class pipeline, not a novelty, because the stronge
 
 **Full advanced playbook:** [`docs/3d-advanced-guide.md`](docs/3d-advanced-guide.md)
 **Prompt pack:** [`prompts/08-3d-blender-unreal.md`](prompts/08-3d-blender-unreal.md)
-**Visual run-through:** [live showcase 3D pipeline](https://frontier-model-prompts-showcase.vercel.app#pipeline)
+**Visual run-through:** [live showcase 3D pipeline](https://frontier-model-prompts.vercel.app#pipeline)
 
 **Stage-gate pipeline used across the 3D prompts:**
 
@@ -897,7 +897,7 @@ MIT, see [`LICENSE`](LICENSE). Builds and demos belong to their creators, linked
 
 <p align="center">
 <a href="#carousel-jump-anything-to-anything">Back to carousel</a> -
-<a href="https://frontier-model-prompts-showcase.vercel.app">Live showcase</a> -
+<a href="https://frontier-model-prompts.vercel.app">Live showcase</a> -
 <a href="docs/carousel.html">Interactive carousel</a> -
 <a href="prompts/01-agentic-coding.md">Start copying</a> -
 <a href="docs/3d-advanced-guide.md">Advanced 3D guide</a>
