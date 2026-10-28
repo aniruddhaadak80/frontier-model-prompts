@@ -1,6 +1,6 @@
 # Security Policy
 
-GPT-6 Astra is OpenAI’s first model rated at **Critical cybersecurity capability**. This repo is **defensive-only**.
+This repository (Frontier Model Prompts) is a prompt library. It is **defensive-only** and contains no exploit code, jailbreaks, or live secrets.
 
 ## Never include
 
@@ -14,4 +14,4 @@ GPT-6 Astra is OpenAI’s first model rated at **Critical cybersecurity capabili
 
 ## Report
 
-Open a GitHub issue titled `[SECURITY] …` or contact the maintainer. Do not PR exploit content “for research.” Defensive hardening, detection, triage, and recovery content is welcome and reviewed against NIST/CIS framing.
+Open a GitHub issue titled `[SECURITY] ...` or contact the maintainer. Do not PR exploit content "for research." Defensive hardening, detection, triage, and recovery content is welcome and reviewed against NIST/CIS framing.
