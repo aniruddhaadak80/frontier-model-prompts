@@ -9,7 +9,7 @@ rows = [json.loads(l) for l in p.read_text(encoding="utf-8").splitlines() if l.s
 texts = [r["prompt"] for r in rows]
 hashes = [hashlib.sha256(t.encode()).hexdigest() for t in texts]
 print(f"count={len(rows)} unique={len(set(hashes))}")
-if len(rows) < 4650:
+if len(rows) < 6800:
     print(f"FAIL: expected >=3360, got {len(rows)}")
     sys.exit(1)
 if len(set(hashes)) == len(rows):
@@ -17,4 +17,4 @@ if len(set(hashes)) == len(rows):
 else:
     print(f"FAIL: {len(rows) - len(set(hashes))} duplicates")
     sys.exit(1)
-print("OK: 4650+ unique prompts")
+print("OK: 6800+ unique prompts")

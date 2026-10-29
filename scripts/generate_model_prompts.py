@@ -20,7 +20,7 @@ CATEGORIES = gen.CATEGORIES
 AUTONOMY = gen.AUTONOMY
 VERIFY = gen.VERIFY
 
-PER_CATEGORY = 150
+PER_CATEGORY = 200
 
 MODELS = [
     dict(
@@ -58,6 +58,24 @@ MODELS = [
         level_label="Suggested thinking mode",
         control="Open-weight 3T-class MoE; 1M context; text+image. Released Oct 23, 2026. Strong coding-agent performance and 3D generation.",
         strengths="Coding agents, 3D generation, open weights, cost-efficient frontier quality.",
+    ),
+    dict(
+        slug="deepseek-v3-2",
+        display="DeepSeek V3.2",
+        model_id="deepseek-v3.2",
+        levels=["off", "low", "medium", "high", "max"],
+        level_label="Suggested reasoning mode",
+        control="Open-weight MoE; 128K context; strong coding/math. Cost-efficient frontier quality.",
+        strengths="Coding, math, open weights, cost-efficient.",
+    ),
+    dict(
+        slug="grok-4",
+        display="Grok 4",
+        model_id="grok-4",
+        levels=["low", "medium", "high", "xhigh", "max"],
+        level_label="Suggested reasoning effort",
+        control="xAI flagship; 256K context; real-time web; strong reasoning.",
+        strengths="Real-time web, reasoning, multimodal.",
     ),
 ]
 

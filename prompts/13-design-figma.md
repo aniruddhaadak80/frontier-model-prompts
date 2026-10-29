@@ -2737,3 +2737,923 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>design-figma-151</code> - redesign a dashboard using a compact table reference (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Redesign a dashboard using a compact table reference for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>design-figma-152</code> - build a notification system with priority rules (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Build a notification system with priority rules for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>design-figma-153</code> - design a handoff pack developers will love (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Design a handoff pack developers will love for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>design-figma-154</code> - design a settings page that reuses existing patterns (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Design a settings page that reuses existing patterns for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>design-figma-155</code> - create a prototype test script with tasks (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Create a prototype test script with tasks for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>design-figma-156</code> - create a mobile checkout with trust signals (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Create a mobile checkout with trust signals for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>design-figma-157</code> - design a dark-mode pass with token mapping (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Design a dark-mode pass with token mapping for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>design-figma-158</code> - design an onboarding flow with empty/error states (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Design an onboarding flow with empty/error states for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>design-figma-159</code> - build an icon usage guide with do/don'ts (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Build an icon usage guide with do/don'ts for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>design-figma-160</code> - build a component spec with states and tokens (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Build a component spec with states and tokens for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>design-figma-161</code> - design an accessible form with help and errors (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Design an accessible form with help and errors for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>design-figma-162</code> - turn a whiteboard sketch into a clickable flow (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Turn a whiteboard sketch into a clickable flow for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>design-figma-163</code> - create a landing hero with three tested variants (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Create a landing hero with three tested variants for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>design-figma-164</code> - design a pricing page from two typography references (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Design a pricing page from two typography references for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>design-figma-165</code> - design a data-viz card with honest scales (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Design a data-viz card with honest scales for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>design-figma-166</code> - redesign a dashboard using a compact table reference (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Redesign a dashboard using a compact table reference for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>design-figma-167</code> - build a notification system with priority rules (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Build a notification system with priority rules for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>design-figma-168</code> - design a handoff pack developers will love (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Design a handoff pack developers will love for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>design-figma-169</code> - design a settings page that reuses existing patterns (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Design a settings page that reuses existing patterns for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>design-figma-170</code> - create a prototype test script with tasks (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Create a prototype test script with tasks for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>design-figma-171</code> - create a mobile checkout with trust signals (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Create a mobile checkout with trust signals for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>design-figma-172</code> - design a dark-mode pass with token mapping (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Design a dark-mode pass with token mapping for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>design-figma-173</code> - design an onboarding flow with empty/error states (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Design an onboarding flow with empty/error states for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>design-figma-174</code> - build an icon usage guide with do/don'ts (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Build an icon usage guide with do/don'ts for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>design-figma-175</code> - build a component spec with states and tokens (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Build a component spec with states and tokens for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>design-figma-176</code> - design an accessible form with help and errors (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Design an accessible form with help and errors for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>design-figma-177</code> - turn a whiteboard sketch into a clickable flow (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Turn a whiteboard sketch into a clickable flow for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>design-figma-178</code> - create a landing hero with three tested variants (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Create a landing hero with three tested variants for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>design-figma-179</code> - design a pricing page from two typography references (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Design a pricing page from two typography references for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>design-figma-180</code> - design a data-viz card with honest scales (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Design a data-viz card with honest scales for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>design-figma-181</code> - redesign a dashboard using a compact table reference (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Redesign a dashboard using a compact table reference for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>design-figma-182</code> - build a notification system with priority rules (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Build a notification system with priority rules for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>design-figma-183</code> - design a handoff pack developers will love (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Design a handoff pack developers will love for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>design-figma-184</code> - design a settings page that reuses existing patterns (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Design a settings page that reuses existing patterns for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>design-figma-185</code> - create a prototype test script with tasks (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Create a prototype test script with tasks for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>design-figma-186</code> - create a mobile checkout with trust signals (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Create a mobile checkout with trust signals for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>design-figma-187</code> - design a dark-mode pass with token mapping (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Design a dark-mode pass with token mapping for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>design-figma-188</code> - design an onboarding flow with empty/error states (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Design an onboarding flow with empty/error states for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>design-figma-189</code> - build an icon usage guide with do/don'ts (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Build an icon usage guide with do/don'ts for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>design-figma-190</code> - build a component spec with states and tokens (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Build a component spec with states and tokens for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>design-figma-191</code> - design an accessible form with help and errors (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Design an accessible form with help and errors for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>design-figma-192</code> - turn a whiteboard sketch into a clickable flow (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Turn a whiteboard sketch into a clickable flow for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>design-figma-193</code> - create a landing hero with three tested variants (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Create a landing hero with three tested variants for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>design-figma-194</code> - design a pricing page from two typography references (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Design a pricing page from two typography references for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>design-figma-195</code> - design a data-viz card with honest scales (click to expand)</summary>
+
+```text
+Act as a senior brand designer.
+Design a data-viz card with honest scales for a nonprofit.
+The intended result is a visual-delta list vs reference.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Use tools where they help; state what evidence you checked before acting.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>design-figma-196</code> - redesign a dashboard using a compact table reference (click to expand)</summary>
+
+```text
+Act as an UX writing lead.
+Redesign a dashboard using a compact table reference for an internal tool.
+The intended result is a handoff checklist.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>design-figma-197</code> - build a notification system with priority rules (click to expand)</summary>
+
+```text
+Act as a senior design-system owner.
+Build a notification system with priority rules for a marketing site.
+The intended result is a prototype test plan.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Keep a searchable working note so the task survives context compaction.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>design-figma-198</code> - design a handoff pack developers will love (click to expand)</summary>
+
+```text
+Act as an expert visual designer.
+Design a handoff pack developers will love for a mobile app.
+The intended result is a component table with states.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Compare against the provided reference and fix the largest gaps first.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>design-figma-199</code> - design a settings page that reuses existing patterns (click to expand)</summary>
+
+```text
+Act as a senior product designer.
+Design a settings page that reuses existing patterns for a SaaS app.
+The intended result is a screen spec with annotations.
+Requirements: name exactly what to borrow from each visual reference; match the existing brand; note
+type, spacing, color deltas.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>design-figma-200</code> - create a prototype test script with tasks (click to expand)</summary>
+
+```text
+Act as an expert design engineer.
+Create a prototype test script with tasks for a classroom app.
+The intended result is a tokens table.
+Requirements: annotate spacing/type so implementation matches; avoid generic gradient-card soup.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

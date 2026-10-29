@@ -205,7 +205,7 @@ export function PromptExplorer({ prompts, categories, activeCat, onCatChange, qu
               value={activeCat}
               onChange={(e) => { setLimit(PAGE); setHl(0); setShuffled(null); onCatChange(e.target.value); }}
             >
-              <option value="">All 28 categories</option>
+              <option value="">All 34 categories</option>
               {categories.map((c) => (
                 <option key={c.slug} value={c.slug}>
                   {c.title} ({c.count})
@@ -274,7 +274,7 @@ export function PromptExplorer({ prompts, categories, activeCat, onCatChange, qu
         <span>
           Showing <b>{visible.length}</b> of <b>{filtered.length}</b> matches
         </span>
-        <span>from 3360 hard-coded prompts</span>
+        <span>from 6800 hard-coded prompts</span>
         <button className="mini-btn" onClick={copyAllVisible}>
           {copiedId === "__all" ? "Bundle copied" : "Copy all visible"}
         </button>

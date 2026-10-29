@@ -3564,3 +3564,1198 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>devops-terminal-151</code> - debug a failing CI pipeline from logs with a fix plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Debug a failing CI pipeline from logs with a fix plan for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-152</code> - build a canary rollout plan with metrics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Build a canary rollout plan with metrics for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-153</code> - create a post-deploy smoke-test script plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Create a post-deploy smoke-test script plan for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-154</code> - create a runbook for disk-pressure alerts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Create a runbook for disk-pressure alerts for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-155</code> - design a cache-invalidation plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Design a cache-invalidation plan for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-156</code> - design a backup test with restore proof (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Design a backup test with restore proof for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-157</code> - write a cron-plus-monitor pair with alerts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Write a cron-plus-monitor pair with alerts for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-158</code> - write a log-grep recipe for a 500-spike (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Write a log-grep recipe for a 500-spike for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-159</code> - build an incident timeline template (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Build an incident timeline template for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-160</code> - build a deploy checklist with rollback triggers (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Build a deploy checklist with rollback triggers for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-161</code> - create a load-test sketch with success criteria (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Create a load-test sketch with success criteria for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-162</code> - create a compose stack for local dev with healthchecks (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Create a compose stack for local dev with healthchecks for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-163</code> - design a secrets-rotation procedure (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Design a secrets-rotation procedure for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-164</code> - write a Dockerfile that is small, cached, and non-root (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Write a Dockerfile that is small, cached, and non-root for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-165</code> - write a Makefile that new hires understand (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Write a Makefile that new hires understand for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-166</code> - debug a failing CI pipeline from logs with a fix plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Debug a failing CI pipeline from logs with a fix plan for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-167</code> - build a canary rollout plan with metrics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Build a canary rollout plan with metrics for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-168</code> - create a post-deploy smoke-test script plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Create a post-deploy smoke-test script plan for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-169</code> - create a runbook for disk-pressure alerts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Create a runbook for disk-pressure alerts for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-170</code> - design a cache-invalidation plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Design a cache-invalidation plan for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-171</code> - design a backup test with restore proof (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Design a backup test with restore proof for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-172</code> - write a cron-plus-monitor pair with alerts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Write a cron-plus-monitor pair with alerts for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-173</code> - write a log-grep recipe for a 500-spike (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Write a log-grep recipe for a 500-spike for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-174</code> - build an incident timeline template (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Build an incident timeline template for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-175</code> - build a deploy checklist with rollback triggers (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Build a deploy checklist with rollback triggers for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-176</code> - create a load-test sketch with success criteria (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Create a load-test sketch with success criteria for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-177</code> - create a compose stack for local dev with healthchecks (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Create a compose stack for local dev with healthchecks for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-178</code> - design a secrets-rotation procedure (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Design a secrets-rotation procedure for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-179</code> - write a Dockerfile that is small, cached, and non-root (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Write a Dockerfile that is small, cached, and non-root for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-180</code> - write a Makefile that new hires understand (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Write a Makefile that new hires understand for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-181</code> - debug a failing CI pipeline from logs with a fix plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Debug a failing CI pipeline from logs with a fix plan for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-182</code> - build a canary rollout plan with metrics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Build a canary rollout plan with metrics for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-183</code> - create a post-deploy smoke-test script plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Create a post-deploy smoke-test script plan for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-184</code> - create a runbook for disk-pressure alerts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Create a runbook for disk-pressure alerts for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-185</code> - design a cache-invalidation plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Design a cache-invalidation plan for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-186</code> - design a backup test with restore proof (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Design a backup test with restore proof for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-187</code> - write a cron-plus-monitor pair with alerts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Write a cron-plus-monitor pair with alerts for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-188</code> - write a log-grep recipe for a 500-spike (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Write a log-grep recipe for a 500-spike for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-189</code> - build an incident timeline template (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Build an incident timeline template for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-190</code> - build a deploy checklist with rollback triggers (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Build a deploy checklist with rollback triggers for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-191</code> - create a load-test sketch with success criteria (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Create a load-test sketch with success criteria for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-192</code> - create a compose stack for local dev with healthchecks (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Create a compose stack for local dev with healthchecks for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-193</code> - design a secrets-rotation procedure (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Design a secrets-rotation procedure for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-194</code> - write a Dockerfile that is small, cached, and non-root (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Write a Dockerfile that is small, cached, and non-root for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-195</code> - write a Makefile that new hires understand (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior platform engineer.
+Write a Makefile that new hires understand for a startup.
+The intended result is a monitoring query set.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-196</code> - debug a failing CI pipeline from logs with a fix plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a release manager.
+Debug a failing CI pipeline from logs with a fix plan for a homelab.
+The intended result is a compose/Docker spec.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking level: `low`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-197</code> - build a canary rollout plan with metrics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems administrator.
+Build a canary rollout plan with metrics for GCP.
+The intended result is a checklist with rollback.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking level: `medium`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-198</code> - create a post-deploy smoke-test script plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert CI engineer.
+Create a post-deploy smoke-test script plan for Azure.
+The intended result is a fix plan with evidence.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking level: `high`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-199</code> - create a runbook for disk-pressure alerts (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior DevOps engineer.
+Create a runbook for disk-pressure alerts for AWS.
+The intended result is a step runbook with commands.
+Requirements: non-destructive first; dry-run before mutate; pin versions; note OS/shell assumptions.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking level: `xhigh`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>devops-terminal-200</code> - design a cache-invalidation plan (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert SRE.
+Design a cache-invalidation plan for an on-prem cluster.
+The intended result is a postmortem template.
+Requirements: log commands and outputs for audit; least privilege; no hardcoded secrets.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking level: `max`.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

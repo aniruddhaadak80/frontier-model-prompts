@@ -3714,3 +3714,1248 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>3d-blender-unreal-151</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Block out a seaside house then add lived-in detail pass for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-152</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Build a bottle-ship diorama with water and reef accents for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-153</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Retopology pass plan for a sculpt with pole-flow notes for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-154</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Light a museum gallery for two camera framings for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-155</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Plan a shot list so actors stay in frame for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-156</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Model a steam-train vignette with named collections for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-157</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Build a palace facade study with modular pieces for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-158</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-159</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Create an isometric office diorama with Chiaki-style warmth for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-160</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Build a low-poly Manhattan block with street-level props for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-161</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Design a kitchen scene optimized for a laptop GPU for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-162</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Model a stylized wolf character with clean topology for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-163</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Build a game-ready prop set with LOD notes for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-164</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Reconstruct a room from listing photos with inferred dimensions for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-165</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Create a product turntable scene with studio lighting for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-166</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Block out a seaside house then add lived-in detail pass for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-167</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Build a bottle-ship diorama with water and reef accents for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-168</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Retopology pass plan for a sculpt with pole-flow notes for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-169</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Light a museum gallery for two camera framings for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-170</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Plan a shot list so actors stay in frame for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-171</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Model a steam-train vignette with named collections for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-172</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Build a palace facade study with modular pieces for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-173</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-174</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Create an isometric office diorama with Chiaki-style warmth for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-175</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Build a low-poly Manhattan block with street-level props for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-176</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Design a kitchen scene optimized for a laptop GPU for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-177</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Model a stylized wolf character with clean topology for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-178</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Build a game-ready prop set with LOD notes for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-179</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Reconstruct a room from listing photos with inferred dimensions for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-180</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Create a product turntable scene with studio lighting for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-181</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Block out a seaside house then add lived-in detail pass for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-182</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Build a bottle-ship diorama with water and reef accents for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-183</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Retopology pass plan for a sculpt with pole-flow notes for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-184</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Light a museum gallery for two camera framings for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-185</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Plan a shot list so actors stay in frame for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-186</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Model a steam-train vignette with named collections for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-187</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Build a palace facade study with modular pieces for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-188</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-189</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Create an isometric office diorama with Chiaki-style warmth for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-190</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Build a low-poly Manhattan block with street-level props for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-191</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Design a kitchen scene optimized for a laptop GPU for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-192</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Model a stylized wolf character with clean topology for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-193</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Build a game-ready prop set with LOD notes for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-194</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Reconstruct a room from listing photos with inferred dimensions for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-195</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior environment artist.
+Create a product turntable scene with studio lighting for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-196</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an Unreal scene assembler.
+Block out a seaside house then add lived-in detail pass for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-197</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a Three.js scene developer.
+Build a bottle-ship diorama with water and reef accents for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-198</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior lookdev artist.
+Retopology pass plan for a sculpt with pole-flow notes for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-199</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior 3D artist.
+Light a museum gallery for two camera framings for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-200</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert Blender technical artist.
+Plan a shot list so actors stay in frame for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

@@ -3489,3 +3489,1173 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>structured-outputs-151</code> - define a ticket-triage schema with enums and confidence (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Define a ticket-triage schema with enums and confidence for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-152</code> - build a resume-parse schema with evidence spans (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a resume-parse schema with evidence spans for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-153</code> - create a eval-row schema for prompt testing (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create a eval-row schema for prompt testing for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-154</code> - design an event-log schema with dedupe keys (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Design an event-log schema with dedupe keys for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-155</code> - build a translation-memory schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a translation-memory schema for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-156</code> - create a catalog-item schema with variants (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create a catalog-item schema with variants for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-157</code> - design a deployment-manifest schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Design a deployment-manifest schema for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-158</code> - build a QA-report schema with severity enums (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a QA-report schema with severity enums for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-159</code> - create a survey-response schema with scales (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create a survey-response schema with scales for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-160</code> - design a meeting-notes schema with owners/dates (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Design a meeting-notes schema with owners/dates for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-161</code> - build a bug-report schema with repro steps (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a bug-report schema with repro steps for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-162</code> - create an invoice-line schema with totals validation (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create an invoice-line schema with totals validation for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-163</code> - design a course-outline schema with outcomes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Design a course-outline schema with outcomes for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-164</code> - build a product-review extraction schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a product-review extraction schema for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-165</code> - create a recipe schema with units and steps (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create a recipe schema with units and steps for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-166</code> - define a ticket-triage schema with enums and confidence (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Define a ticket-triage schema with enums and confidence for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-167</code> - build a resume-parse schema with evidence spans (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a resume-parse schema with evidence spans for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-168</code> - create a eval-row schema for prompt testing (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create a eval-row schema for prompt testing for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-169</code> - design an event-log schema with dedupe keys (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Design an event-log schema with dedupe keys for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-170</code> - build a translation-memory schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a translation-memory schema for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-171</code> - create a catalog-item schema with variants (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create a catalog-item schema with variants for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-172</code> - design a deployment-manifest schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Design a deployment-manifest schema for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-173</code> - build a QA-report schema with severity enums (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a QA-report schema with severity enums for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-174</code> - create a survey-response schema with scales (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create a survey-response schema with scales for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-175</code> - design a meeting-notes schema with owners/dates (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Design a meeting-notes schema with owners/dates for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-176</code> - build a bug-report schema with repro steps (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a bug-report schema with repro steps for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-177</code> - create an invoice-line schema with totals validation (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create an invoice-line schema with totals validation for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-178</code> - design a course-outline schema with outcomes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Design a course-outline schema with outcomes for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-179</code> - build a product-review extraction schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a product-review extraction schema for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-180</code> - create a recipe schema with units and steps (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create a recipe schema with units and steps for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-181</code> - define a ticket-triage schema with enums and confidence (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Define a ticket-triage schema with enums and confidence for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-182</code> - build a resume-parse schema with evidence spans (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a resume-parse schema with evidence spans for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-183</code> - create a eval-row schema for prompt testing (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create a eval-row schema for prompt testing for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-184</code> - design an event-log schema with dedupe keys (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Design an event-log schema with dedupe keys for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-185</code> - build a translation-memory schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a translation-memory schema for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-186</code> - create a catalog-item schema with variants (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create a catalog-item schema with variants for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-187</code> - design a deployment-manifest schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Design a deployment-manifest schema for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-188</code> - build a QA-report schema with severity enums (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a QA-report schema with severity enums for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-189</code> - create a survey-response schema with scales (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create a survey-response schema with scales for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-190</code> - design a meeting-notes schema with owners/dates (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Design a meeting-notes schema with owners/dates for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-191</code> - build a bug-report schema with repro steps (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a bug-report schema with repro steps for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-192</code> - create an invoice-line schema with totals validation (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create an invoice-line schema with totals validation for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-193</code> - design a course-outline schema with outcomes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Design a course-outline schema with outcomes for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-194</code> - build a product-review extraction schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a product-review extraction schema for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-195</code> - create a recipe schema with units and steps (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior integration engineer.
+Create a recipe schema with units and steps for a partner API.
+The intended result is a prompt snippet for semantic rules.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-196</code> - define a ticket-triage schema with enums and confidence (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a prompt-interface designer.
+Define a ticket-triage schema with enums and confidence for a mobile client.
+The intended result is a migration note.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-197</code> - build a resume-parse schema with evidence spans (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior tooling engineer.
+Build a resume-parse schema with evidence spans for a data warehouse.
+The intended result is a validation checklist.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-198</code> - create a eval-row schema for prompt testing (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert JSON-schema author.
+Create a eval-row schema for prompt testing for a webhook consumer.
+The intended result is three valid examples plus one invalid with reason.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-199</code> - design an event-log schema with dedupe keys (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior API designer.
+Design an event-log schema with dedupe keys for the Responses API.
+The intended result is a JSON schema plus field guide.
+Requirements: use schema enforcement for shape; prompt for judgment calls; enums closed; include
+'unknown' with reason field.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>structured-outputs-200</code> - build a translation-memory schema (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert data-modeler.
+Build a translation-memory schema for an internal tool.
+The intended result is a test matrix.
+Requirements: validate totals, dates, and units explicitly; no free-text where an enum fits.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

@@ -1,6 +1,6 @@
 # Claude Opus 5.5 Prompt Pack
 
-**4,650 copy-paste prompts** across 31 categories, tuned for `claude-opus-5-5`.
+**6,800 copy-paste prompts** across 34 categories, tuned for `claude-opus-5-5`.
 
 - Model: `claude-opus-5-5`
 - Strengths: Long-running agentic coding, vision, computer use, knowledge work.

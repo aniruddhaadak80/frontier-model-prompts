@@ -3564,3 +3564,1198 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>writing-technical-151</code> - write a quickstart that gets to hello-world in 5 minutes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Write a quickstart that gets to hello-world in 5 minutes for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-152</code> - create a glossary with precise definitions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Create a glossary with precise definitions for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-153</code> - write a deprecation notice with dates and path forward (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Write a deprecation notice with dates and path forward for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-154</code> - write a runbook for a 3am page (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Write a runbook for a 3am page for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-155</code> - document rate limits with headers and examples (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Document rate limits with headers and examples for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-156</code> - document a CLI with examples per flag (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Document a CLI with examples per flag for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-157</code> - write a FAQ that kills support tickets (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Write a FAQ that kills support tickets for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-158</code> - write architecture decision records for three choices (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Write architecture decision records for three choices for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-159</code> - create a tutorial with checkpoints and expected outputs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Create a tutorial with checkpoints and expected outputs for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-160</code> - create a troubleshooting page ordered by frequency (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Create a troubleshooting page ordered by frequency for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-161</code> - write a security disclosure policy page (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Write a security disclosure policy page for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-162</code> - write a migration guide with rollback steps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Write a migration guide with rollback steps for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-163</code> - document webhook semantics: retries, ordering, dedupe (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Document webhook semantics: retries, ordering, dedupe for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-164</code> - document an API endpoint with errors and retries (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Document an API endpoint with errors and retries for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-165</code> - write a changelog users actually read (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Write a changelog users actually read for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-166</code> - write a quickstart that gets to hello-world in 5 minutes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Write a quickstart that gets to hello-world in 5 minutes for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-167</code> - create a glossary with precise definitions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Create a glossary with precise definitions for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-168</code> - write a deprecation notice with dates and path forward (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Write a deprecation notice with dates and path forward for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-169</code> - write a runbook for a 3am page (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Write a runbook for a 3am page for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-170</code> - document rate limits with headers and examples (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Document rate limits with headers and examples for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-171</code> - document a CLI with examples per flag (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Document a CLI with examples per flag for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-172</code> - write a FAQ that kills support tickets (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Write a FAQ that kills support tickets for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-173</code> - write architecture decision records for three choices (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Write architecture decision records for three choices for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-174</code> - create a tutorial with checkpoints and expected outputs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Create a tutorial with checkpoints and expected outputs for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-175</code> - create a troubleshooting page ordered by frequency (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Create a troubleshooting page ordered by frequency for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-176</code> - write a security disclosure policy page (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Write a security disclosure policy page for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-177</code> - write a migration guide with rollback steps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Write a migration guide with rollback steps for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-178</code> - document webhook semantics: retries, ordering, dedupe (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Document webhook semantics: retries, ordering, dedupe for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-179</code> - document an API endpoint with errors and retries (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Document an API endpoint with errors and retries for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-180</code> - write a changelog users actually read (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Write a changelog users actually read for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-181</code> - write a quickstart that gets to hello-world in 5 minutes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Write a quickstart that gets to hello-world in 5 minutes for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-182</code> - create a glossary with precise definitions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Create a glossary with precise definitions for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-183</code> - write a deprecation notice with dates and path forward (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Write a deprecation notice with dates and path forward for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-184</code> - write a runbook for a 3am page (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Write a runbook for a 3am page for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-185</code> - document rate limits with headers and examples (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Document rate limits with headers and examples for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-186</code> - document a CLI with examples per flag (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Document a CLI with examples per flag for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-187</code> - write a FAQ that kills support tickets (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Write a FAQ that kills support tickets for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-188</code> - write architecture decision records for three choices (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Write architecture decision records for three choices for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-189</code> - create a tutorial with checkpoints and expected outputs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Create a tutorial with checkpoints and expected outputs for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-190</code> - create a troubleshooting page ordered by frequency (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Create a troubleshooting page ordered by frequency for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-191</code> - write a security disclosure policy page (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Write a security disclosure policy page for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-192</code> - write a migration guide with rollback steps (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Write a migration guide with rollback steps for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-193</code> - document webhook semantics: retries, ordering, dedupe (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Document webhook semantics: retries, ordering, dedupe for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-194</code> - document an API endpoint with errors and retries (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Document an API endpoint with errors and retries for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-195</code> - write a changelog users actually read (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal engineer-writer.
+Write a changelog users actually read for auditors.
+The intended result is a changelog entry.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-196</code> - write a quickstart that gets to hello-world in 5 minutes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior API writer.
+Write a quickstart that gets to hello-world in 5 minutes for end users.
+The intended result is a FAQ with links.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-197</code> - create a glossary with precise definitions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert release-notes writer.
+Create a glossary with precise definitions for admins.
+The intended result is a runbook with commands.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-198</code> - write a deprecation notice with dates and path forward (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior tutorial author.
+Write a deprecation notice with dates and path forward for operators.
+The intended result is a quickstart with verification steps.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-199</code> - write a runbook for a 3am page (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior technical writer.
+Write a runbook for a 3am page for developers.
+The intended result is a publish-ready doc.
+Requirements: default to concise paragraphs; lists only when parallel/sequential; plain verbs;
+active voice; no slop words or contrastive phrasing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>writing-technical-200</code> - document rate limits with headers and examples (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert documentation lead.
+Document rate limits with headers and examples for students.
+The intended result is a review checklist.
+Requirements: include copy-paste commands with expected output; state what to do; avoid saying what
+you won't do.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

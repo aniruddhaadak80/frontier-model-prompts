@@ -3564,3 +3564,1198 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>prompt-chains-151</code> - design a 5-stage research chain with validation gates (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a 5-stage research chain with validation gates for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-152</code> - build a decision chain with option scoring and rationale (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a decision chain with option scoring and rationale for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-153</code> - create a cost-optimized chain with model tiering (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a cost-optimized chain with model tiering for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-154</code> - design a content pipeline: outline, draft, edit, polish (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a content pipeline: outline, draft, edit, polish for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-155</code> - build a chain observability spec with traces (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a chain observability spec with traces for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-156</code> - create a data-extraction chain with schema validation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a data-extraction chain with schema validation for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-157</code> - design a fallback chain when a model fails (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a fallback chain when a model fails for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-158</code> - build a code-gen chain: spec, implement, test, review (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a code-gen chain: spec, implement, test, review for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-159</code> - create a validation gate that blocks low-confidence outputs (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a validation gate that blocks low-confidence outputs for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-160</code> - design a document-QA chain with citation verification (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a document-QA chain with citation verification for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-161</code> - build a multi-agent research crew with merge rules (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a multi-agent research crew with merge rules for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-162</code> - create a chain with self-critique and revision loop (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a chain with self-critique and revision loop for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-163</code> - design a support-triage chain with escalation rules (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a support-triage chain with escalation rules for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-164</code> - build a multi-model router that picks the best model per subtask (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a multi-model router that picks the best model per subtask for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-165</code> - create a translation chain with glossary enforcement (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a translation chain with glossary enforcement for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-166</code> - design a 5-stage research chain with validation gates (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a 5-stage research chain with validation gates for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-167</code> - build a decision chain with option scoring and rationale (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a decision chain with option scoring and rationale for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-168</code> - create a cost-optimized chain with model tiering (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a cost-optimized chain with model tiering for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-169</code> - design a content pipeline: outline, draft, edit, polish (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a content pipeline: outline, draft, edit, polish for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-170</code> - build a chain observability spec with traces (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a chain observability spec with traces for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-171</code> - create a data-extraction chain with schema validation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a data-extraction chain with schema validation for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-172</code> - design a fallback chain when a model fails (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a fallback chain when a model fails for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-173</code> - build a code-gen chain: spec, implement, test, review (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a code-gen chain: spec, implement, test, review for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-174</code> - create a validation gate that blocks low-confidence outputs (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a validation gate that blocks low-confidence outputs for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-175</code> - design a document-QA chain with citation verification (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a document-QA chain with citation verification for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-176</code> - build a multi-agent research crew with merge rules (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a multi-agent research crew with merge rules for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-177</code> - create a chain with self-critique and revision loop (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a chain with self-critique and revision loop for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-178</code> - design a support-triage chain with escalation rules (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a support-triage chain with escalation rules for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-179</code> - build a multi-model router that picks the best model per subtask (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a multi-model router that picks the best model per subtask for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-180</code> - create a translation chain with glossary enforcement (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a translation chain with glossary enforcement for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-181</code> - design a 5-stage research chain with validation gates (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a 5-stage research chain with validation gates for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-182</code> - build a decision chain with option scoring and rationale (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a decision chain with option scoring and rationale for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-183</code> - create a cost-optimized chain with model tiering (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a cost-optimized chain with model tiering for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-184</code> - design a content pipeline: outline, draft, edit, polish (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a content pipeline: outline, draft, edit, polish for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-185</code> - build a chain observability spec with traces (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a chain observability spec with traces for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-186</code> - create a data-extraction chain with schema validation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a data-extraction chain with schema validation for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-187</code> - design a fallback chain when a model fails (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a fallback chain when a model fails for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-188</code> - build a code-gen chain: spec, implement, test, review (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a code-gen chain: spec, implement, test, review for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-189</code> - create a validation gate that blocks low-confidence outputs (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a validation gate that blocks low-confidence outputs for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-190</code> - design a document-QA chain with citation verification (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a document-QA chain with citation verification for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-191</code> - build a multi-agent research crew with merge rules (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a multi-agent research crew with merge rules for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-192</code> - create a chain with self-critique and revision loop (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a chain with self-critique and revision loop for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-193</code> - design a support-triage chain with escalation rules (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a support-triage chain with escalation rules for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-194</code> - build a multi-model router that picks the best model per subtask (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a multi-model router that picks the best model per subtask for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-195</code> - create a translation chain with glossary enforcement (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert multi-model router.
+Create a translation chain with glossary enforcement for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-196</code> - design a 5-stage research chain with validation gates (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior workflow engineer.
+Design a 5-stage research chain with validation gates for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-197</code> - build a decision chain with option scoring and rationale (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert validation engineer.
+Build a decision chain with option scoring and rationale for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-198</code> - create a cost-optimized chain with model tiering (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior AI systems architect.
+Create a cost-optimized chain with model tiering for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-199</code> - design a content pipeline: outline, draft, edit, polish (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a principal prompt architect.
+Design a content pipeline: outline, draft, edit, polish for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-200</code> - build a chain observability spec with traces (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior chain designer.
+Build a chain observability spec with traces for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

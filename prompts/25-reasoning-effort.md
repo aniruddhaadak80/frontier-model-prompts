@@ -2887,3 +2887,973 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>reasoning-effort-151</code> - pick effort for a CRUD ticket vs a distributed bug (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Pick effort for a CRUD ticket vs a distributed bug for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-152</code> - decide when xhigh/max is justified with a checklist (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Decide when xhigh/max is justified with a checklist for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-153</code> - write an incident note when max still fails (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Write an incident note when max still fails for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-154</code> - tune effort for long-doc QA vs short chat (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Tune effort for long-doc QA vs short chat for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-155</code> - create an effort-selection flowchart (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Create an effort-selection flowchart for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-156</code> - build a prompt+effort matrix for support macros (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Build a prompt+effort matrix for support macros for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-157</code> - tune verification depth alongside effort (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Tune verification depth alongside effort for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-158</code> - measure cost-per-task across efforts with retries counted (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Measure cost-per-task across efforts with retries counted for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-159</code> - build a cache strategy to offset higher effort (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Build a cache strategy to offset higher effort for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-160</code> - diagnose a save-but-lost-on-refresh bug before escalating effort (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Diagnose a save-but-lost-on-refresh bug before escalating effort for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-161</code> - design a fallback: low first, escalate on failure signals (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Design a fallback: low first, escalate on failure signals for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-162</code> - build a routing rule: fast lane vs deep lane (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Build a routing rule: fast lane vs deep lane for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-163</code> - analyze latency vs quality trade-offs (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Analyze latency vs quality trade-offs for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-164</code> - design an eval to compare medium vs high on your workload (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Design an eval to compare medium vs high on your workload for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-165</code> - build a regression pack that pins effort per task type (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Build a regression pack that pins effort per task type for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-166</code> - pick effort for a CRUD ticket vs a distributed bug (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Pick effort for a CRUD ticket vs a distributed bug for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-167</code> - decide when xhigh/max is justified with a checklist (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Decide when xhigh/max is justified with a checklist for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-168</code> - write an incident note when max still fails (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Write an incident note when max still fails for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-169</code> - tune effort for long-doc QA vs short chat (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Tune effort for long-doc QA vs short chat for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-170</code> - create an effort-selection flowchart (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Create an effort-selection flowchart for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-171</code> - build a prompt+effort matrix for support macros (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Build a prompt+effort matrix for support macros for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-172</code> - tune verification depth alongside effort (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Tune verification depth alongside effort for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-173</code> - measure cost-per-task across efforts with retries counted (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Measure cost-per-task across efforts with retries counted for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-174</code> - build a cache strategy to offset higher effort (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Build a cache strategy to offset higher effort for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-175</code> - diagnose a save-but-lost-on-refresh bug before escalating effort (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Diagnose a save-but-lost-on-refresh bug before escalating effort for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-176</code> - design a fallback: low first, escalate on failure signals (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Design a fallback: low first, escalate on failure signals for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-177</code> - build a routing rule: fast lane vs deep lane (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Build a routing rule: fast lane vs deep lane for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-178</code> - analyze latency vs quality trade-offs (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Analyze latency vs quality trade-offs for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-179</code> - design an eval to compare medium vs high on your workload (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Design an eval to compare medium vs high on your workload for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-180</code> - build a regression pack that pins effort per task type (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Build a regression pack that pins effort per task type for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-181</code> - pick effort for a CRUD ticket vs a distributed bug (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Pick effort for a CRUD ticket vs a distributed bug for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-182</code> - decide when xhigh/max is justified with a checklist (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Decide when xhigh/max is justified with a checklist for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-183</code> - write an incident note when max still fails (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Write an incident note when max still fails for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-184</code> - tune effort for long-doc QA vs short chat (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Tune effort for long-doc QA vs short chat for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-185</code> - create an effort-selection flowchart (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Create an effort-selection flowchart for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-186</code> - build a prompt+effort matrix for support macros (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Build a prompt+effort matrix for support macros for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-187</code> - tune verification depth alongside effort (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Tune verification depth alongside effort for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-188</code> - measure cost-per-task across efforts with retries counted (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Measure cost-per-task across efforts with retries counted for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-189</code> - build a cache strategy to offset higher effort (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Build a cache strategy to offset higher effort for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-190</code> - diagnose a save-but-lost-on-refresh bug before escalating effort (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Diagnose a save-but-lost-on-refresh bug before escalating effort for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-191</code> - design a fallback: low first, escalate on failure signals (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Design a fallback: low first, escalate on failure signals for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-192</code> - build a routing rule: fast lane vs deep lane (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Build a routing rule: fast lane vs deep lane for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-193</code> - analyze latency vs quality trade-offs (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Analyze latency vs quality trade-offs for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-194</code> - design an eval to compare medium vs high on your workload (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Design an eval to compare medium vs high on your workload for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-195</code> - build a regression pack that pins effort per task type (click to expand)</summary>
+
+```text
+Act as a senior performance engineer.
+Build a regression pack that pins effort per task type for a research lab.
+The intended result is a flowchart description.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Use tools where they help; state what evidence you checked before acting.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-196</code> - pick effort for a CRUD ticket vs a distributed bug (click to expand)</summary>
+
+```text
+Act as a cost-optimization lead.
+Pick effort for a CRUD ticket vs a distributed bug for a high-traffic API.
+The intended result is a cost/latency report outline.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested reasoning effort: `low` (set explicitly; gateway default is low).
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-197</code> - decide when xhigh/max is justified with a checklist (click to expand)</summary>
+
+```text
+Act as a senior reliability engineer.
+Decide when xhigh/max is justified with a checklist for a classroom.
+The intended result is a routing rule table.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Keep a searchable working note so the task survives context compaction.
+Suggested reasoning effort: `medium` (set explicitly; gateway default is low).
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-198</code> - write an incident note when max still fails (click to expand)</summary>
+
+```text
+Act as an expert latency analyst.
+Write an incident note when max still fails for an enterprise pilot.
+The intended result is an eval plan with pass criteria.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Compare against the provided reference and fix the largest gaps first.
+Suggested reasoning effort: `high` (set explicitly; gateway default is low).
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-199</code> - tune effort for long-doc QA vs short chat (click to expand)</summary>
+
+```text
+Act as a senior model tuner.
+Tune effort for long-doc QA vs short chat for a startup budget.
+The intended result is an effort recommendation with rationale.
+Requirements: start at low/medium; escalate only after a documented miss; include repro, logs, and
+tried-steps when escalating.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested reasoning effort: `xhigh` (set explicitly; gateway default is low).
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>reasoning-effort-200</code> - create an effort-selection flowchart (click to expand)</summary>
+
+```text
+Act as an expert eval engineer.
+Create an effort-selection flowchart for a nonprofit.
+The intended result is a pinned config snippet.
+Requirements: pin effort per task type after evals; note gateway default is low; set explicitly.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested reasoning effort: `max` (set explicitly; gateway default is low).
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

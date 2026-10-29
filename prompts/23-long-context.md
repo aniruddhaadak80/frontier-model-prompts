@@ -2812,3 +2812,948 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>long-context-151</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Digest a 500-page manual into a task-indexed guide for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>long-context-152</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Merge three handbooks into one canonical SOP for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>long-context-153</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Design a context-refresh plan for a long project for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>long-context-154</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Find every mention of a deprecated flag for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>long-context-155</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Build a compliance evidence pack for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>long-context-156</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Build a changelog across 50 release notes for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>long-context-157</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Summarize a research corpus with gaps flagged for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>long-context-158</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Summarize a monorepo's conventions from ten docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>long-context-159</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Create a personalized glossary from course material for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>long-context-160</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Extract all action items from a year of meeting notes for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>long-context-161</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Trace a decision across emails and docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>long-context-162</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Build a citation map for a claim family for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>long-context-163</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Build a FAQ from 200 support threads for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>long-context-164</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Reconcile conflicting specs across versions for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>long-context-165</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Audit a contract set for renewal dates for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>long-context-166</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Digest a 500-page manual into a task-indexed guide for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>long-context-167</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Merge three handbooks into one canonical SOP for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>long-context-168</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Design a context-refresh plan for a long project for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>long-context-169</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Find every mention of a deprecated flag for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>long-context-170</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Build a compliance evidence pack for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>long-context-171</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Build a changelog across 50 release notes for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>long-context-172</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Summarize a research corpus with gaps flagged for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>long-context-173</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Summarize a monorepo's conventions from ten docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>long-context-174</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Create a personalized glossary from course material for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>long-context-175</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Extract all action items from a year of meeting notes for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>long-context-176</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Trace a decision across emails and docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>long-context-177</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Build a citation map for a claim family for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>long-context-178</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Build a FAQ from 200 support threads for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>long-context-179</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Reconcile conflicting specs across versions for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>long-context-180</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Audit a contract set for renewal dates for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>long-context-181</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Digest a 500-page manual into a task-indexed guide for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>long-context-182</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Merge three handbooks into one canonical SOP for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>long-context-183</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Design a context-refresh plan for a long project for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>long-context-184</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Find every mention of a deprecated flag for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>long-context-185</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Build a compliance evidence pack for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>long-context-186</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Build a changelog across 50 release notes for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>long-context-187</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Summarize a research corpus with gaps flagged for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>long-context-188</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Summarize a monorepo's conventions from ten docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>long-context-189</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Create a personalized glossary from course material for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>long-context-190</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Extract all action items from a year of meeting notes for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>long-context-191</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Trace a decision across emails and docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>long-context-192</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Build a citation map for a claim family for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>long-context-193</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Build a FAQ from 200 support threads for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>long-context-194</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Reconcile conflicting specs across versions for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>long-context-195</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Act as a senior legal-discovery aide.
+Audit a contract set for renewal dates for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>long-context-196</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Act as a principal analyst.
+Digest a 500-page manual into a task-indexed guide for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>long-context-197</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Act as a senior docs miner.
+Merge three handbooks into one canonical SOP for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>long-context-198</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Act as an expert librarian.
+Design a context-refresh plan for a long project for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>long-context-199</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Act as a senior knowledge engineer.
+Find every mention of a deprecated flag for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>long-context-200</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Act as an expert archivist.
+Build a compliance evidence pack for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

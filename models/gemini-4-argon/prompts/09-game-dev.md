@@ -3564,3 +3564,1198 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>game-dev-151</code> - design a Fall Guys-style obstacle loop with elimination (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Design a Fall Guys-style obstacle loop with elimination for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>game-dev-152</code> - design a 10v10 shooter map with spawns and lanes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Design a 10v10 shooter map with spawns and lanes for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>game-dev-153</code> - build a tutorial, pause, and win-state shell for any prototype (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a tutorial, pause, and win-state shell for any prototype for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>game-dev-154</code> - prototype a kart racer grey-box with drift tuning (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Prototype a kart racer grey-box with drift tuning for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>game-dev-155</code> - design a horror-vignette with sound-cue scares (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Design a horror-vignette with sound-cue scares for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>game-dev-156</code> - build a Sim City-lite zoning and happiness loop (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a Sim City-lite zoning and happiness loop for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>game-dev-157</code> - prototype a puzzle-platformer with three mechanics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Prototype a puzzle-platformer with three mechanics for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>game-dev-158</code> - create a roguelike deck-builder about AI founders (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Create a roguelike deck-builder about AI founders for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>game-dev-159</code> - build a survival-coop agent sandbox with incentives (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a survival-coop agent sandbox with incentives for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>game-dev-160</code> - design a StarCraft-style RTS skirmish with two factions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Design a StarCraft-style RTS skirmish with two factions for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>game-dev-161</code> - design a GTA-style driving sandbox with missions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Design a GTA-style driving sandbox with missions for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>game-dev-162</code> - build a train-top FPS encounter with cover logic (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a train-top FPS encounter with cover logic for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>game-dev-163</code> - create a Red Alert-style RTS harvest-and-attack loop (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Create a Red Alert-style RTS harvest-and-attack loop for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>game-dev-164</code> - prototype a Star Fox-style rail shooter level (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Prototype a Star Fox-style rail shooter level for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>game-dev-165</code> - build a Minecraft-style voxel sandbox starter (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a Minecraft-style voxel sandbox starter for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>game-dev-166</code> - design a Fall Guys-style obstacle loop with elimination (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Design a Fall Guys-style obstacle loop with elimination for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>game-dev-167</code> - design a 10v10 shooter map with spawns and lanes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Design a 10v10 shooter map with spawns and lanes for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>game-dev-168</code> - build a tutorial, pause, and win-state shell for any prototype (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a tutorial, pause, and win-state shell for any prototype for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>game-dev-169</code> - prototype a kart racer grey-box with drift tuning (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Prototype a kart racer grey-box with drift tuning for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>game-dev-170</code> - design a horror-vignette with sound-cue scares (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Design a horror-vignette with sound-cue scares for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>game-dev-171</code> - build a Sim City-lite zoning and happiness loop (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a Sim City-lite zoning and happiness loop for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>game-dev-172</code> - prototype a puzzle-platformer with three mechanics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Prototype a puzzle-platformer with three mechanics for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>game-dev-173</code> - create a roguelike deck-builder about AI founders (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Create a roguelike deck-builder about AI founders for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>game-dev-174</code> - build a survival-coop agent sandbox with incentives (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a survival-coop agent sandbox with incentives for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>game-dev-175</code> - design a StarCraft-style RTS skirmish with two factions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Design a StarCraft-style RTS skirmish with two factions for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>game-dev-176</code> - design a GTA-style driving sandbox with missions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Design a GTA-style driving sandbox with missions for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>game-dev-177</code> - build a train-top FPS encounter with cover logic (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a train-top FPS encounter with cover logic for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>game-dev-178</code> - create a Red Alert-style RTS harvest-and-attack loop (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Create a Red Alert-style RTS harvest-and-attack loop for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>game-dev-179</code> - prototype a Star Fox-style rail shooter level (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Prototype a Star Fox-style rail shooter level for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>game-dev-180</code> - build a Minecraft-style voxel sandbox starter (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a Minecraft-style voxel sandbox starter for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>game-dev-181</code> - design a Fall Guys-style obstacle loop with elimination (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Design a Fall Guys-style obstacle loop with elimination for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>game-dev-182</code> - design a 10v10 shooter map with spawns and lanes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Design a 10v10 shooter map with spawns and lanes for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>game-dev-183</code> - build a tutorial, pause, and win-state shell for any prototype (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a tutorial, pause, and win-state shell for any prototype for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>game-dev-184</code> - prototype a kart racer grey-box with drift tuning (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Prototype a kart racer grey-box with drift tuning for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>game-dev-185</code> - design a horror-vignette with sound-cue scares (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Design a horror-vignette with sound-cue scares for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>game-dev-186</code> - build a Sim City-lite zoning and happiness loop (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a Sim City-lite zoning and happiness loop for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>game-dev-187</code> - prototype a puzzle-platformer with three mechanics (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Prototype a puzzle-platformer with three mechanics for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>game-dev-188</code> - create a roguelike deck-builder about AI founders (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Create a roguelike deck-builder about AI founders for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>game-dev-189</code> - build a survival-coop agent sandbox with incentives (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a survival-coop agent sandbox with incentives for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>game-dev-190</code> - design a StarCraft-style RTS skirmish with two factions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Design a StarCraft-style RTS skirmish with two factions for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>game-dev-191</code> - design a GTA-style driving sandbox with missions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Design a GTA-style driving sandbox with missions for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>game-dev-192</code> - build a train-top FPS encounter with cover logic (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a train-top FPS encounter with cover logic for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>game-dev-193</code> - create a Red Alert-style RTS harvest-and-attack loop (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Create a Red Alert-style RTS harvest-and-attack loop for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>game-dev-194</code> - prototype a Star Fox-style rail shooter level (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Prototype a Star Fox-style rail shooter level for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>game-dev-195</code> - build a Minecraft-style voxel sandbox starter (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior systems designer.
+Build a Minecraft-style voxel sandbox starter for a classroom.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>game-dev-196</code> - design a Fall Guys-style obstacle loop with elimination (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an indie game producer.
+Design a Fall Guys-style obstacle loop with elimination for mobile browsers.
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>game-dev-197</code> - design a 10v10 shooter map with spawns and lanes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior level designer.
+Design a 10v10 shooter map with spawns and lanes for kids ages 10+.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>game-dev-198</code> - build a tutorial, pause, and win-state shell for any prototype (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert playtest lead.
+Build a tutorial, pause, and win-state shell for any prototype for a game jam.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>game-dev-199</code> - prototype a kart racer grey-box with drift tuning (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior game designer.
+Prototype a kart racer grey-box with drift tuning for a web build.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win states before polish; no copied characters,
+music, or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>game-dev-200</code> - design a horror-vignette with sound-cue scares (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert gameplay programmer.
+Design a horror-vignette with sound-cue scares for a streamer demo.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus touch where feasible; include pause, restart, mute, and
+tutorial.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

@@ -3414,3 +3414,1148 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>professional-docs-151</code> - draft a one-page project charter with scope, risks, and milestones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Draft a one-page project charter with scope, risks, and milestones for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-152</code> - create a client onboarding checklist with acceptance criteria (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Create a client onboarding checklist with acceptance criteria for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-153</code> - draft a handover doc a new owner can run with (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Draft a handover doc a new owner can run with for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-154</code> - draft a policy doc with examples and edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Draft a policy doc with examples and edge cases for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-155</code> - build a KPI dashboard spec with definitions and owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Build a KPI dashboard spec with definitions and owners for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-156</code> - write a postmortem that is blameless and action-oriented (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Write a postmortem that is blameless and action-oriented for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-157</code> - write an escalation email that is firm but professional (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Write an escalation email that is firm but professional for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-158</code> - build a project plan with owners, dates, and dependencies (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Build a project plan with owners, dates, and dependencies for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-159</code> - create a decision log with options, trade-offs, and owner (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Create a decision log with options, trade-offs, and owner for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-160</code> - draft an RFP response outline mapped to each requirement (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Draft an RFP response outline mapped to each requirement for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-161</code> - draft a statement of work with deliverables and exclusions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Draft a statement of work with deliverables and exclusions for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-162</code> - create a meeting agenda that forces decisions, not updates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Create a meeting agenda that forces decisions, not updates for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-163</code> - build a stakeholder update with risks and asks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Build a stakeholder update with risks and asks for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-164</code> - write a status report that executives can skim in 60 seconds (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Write a status report that executives can skim in 60 seconds for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-165</code> - write release notes grouped by user impact (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Write release notes grouped by user impact for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-166</code> - draft a one-page project charter with scope, risks, and milestones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Draft a one-page project charter with scope, risks, and milestones for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-167</code> - create a client onboarding checklist with acceptance criteria (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Create a client onboarding checklist with acceptance criteria for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-168</code> - draft a handover doc a new owner can run with (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Draft a handover doc a new owner can run with for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-169</code> - draft a policy doc with examples and edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Draft a policy doc with examples and edge cases for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-170</code> - build a KPI dashboard spec with definitions and owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Build a KPI dashboard spec with definitions and owners for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-171</code> - write a postmortem that is blameless and action-oriented (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Write a postmortem that is blameless and action-oriented for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-172</code> - write an escalation email that is firm but professional (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Write an escalation email that is firm but professional for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-173</code> - build a project plan with owners, dates, and dependencies (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Build a project plan with owners, dates, and dependencies for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-174</code> - create a decision log with options, trade-offs, and owner (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Create a decision log with options, trade-offs, and owner for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-175</code> - draft an RFP response outline mapped to each requirement (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Draft an RFP response outline mapped to each requirement for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-176</code> - draft a statement of work with deliverables and exclusions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Draft a statement of work with deliverables and exclusions for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-177</code> - create a meeting agenda that forces decisions, not updates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Create a meeting agenda that forces decisions, not updates for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-178</code> - build a stakeholder update with risks and asks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Build a stakeholder update with risks and asks for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-179</code> - write a status report that executives can skim in 60 seconds (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Write a status report that executives can skim in 60 seconds for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-180</code> - write release notes grouped by user impact (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Write release notes grouped by user impact for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-181</code> - draft a one-page project charter with scope, risks, and milestones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Draft a one-page project charter with scope, risks, and milestones for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-182</code> - create a client onboarding checklist with acceptance criteria (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Create a client onboarding checklist with acceptance criteria for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-183</code> - draft a handover doc a new owner can run with (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Draft a handover doc a new owner can run with for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-184</code> - draft a policy doc with examples and edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Draft a policy doc with examples and edge cases for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-185</code> - build a KPI dashboard spec with definitions and owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Build a KPI dashboard spec with definitions and owners for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-186</code> - write a postmortem that is blameless and action-oriented (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Write a postmortem that is blameless and action-oriented for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-187</code> - write an escalation email that is firm but professional (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Write an escalation email that is firm but professional for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-188</code> - build a project plan with owners, dates, and dependencies (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Build a project plan with owners, dates, and dependencies for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-189</code> - create a decision log with options, trade-offs, and owner (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Create a decision log with options, trade-offs, and owner for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-190</code> - draft an RFP response outline mapped to each requirement (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Draft an RFP response outline mapped to each requirement for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-191</code> - draft a statement of work with deliverables and exclusions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Draft a statement of work with deliverables and exclusions for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-192</code> - create a meeting agenda that forces decisions, not updates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Create a meeting agenda that forces decisions, not updates for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-193</code> - build a stakeholder update with risks and asks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Build a stakeholder update with risks and asks for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-194</code> - write a status report that executives can skim in 60 seconds (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Write a status report that executives can skim in 60 seconds for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-195</code> - write release notes grouped by user impact (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an executive communications lead.
+Write release notes grouped by user impact for a non-technical executive.
+The intended result is a memo ending in a single recommendation.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-196</code> - draft a one-page project charter with scope, risks, and milestones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior proposal manager.
+Draft a one-page project charter with scope, risks, and milestones for a remote async team.
+The intended result is a checklist with owners and due dates.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-197</code> - create a client onboarding checklist with acceptance criteria (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert technical communicator.
+Create a client onboarding checklist with acceptance criteria for a government tender.
+The intended result is a slide outline with speaker notes.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-198</code> - draft a handover doc a new owner can run with (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior operations manager.
+Draft a handover doc a new owner can run with for a startup board.
+The intended result is a one-page executive summary plus appendix.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-199</code> - draft a policy doc with examples and edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior business writer.
+Draft a policy doc with examples and edge cases for a Fortune 500 client.
+The intended result is a polished doc ready to share.
+Requirements: use plain language; one idea per paragraph; lists only for parallel items; put the
+recommendation first, then evidence.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>professional-docs-200</code> - build a KPI dashboard spec with definitions and owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal consultant.
+Build a KPI dashboard spec with definitions and owners for a cross-functional squad.
+The intended result is a template the team can reuse.
+Requirements: keep each document scannable with headings and tables; no placeholder text; mark
+unknowns as TBD with an owner.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

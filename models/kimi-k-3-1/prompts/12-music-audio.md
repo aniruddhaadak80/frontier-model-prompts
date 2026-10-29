@@ -3414,3 +3414,1148 @@ assumptions and what you did not verify.
 Variant focus 150.
 ```
 </details>
+
+<details>
+<summary><code>music-audio-151</code> - arrange a 2-minute theme with intro/build/drop/outro (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Arrange a 2-minute theme with intro/build/drop/outro for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>music-audio-152</code> - create a mix checklist: gain, EQ, compression, space (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Create a mix checklist: gain, EQ, compression, space for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>music-audio-153</code> - build a mastering delivery checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Build a mastering delivery checklist for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>music-audio-154</code> - build a practice routine for a beginner keyboardist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Build a practice routine for a beginner keyboardist for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>music-audio-155</code> - design a sound logo with variations (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Design a sound logo with variations for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>music-audio-156</code> - design a game-loop track that avoids fatigue (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Design a game-loop track that avoids fatigue for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>music-audio-157</code> - write a jingle brief with three directions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Write a jingle brief with three directions for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>music-audio-158</code> - create a podcast edit plan: umms, levels, chapters (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Create a podcast edit plan: umms, levels, chapters for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>music-audio-159</code> - create a live-set flow with fail-safes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Create a live-set flow with fail-safes for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>music-audio-160</code> - write a chord progression with melody options (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Write a chord progression with melody options for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>music-audio-161</code> - build a sample-organization system (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Build a sample-organization system for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>music-audio-162</code> - build a drum groove with variations and fills (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Build a drum groove with variations and fills for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>music-audio-163</code> - design transition risers and impacts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Design transition risers and impacts for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>music-audio-164</code> - design three synth patches with parameter notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Design three synth patches with parameter notes for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>music-audio-165</code> - write lyrics with rhyme and meter notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Write lyrics with rhyme and meter notes for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>music-audio-166</code> - arrange a 2-minute theme with intro/build/drop/outro (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Arrange a 2-minute theme with intro/build/drop/outro for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>music-audio-167</code> - create a mix checklist: gain, EQ, compression, space (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Create a mix checklist: gain, EQ, compression, space for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>music-audio-168</code> - build a mastering delivery checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Build a mastering delivery checklist for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>music-audio-169</code> - build a practice routine for a beginner keyboardist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Build a practice routine for a beginner keyboardist for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>music-audio-170</code> - design a sound logo with variations (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Design a sound logo with variations for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>music-audio-171</code> - design a game-loop track that avoids fatigue (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Design a game-loop track that avoids fatigue for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>music-audio-172</code> - write a jingle brief with three directions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Write a jingle brief with three directions for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>music-audio-173</code> - create a podcast edit plan: umms, levels, chapters (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Create a podcast edit plan: umms, levels, chapters for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>music-audio-174</code> - create a live-set flow with fail-safes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Create a live-set flow with fail-safes for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>music-audio-175</code> - write a chord progression with melody options (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Write a chord progression with melody options for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>music-audio-176</code> - build a sample-organization system (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Build a sample-organization system for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>music-audio-177</code> - build a drum groove with variations and fills (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Build a drum groove with variations and fills for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>music-audio-178</code> - design transition risers and impacts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Design transition risers and impacts for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>music-audio-179</code> - design three synth patches with parameter notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Design three synth patches with parameter notes for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>music-audio-180</code> - write lyrics with rhyme and meter notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Write lyrics with rhyme and meter notes for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>music-audio-181</code> - arrange a 2-minute theme with intro/build/drop/outro (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Arrange a 2-minute theme with intro/build/drop/outro for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>music-audio-182</code> - create a mix checklist: gain, EQ, compression, space (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Create a mix checklist: gain, EQ, compression, space for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>music-audio-183</code> - build a mastering delivery checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Build a mastering delivery checklist for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>music-audio-184</code> - build a practice routine for a beginner keyboardist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Build a practice routine for a beginner keyboardist for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>music-audio-185</code> - design a sound logo with variations (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Design a sound logo with variations for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>music-audio-186</code> - design a game-loop track that avoids fatigue (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Design a game-loop track that avoids fatigue for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>music-audio-187</code> - write a jingle brief with three directions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Write a jingle brief with three directions for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>music-audio-188</code> - create a podcast edit plan: umms, levels, chapters (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Create a podcast edit plan: umms, levels, chapters for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>music-audio-189</code> - create a live-set flow with fail-safes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Create a live-set flow with fail-safes for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>music-audio-190</code> - write a chord progression with melody options (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Write a chord progression with melody options for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>music-audio-191</code> - build a sample-organization system (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Build a sample-organization system for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>music-audio-192</code> - build a drum groove with variations and fills (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Build a drum groove with variations and fills for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>music-audio-193</code> - design transition risers and impacts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Design transition risers and impacts for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>music-audio-194</code> - design three synth patches with parameter notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Design three synth patches with parameter notes for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>music-audio-195</code> - write lyrics with rhyme and meter notes (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior mixing engineer.
+Write lyrics with rhyme and meter notes for a wedding video.
+The intended result is a delivery pack list.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>music-audio-196</code> - arrange a 2-minute theme with intro/build/drop/outro (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an Ableton workflow coach.
+Arrange a 2-minute theme with intro/build/drop/outro for a classroom.
+The intended result is a cue sheet with timings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>music-audio-197</code> - create a mix checklist: gain, EQ, compression, space (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior podcast engineer.
+Create a mix checklist: gain, EQ, compression, space for a podcast.
+The intended result is a mix checklist with targets.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>music-audio-198</code> - build a mastering delivery checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert composer aide.
+Build a mastering delivery checklist for a game jam.
+The intended result is a patch sheet with settings.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>music-audio-199</code> - build a practice routine for a beginner keyboardist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior music producer.
+Build a practice routine for a beginner keyboardist for a short film.
+The intended result is an arrangement map with bars.
+Requirements: note key, tempo, and time signature for every cue; use original or licensed material
+only.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>music-audio-200</code> - design a sound logo with variations (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert sound designer.
+Design a sound logo with variations for a streamer.
+The intended result is a revision notes template.
+Requirements: mix at safe levels; note loudness targets; document plugin settings so work is
+recallable.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>

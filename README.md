@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-23250-orange" alt="23250 prompts">
-  <img src="https://img.shields.io/badge/models-5-blueviolet" alt="5 models">
-  <img src="https://img.shields.io/badge/categories-31-yellow" alt="31 categories">
+  <img src="https://img.shields.io/badge/prompts-47600-orange" alt="47600 prompts">
+  <img src="https://img.shields.io/badge/models-7-blueviolet" alt="7 models">
+  <img src="https://img.shields.io/badge/categories-34-yellow" alt="34 categories">
   <img src="https://img.shields.io/badge/unique-100_percent-brightgreen" alt="100 percent unique">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license">
   <img src="https://img.shields.io/badge/showcase-live-brightgreen" alt="showcase live">
@@ -11,7 +11,7 @@
 <h1 align="center">Frontier Model Prompt Universe</h1>
 
 <p align="center">
-  <b>23,250 copy-paste prompts across 5 frontier models: GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1 Pro</b>
+  <b>47,600 copy-paste prompts across 7 frontier models: GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1 Pro, DeepSeek V3.2, Grok 4</b>
   <br>
   28 categories x 120 prompts per model. Carousel navigator, real community builds index, API quickstarts, safety notes.
   <br>
@@ -163,6 +163,8 @@ Five frontier models, one prompt library. Each pack ships 28 categories x 120 pr
 | Gemini 4 Argon | Google | `gemini-4-argon` | 1,000,000 | 1,000,000 | (see Google) | Mar 2026 | Deep visual perception, finance/legal, cybersecurity |
 | Muse Wonder | Meta | `muse-wonder` | long-context | - | $4 / $20 | Oct 2026 | Active memory, goal persistence, agentic tasks |
 | Kimi K 3.1 Pro | Moonshot | `kimi-k-3-1-pro` | 1,000,000 | - | open weights (Nov 4 2026) | - | Coding agents, 3D generation, cost-efficient |
+| DeepSeek V3.2 | DeepSeek | `deepseek-v3.2` | 128,000 | 8,000 | open weights | - | Coding, math, cost-efficient |
+| Grok 4 | xAI | `grok-4` | 256,000 | - | (see xAI) | - | Real-time web, reasoning, multimodal |
 
 ```mermaid
 flowchart LR
@@ -239,8 +241,8 @@ Press `?` anywhere for the keyboard map. Press `/` to jump back into search from
 
 | Slice | Count | Share |
 |---|---|---|
-| Total prompts (all models) | 23250 | 100 percent |
-| Prompts per model | 4650 | 5 models |
+| Total prompts (all models) | 47600 | 100 percent |
+| Prompts per model | 6800 | 7 models |
 | Low-level starters | 864 | 25.7 percent |
 | Medium-level builds | 1584 | 47.1 percent |
 | High-level deep work | 912 | 27.1 percent |

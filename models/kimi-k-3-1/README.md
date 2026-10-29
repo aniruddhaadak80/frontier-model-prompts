@@ -1,6 +1,6 @@
 # Kimi K 3.1 Pro Prompt Pack
 
-**4,650 copy-paste prompts** across 31 categories, tuned for `kimi-k-3-1-pro`.
+**6,800 copy-paste prompts** across 34 categories, tuned for `kimi-k-3-1-pro`.
 
 - Model: `kimi-k-3-1-pro`
 - Strengths: Coding agents, 3D generation, open weights, cost-efficient frontier quality.

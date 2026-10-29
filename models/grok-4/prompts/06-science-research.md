@@ -1,0 +1,4161 @@
+# 🔬 Science & Lab Workflows - 120 copyable Grok 4 prompts
+
+> Literature synthesis, protocols, analysis plans, and figure specs.
+
+> Target model: Grok 4 (`grok-4`). xAI flagship; 256K context; real-time web; strong reasoning.
+
+> Safety: defensive / authorized-scope use only. Stop before destructive, irreversible, sending, purchasing, deleting, or permission-changing steps without approval.
+
+**Jump:** [Model index](../../README.md) · [Search all](prompts_index.json)
+
+How to use: click any prompt title to expand it top to bottom, then use the copy icon on the code block.
+
+<details>
+<summary><code>science-research-001</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-002</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-003</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-004</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-005</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-006</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-007</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-008</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-009</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-010</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-011</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-012</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-013</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-014</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-015</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-016</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-017</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-018</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-019</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-020</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-021</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Draft a materials-and-methods section from lab notes for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-022</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Design a blinded evaluation procedure for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-023</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Create a figure plan: panels, stats, and captions for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-024</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Build a calibration schedule for instruments for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-025</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Write a data-analysis plan with pre-registered hypotheses for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-026</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft an ethics-application summary with risk mitigations for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+```
+</details>
+
+<details>
+<summary><code>science-research-027</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Design an experiment with power analysis and randomization for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-028</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Create a systematic-review inclusion/exclusion rubric for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+```
+</details>
+
+<details>
+<summary><code>science-research-029</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft a reproducible protocol with controls and failure modes for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-030</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Write a codebook for qualitative coding for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+```
+</details>
+
+<details>
+<summary><code>science-research-031</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 31.
+```
+</details>
+
+<details>
+<summary><code>science-research-032</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 32.
+```
+</details>
+
+<details>
+<summary><code>science-research-033</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 33.
+```
+</details>
+
+<details>
+<summary><code>science-research-034</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 34.
+```
+</details>
+
+<details>
+<summary><code>science-research-035</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 35.
+```
+</details>
+
+<details>
+<summary><code>science-research-036</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 36.
+```
+</details>
+
+<details>
+<summary><code>science-research-037</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 37.
+```
+</details>
+
+<details>
+<summary><code>science-research-038</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 38.
+```
+</details>
+
+<details>
+<summary><code>science-research-039</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 39.
+```
+</details>
+
+<details>
+<summary><code>science-research-040</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 40.
+```
+</details>
+
+<details>
+<summary><code>science-research-041</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 41.
+```
+</details>
+
+<details>
+<summary><code>science-research-042</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 42.
+```
+</details>
+
+<details>
+<summary><code>science-research-043</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 43.
+```
+</details>
+
+<details>
+<summary><code>science-research-044</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 44.
+```
+</details>
+
+<details>
+<summary><code>science-research-045</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 45.
+```
+</details>
+
+<details>
+<summary><code>science-research-046</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 46.
+```
+</details>
+
+<details>
+<summary><code>science-research-047</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 47.
+```
+</details>
+
+<details>
+<summary><code>science-research-048</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 48.
+```
+</details>
+
+<details>
+<summary><code>science-research-049</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 49.
+```
+</details>
+
+<details>
+<summary><code>science-research-050</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 50.
+```
+</details>
+
+<details>
+<summary><code>science-research-051</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Draft a materials-and-methods section from lab notes for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 51.
+```
+</details>
+
+<details>
+<summary><code>science-research-052</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Design a blinded evaluation procedure for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 52.
+```
+</details>
+
+<details>
+<summary><code>science-research-053</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Create a figure plan: panels, stats, and captions for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 53.
+```
+</details>
+
+<details>
+<summary><code>science-research-054</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Build a calibration schedule for instruments for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 54.
+```
+</details>
+
+<details>
+<summary><code>science-research-055</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Write a data-analysis plan with pre-registered hypotheses for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 55.
+```
+</details>
+
+<details>
+<summary><code>science-research-056</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft an ethics-application summary with risk mitigations for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 56.
+```
+</details>
+
+<details>
+<summary><code>science-research-057</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Design an experiment with power analysis and randomization for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 57.
+```
+</details>
+
+<details>
+<summary><code>science-research-058</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Create a systematic-review inclusion/exclusion rubric for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 58.
+```
+</details>
+
+<details>
+<summary><code>science-research-059</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft a reproducible protocol with controls and failure modes for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 59.
+```
+</details>
+
+<details>
+<summary><code>science-research-060</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Write a codebook for qualitative coding for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 60.
+```
+</details>
+
+<details>
+<summary><code>science-research-061</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 61.
+```
+</details>
+
+<details>
+<summary><code>science-research-062</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 62.
+```
+</details>
+
+<details>
+<summary><code>science-research-063</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 63.
+```
+</details>
+
+<details>
+<summary><code>science-research-064</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 64.
+```
+</details>
+
+<details>
+<summary><code>science-research-065</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 65.
+```
+</details>
+
+<details>
+<summary><code>science-research-066</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 66.
+```
+</details>
+
+<details>
+<summary><code>science-research-067</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 67.
+```
+</details>
+
+<details>
+<summary><code>science-research-068</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 68.
+```
+</details>
+
+<details>
+<summary><code>science-research-069</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 69.
+```
+</details>
+
+<details>
+<summary><code>science-research-070</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 70.
+```
+</details>
+
+<details>
+<summary><code>science-research-071</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 71.
+```
+</details>
+
+<details>
+<summary><code>science-research-072</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 72.
+```
+</details>
+
+<details>
+<summary><code>science-research-073</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 73.
+```
+</details>
+
+<details>
+<summary><code>science-research-074</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 74.
+```
+</details>
+
+<details>
+<summary><code>science-research-075</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 75.
+```
+</details>
+
+<details>
+<summary><code>science-research-076</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 76.
+```
+</details>
+
+<details>
+<summary><code>science-research-077</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 77.
+```
+</details>
+
+<details>
+<summary><code>science-research-078</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 78.
+```
+</details>
+
+<details>
+<summary><code>science-research-079</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 79.
+```
+</details>
+
+<details>
+<summary><code>science-research-080</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 80.
+```
+</details>
+
+<details>
+<summary><code>science-research-081</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Draft a materials-and-methods section from lab notes for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 81.
+```
+</details>
+
+<details>
+<summary><code>science-research-082</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Design a blinded evaluation procedure for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 82.
+```
+</details>
+
+<details>
+<summary><code>science-research-083</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Create a figure plan: panels, stats, and captions for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 83.
+```
+</details>
+
+<details>
+<summary><code>science-research-084</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Build a calibration schedule for instruments for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 84.
+```
+</details>
+
+<details>
+<summary><code>science-research-085</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Write a data-analysis plan with pre-registered hypotheses for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 85.
+```
+</details>
+
+<details>
+<summary><code>science-research-086</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft an ethics-application summary with risk mitigations for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 86.
+```
+</details>
+
+<details>
+<summary><code>science-research-087</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Design an experiment with power analysis and randomization for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 87.
+```
+</details>
+
+<details>
+<summary><code>science-research-088</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Create a systematic-review inclusion/exclusion rubric for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 88.
+```
+</details>
+
+<details>
+<summary><code>science-research-089</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft a reproducible protocol with controls and failure modes for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 89.
+```
+</details>
+
+<details>
+<summary><code>science-research-090</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Write a codebook for qualitative coding for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 90.
+```
+</details>
+
+<details>
+<summary><code>science-research-091</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 91.
+```
+</details>
+
+<details>
+<summary><code>science-research-092</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 92.
+```
+</details>
+
+<details>
+<summary><code>science-research-093</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 93.
+```
+</details>
+
+<details>
+<summary><code>science-research-094</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 94.
+```
+</details>
+
+<details>
+<summary><code>science-research-095</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 95.
+```
+</details>
+
+<details>
+<summary><code>science-research-096</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 96.
+```
+</details>
+
+<details>
+<summary><code>science-research-097</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 97.
+```
+</details>
+
+<details>
+<summary><code>science-research-098</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 98.
+```
+</details>
+
+<details>
+<summary><code>science-research-099</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 99.
+```
+</details>
+
+<details>
+<summary><code>science-research-100</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 100.
+```
+</details>
+
+<details>
+<summary><code>science-research-101</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 101.
+```
+</details>
+
+<details>
+<summary><code>science-research-102</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 102.
+```
+</details>
+
+<details>
+<summary><code>science-research-103</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 103.
+```
+</details>
+
+<details>
+<summary><code>science-research-104</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 104.
+```
+</details>
+
+<details>
+<summary><code>science-research-105</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 105.
+```
+</details>
+
+<details>
+<summary><code>science-research-106</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 106.
+```
+</details>
+
+<details>
+<summary><code>science-research-107</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 107.
+```
+</details>
+
+<details>
+<summary><code>science-research-108</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 108.
+```
+</details>
+
+<details>
+<summary><code>science-research-109</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 109.
+```
+</details>
+
+<details>
+<summary><code>science-research-110</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 110.
+```
+</details>
+
+<details>
+<summary><code>science-research-111</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Draft a materials-and-methods section from lab notes for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 111.
+```
+</details>
+
+<details>
+<summary><code>science-research-112</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Design a blinded evaluation procedure for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 112.
+```
+</details>
+
+<details>
+<summary><code>science-research-113</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Create a figure plan: panels, stats, and captions for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 113.
+```
+</details>
+
+<details>
+<summary><code>science-research-114</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Build a calibration schedule for instruments for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 114.
+```
+</details>
+
+<details>
+<summary><code>science-research-115</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Write a data-analysis plan with pre-registered hypotheses for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 115.
+```
+</details>
+
+<details>
+<summary><code>science-research-116</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft an ethics-application summary with risk mitigations for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 116.
+```
+</details>
+
+<details>
+<summary><code>science-research-117</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Design an experiment with power analysis and randomization for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 117.
+```
+</details>
+
+<details>
+<summary><code>science-research-118</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Create a systematic-review inclusion/exclusion rubric for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 118.
+```
+</details>
+
+<details>
+<summary><code>science-research-119</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft a reproducible protocol with controls and failure modes for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 119.
+```
+</details>
+
+<details>
+<summary><code>science-research-120</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Write a codebook for qualitative coding for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 120.
+```
+</details>
+
+<details>
+<summary><code>science-research-121</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 121.
+```
+</details>
+
+<details>
+<summary><code>science-research-122</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 122.
+```
+</details>
+
+<details>
+<summary><code>science-research-123</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 123.
+```
+</details>
+
+<details>
+<summary><code>science-research-124</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 124.
+```
+</details>
+
+<details>
+<summary><code>science-research-125</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 125.
+```
+</details>
+
+<details>
+<summary><code>science-research-126</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 126.
+```
+</details>
+
+<details>
+<summary><code>science-research-127</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 127.
+```
+</details>
+
+<details>
+<summary><code>science-research-128</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 128.
+```
+</details>
+
+<details>
+<summary><code>science-research-129</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 129.
+```
+</details>
+
+<details>
+<summary><code>science-research-130</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 130.
+```
+</details>
+
+<details>
+<summary><code>science-research-131</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 131.
+```
+</details>
+
+<details>
+<summary><code>science-research-132</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 132.
+```
+</details>
+
+<details>
+<summary><code>science-research-133</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 133.
+```
+</details>
+
+<details>
+<summary><code>science-research-134</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 134.
+```
+</details>
+
+<details>
+<summary><code>science-research-135</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 135.
+```
+</details>
+
+<details>
+<summary><code>science-research-136</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 136.
+```
+</details>
+
+<details>
+<summary><code>science-research-137</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 137.
+```
+</details>
+
+<details>
+<summary><code>science-research-138</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 138.
+```
+</details>
+
+<details>
+<summary><code>science-research-139</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 139.
+```
+</details>
+
+<details>
+<summary><code>science-research-140</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 140.
+```
+</details>
+
+<details>
+<summary><code>science-research-141</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Draft a materials-and-methods section from lab notes for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 141.
+```
+</details>
+
+<details>
+<summary><code>science-research-142</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Design a blinded evaluation procedure for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 142.
+```
+</details>
+
+<details>
+<summary><code>science-research-143</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Create a figure plan: panels, stats, and captions for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 143.
+```
+</details>
+
+<details>
+<summary><code>science-research-144</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Build a calibration schedule for instruments for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 144.
+```
+</details>
+
+<details>
+<summary><code>science-research-145</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Write a data-analysis plan with pre-registered hypotheses for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 145.
+```
+</details>
+
+<details>
+<summary><code>science-research-146</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft an ethics-application summary with risk mitigations for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 146.
+```
+</details>
+
+<details>
+<summary><code>science-research-147</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Design an experiment with power analysis and randomization for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 147.
+```
+</details>
+
+<details>
+<summary><code>science-research-148</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Create a systematic-review inclusion/exclusion rubric for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 148.
+```
+</details>
+
+<details>
+<summary><code>science-research-149</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft a reproducible protocol with controls and failure modes for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 149.
+```
+</details>
+
+<details>
+<summary><code>science-research-150</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Write a codebook for qualitative coding for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 150.
+```
+</details>
+
+<details>
+<summary><code>science-research-151</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 151.
+```
+</details>
+
+<details>
+<summary><code>science-research-152</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 152.
+```
+</details>
+
+<details>
+<summary><code>science-research-153</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 153.
+```
+</details>
+
+<details>
+<summary><code>science-research-154</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 154.
+```
+</details>
+
+<details>
+<summary><code>science-research-155</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 155.
+```
+</details>
+
+<details>
+<summary><code>science-research-156</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 156.
+```
+</details>
+
+<details>
+<summary><code>science-research-157</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 157.
+```
+</details>
+
+<details>
+<summary><code>science-research-158</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 158.
+```
+</details>
+
+<details>
+<summary><code>science-research-159</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 159.
+```
+</details>
+
+<details>
+<summary><code>science-research-160</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 160.
+```
+</details>
+
+<details>
+<summary><code>science-research-161</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 161.
+```
+</details>
+
+<details>
+<summary><code>science-research-162</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 162.
+```
+</details>
+
+<details>
+<summary><code>science-research-163</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 163.
+```
+</details>
+
+<details>
+<summary><code>science-research-164</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 164.
+```
+</details>
+
+<details>
+<summary><code>science-research-165</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 165.
+```
+</details>
+
+<details>
+<summary><code>science-research-166</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 166.
+```
+</details>
+
+<details>
+<summary><code>science-research-167</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 167.
+```
+</details>
+
+<details>
+<summary><code>science-research-168</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 168.
+```
+</details>
+
+<details>
+<summary><code>science-research-169</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 169.
+```
+</details>
+
+<details>
+<summary><code>science-research-170</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 170.
+```
+</details>
+
+<details>
+<summary><code>science-research-171</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Draft a materials-and-methods section from lab notes for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 171.
+```
+</details>
+
+<details>
+<summary><code>science-research-172</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Design a blinded evaluation procedure for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 172.
+```
+</details>
+
+<details>
+<summary><code>science-research-173</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Create a figure plan: panels, stats, and captions for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 173.
+```
+</details>
+
+<details>
+<summary><code>science-research-174</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Build a calibration schedule for instruments for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 174.
+```
+</details>
+
+<details>
+<summary><code>science-research-175</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Write a data-analysis plan with pre-registered hypotheses for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 175.
+```
+</details>
+
+<details>
+<summary><code>science-research-176</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft an ethics-application summary with risk mitigations for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 176.
+```
+</details>
+
+<details>
+<summary><code>science-research-177</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Design an experiment with power analysis and randomization for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 177.
+```
+</details>
+
+<details>
+<summary><code>science-research-178</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Create a systematic-review inclusion/exclusion rubric for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 178.
+```
+</details>
+
+<details>
+<summary><code>science-research-179</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft a reproducible protocol with controls and failure modes for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 179.
+```
+</details>
+
+<details>
+<summary><code>science-research-180</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Write a codebook for qualitative coding for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 180.
+```
+</details>
+
+<details>
+<summary><code>science-research-181</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Synthesize five papers into a gap analysis with citations for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 181.
+```
+</details>
+
+<details>
+<summary><code>science-research-182</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Design a survey instrument with validation steps for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 182.
+```
+</details>
+
+<details>
+<summary><code>science-research-183</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Summarize a conference track into actionable methods for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 183.
+```
+</details>
+
+<details>
+<summary><code>science-research-184</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Build a reagent inventory with storage and safety notes for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 184.
+```
+</details>
+
+<details>
+<summary><code>science-research-185</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Write a replication checklist for a published result for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 185.
+```
+</details>
+
+<details>
+<summary><code>science-research-186</code> - draft a materials-and-methods section from lab notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Draft a materials-and-methods section from lab notes for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 186.
+```
+</details>
+
+<details>
+<summary><code>science-research-187</code> - design a blinded evaluation procedure (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Design a blinded evaluation procedure for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 187.
+```
+</details>
+
+<details>
+<summary><code>science-research-188</code> - create a figure plan: panels, stats, and captions (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Create a figure plan: panels, stats, and captions for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 188.
+```
+</details>
+
+<details>
+<summary><code>science-research-189</code> - build a calibration schedule for instruments (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Build a calibration schedule for instruments for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 189.
+```
+</details>
+
+<details>
+<summary><code>science-research-190</code> - write a data-analysis plan with pre-registered hypotheses (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Write a data-analysis plan with pre-registered hypotheses for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 190.
+```
+</details>
+
+<details>
+<summary><code>science-research-191</code> - draft an ethics-application summary with risk mitigations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Draft an ethics-application summary with risk mitigations for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 191.
+```
+</details>
+
+<details>
+<summary><code>science-research-192</code> - design an experiment with power analysis and randomization (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Design an experiment with power analysis and randomization for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 192.
+```
+</details>
+
+<details>
+<summary><code>science-research-193</code> - create a systematic-review inclusion/exclusion rubric (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Create a systematic-review inclusion/exclusion rubric for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 193.
+```
+</details>
+
+<details>
+<summary><code>science-research-194</code> - draft a reproducible protocol with controls and failure modes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Draft a reproducible protocol with controls and failure modes for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 194.
+```
+</details>
+
+<details>
+<summary><code>science-research-195</code> - write a codebook for qualitative coding (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a principal investigator aide.
+Write a codebook for qualitative coding for a computational team.
+The intended result is a methods section draft.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Use tools where they help; state what evidence you checked before acting.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 195.
+```
+</details>
+
+<details>
+<summary><code>science-research-196</code> - synthesize five papers into a gap analysis with citations (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior biostatistician.
+Synthesize five papers into a gap analysis with citations for a field study.
+The intended result is a figure spec with caption drafts.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+xAI flagship; 256K context; real-time web; strong reasoning.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 196.
+```
+</details>
+
+<details>
+<summary><code>science-research-197</code> - design a survey instrument with validation steps (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert methods writer.
+Design a survey instrument with validation steps for a clinical collaborator.
+The intended result is an analysis plan with decision tree.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Keep a searchable working note so the task survives context compaction.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 197.
+```
+</details>
+
+<details>
+<summary><code>science-research-198</code> - summarize a conference track into actionable methods (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior literature reviewer.
+Summarize a conference track into actionable methods for an undergraduate lab.
+The intended result is a step-numbered protocol.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Compare against the provided reference and fix the largest gaps first.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 198.
+```
+</details>
+
+<details>
+<summary><code>science-research-199</code> - build a reagent inventory with storage and safety notes (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as a senior research scientist.
+Build a reagent inventory with storage and safety notes for a peer-reviewed journal.
+The intended result is a cited synthesis with a gaps table.
+Requirements: distinguish established results from open questions; require units, tolerances, and
+sample sizes wherever relevant.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 199.
+```
+</details>
+
+<details>
+<summary><code>science-research-200</code> - write a replication checklist for a published result (click to expand)</summary>
+
+```text
+Target model: Grok 4 (grok-4).
+Act as an expert lab manager.
+Write a replication checklist for a published result for a grant proposal.
+The intended result is a risk and controls table.
+Requirements: cite primary literature; note confidence per claim; specify what would falsify the
+hypothesis.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+xAI flagship; 256K context; real-time web; strong reasoning.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 200.
+```
+</details>
