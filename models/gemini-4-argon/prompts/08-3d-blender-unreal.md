@@ -4759,3 +4759,1199 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>3d-blender-unreal-201</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Model a steam-train vignette with named collections for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-202</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Build a palace facade study with modular pieces for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-203</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-204</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Create an isometric office diorama with Chiaki-style warmth for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-205</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Build a low-poly Manhattan block with street-level props for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-206</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Design a kitchen scene optimized for a laptop GPU for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-207</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Model a stylized wolf character with clean topology for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-208</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Build a game-ready prop set with LOD notes for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-209</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Reconstruct a room from listing photos with inferred dimensions for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-210</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Create a product turntable scene with studio lighting for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-211</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Block out a seaside house then add lived-in detail pass for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-212</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Build a bottle-ship diorama with water and reef accents for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-213</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Retopology pass plan for a sculpt with pole-flow notes for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-214</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Light a museum gallery for two camera framings for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-215</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Plan a shot list so actors stay in frame for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-216</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Model a steam-train vignette with named collections for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-217</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Build a palace facade study with modular pieces for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-218</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-219</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Create an isometric office diorama with Chiaki-style warmth for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-220</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Build a low-poly Manhattan block with street-level props for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-221</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Design a kitchen scene optimized for a laptop GPU for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-222</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Model a stylized wolf character with clean topology for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-223</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Build a game-ready prop set with LOD notes for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-224</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Reconstruct a room from listing photos with inferred dimensions for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-225</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Create a product turntable scene with studio lighting for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-226</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Block out a seaside house then add lived-in detail pass for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-227</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Build a bottle-ship diorama with water and reef accents for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-228</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Retopology pass plan for a sculpt with pole-flow notes for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-229</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Light a museum gallery for two camera framings for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-230</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Plan a shot list so actors stay in frame for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-231</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Model a steam-train vignette with named collections for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-232</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Build a palace facade study with modular pieces for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-233</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-234</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Create an isometric office diorama with Chiaki-style warmth for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-235</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Build a low-poly Manhattan block with street-level props for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-236</code> - design a kitchen scene optimized for a laptop GPU (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Design a kitchen scene optimized for a laptop GPU for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-237</code> - model a stylized wolf character with clean topology (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Model a stylized wolf character with clean topology for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-238</code> - build a game-ready prop set with LOD notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Build a game-ready prop set with LOD notes for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-239</code> - reconstruct a room from listing photos with inferred dimensions (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Reconstruct a room from listing photos with inferred dimensions for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-240</code> - create a product turntable scene with studio lighting (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Create a product turntable scene with studio lighting for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-241</code> - block out a seaside house then add lived-in detail pass (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Block out a seaside house then add lived-in detail pass for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-242</code> - build a bottle-ship diorama with water and reef accents (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Build a bottle-ship diorama with water and reef accents for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-243</code> - retopology pass plan for a sculpt with pole-flow notes (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Retopology pass plan for a sculpt with pole-flow notes for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-244</code> - light a museum gallery for two camera framings (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Light a museum gallery for two camera framings for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-245</code> - plan a shot list so actors stay in frame (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a Three.js scene developer.
+Plan a shot list so actors stay in frame for a client previz.
+The intended result is a lighting diagram description.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Keep a searchable working note so the task survives context compaction.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-246</code> - model a steam-train vignette with named collections (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior lookdev artist.
+Model a steam-train vignette with named collections for a game jam.
+The intended result is a scene spec with collections and materials.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Compare against the provided reference and fix the largest gaps first.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-247</code> - build a palace facade study with modular pieces (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior 3D artist.
+Build a palace facade study with modular pieces for a portfolio piece.
+The intended result is a step plan plus a Blender-ready task list.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-248</code> - create a Van Gogh-inspired courtyard as a walkable sketch (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an expert Blender technical artist.
+Create a Van Gogh-inspired courtyard as a walkable sketch for a web embed.
+The intended result is a polish list ordered by visual impact.
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-249</code> - create an isometric office diorama with Chiaki-style warmth (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as a senior environment artist.
+Create an isometric office diorama with Chiaki-style warmth for a short film.
+The intended result is an export checklist for Unreal/Web.
+Requirements: use editable geometry and clearly named collections/objects; optimize for the stated
+GPU; note poly counts and texture sizes.
+Use tools where they help; state what evidence you checked before acting.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>3d-blender-unreal-250</code> - build a low-poly Manhattan block with street-level props (click to expand)</summary>
+
+```text
+Target model: Gemini 4 Argon (gemini-4-argon).
+Act as an Unreal scene assembler.
+Build a low-poly Manhattan block with street-level props for a classroom demo.
+The intended result is a QA pass list (normals, scale, naming).
+Requirements: avoid copyrighted characters or brand assets; document camera, units, and export
+settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Sparse MoE with native multimodal (text/image/audio/video).
+Context 1M.
+Knowledge cutoff Mar 2026.
+Strong on knowledge work, finance/legal, cybersecurity defense.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

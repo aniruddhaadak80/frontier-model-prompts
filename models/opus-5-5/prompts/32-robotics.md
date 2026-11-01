@@ -4759,3 +4759,1199 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>robotics-201</code> - create a safety envelope for a mobile robot (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a safety envelope for a mobile robot for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>robotics-202</code> - design a multi-robot coordination protocol (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a multi-robot coordination protocol for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>robotics-203</code> - build a SLAM pipeline with loop closure (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build a SLAM pipeline with loop closure for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>robotics-204</code> - create a failure-recovery plan for manipulation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a failure-recovery plan for manipulation for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>robotics-205</code> - design a grasp planner with force feedback (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a grasp planner with force feedback for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>robotics-206</code> - build a calibration procedure for sensors (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build a calibration procedure for sensors for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>robotics-207</code> - create a sim-to-real transfer plan for a manipulator (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a sim-to-real transfer plan for a manipulator for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>robotics-208</code> - design a navigation stack for indoor environments (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a navigation stack for indoor environments for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>robotics-209</code> - build a motion planner with collision avoidance (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build a motion planner with collision avoidance for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>robotics-210</code> - create a behavior tree for a service robot (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a behavior tree for a service robot for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>robotics-211</code> - design a perception pipeline for object detection and tracking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a perception pipeline for object detection and tracking for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>robotics-212</code> - build a dataset collection plan for imitation learning (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build a dataset collection plan for imitation learning for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>robotics-213</code> - create a human-robot interaction study plan (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a human-robot interaction study plan for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>robotics-214</code> - design a teleoperation interface with haptics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a teleoperation interface with haptics for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>robotics-215</code> - build an evaluation harness for embodied tasks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build an evaluation harness for embodied tasks for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>robotics-216</code> - create a safety envelope for a mobile robot (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a safety envelope for a mobile robot for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>robotics-217</code> - design a multi-robot coordination protocol (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a multi-robot coordination protocol for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>robotics-218</code> - build a SLAM pipeline with loop closure (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build a SLAM pipeline with loop closure for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>robotics-219</code> - create a failure-recovery plan for manipulation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a failure-recovery plan for manipulation for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>robotics-220</code> - design a grasp planner with force feedback (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a grasp planner with force feedback for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>robotics-221</code> - build a calibration procedure for sensors (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build a calibration procedure for sensors for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>robotics-222</code> - create a sim-to-real transfer plan for a manipulator (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a sim-to-real transfer plan for a manipulator for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>robotics-223</code> - design a navigation stack for indoor environments (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a navigation stack for indoor environments for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>robotics-224</code> - build a motion planner with collision avoidance (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build a motion planner with collision avoidance for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>robotics-225</code> - create a behavior tree for a service robot (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a behavior tree for a service robot for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>robotics-226</code> - design a perception pipeline for object detection and tracking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a perception pipeline for object detection and tracking for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>robotics-227</code> - build a dataset collection plan for imitation learning (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build a dataset collection plan for imitation learning for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>robotics-228</code> - create a human-robot interaction study plan (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a human-robot interaction study plan for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>robotics-229</code> - design a teleoperation interface with haptics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a teleoperation interface with haptics for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>robotics-230</code> - build an evaluation harness for embodied tasks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build an evaluation harness for embodied tasks for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>robotics-231</code> - create a safety envelope for a mobile robot (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a safety envelope for a mobile robot for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>robotics-232</code> - design a multi-robot coordination protocol (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a multi-robot coordination protocol for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>robotics-233</code> - build a SLAM pipeline with loop closure (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build a SLAM pipeline with loop closure for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>robotics-234</code> - create a failure-recovery plan for manipulation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a failure-recovery plan for manipulation for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>robotics-235</code> - design a grasp planner with force feedback (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a grasp planner with force feedback for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>robotics-236</code> - build a calibration procedure for sensors (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build a calibration procedure for sensors for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>robotics-237</code> - create a sim-to-real transfer plan for a manipulator (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a sim-to-real transfer plan for a manipulator for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>robotics-238</code> - design a navigation stack for indoor environments (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a navigation stack for indoor environments for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>robotics-239</code> - build a motion planner with collision avoidance (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build a motion planner with collision avoidance for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>robotics-240</code> - create a behavior tree for a service robot (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a behavior tree for a service robot for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>robotics-241</code> - design a perception pipeline for object detection and tracking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a perception pipeline for object detection and tracking for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>robotics-242</code> - build a dataset collection plan for imitation learning (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build a dataset collection plan for imitation learning for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>robotics-243</code> - create a human-robot interaction study plan (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a human-robot interaction study plan for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>robotics-244</code> - design a teleoperation interface with haptics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a teleoperation interface with haptics for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>robotics-245</code> - build an evaluation harness for embodied tasks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior sim-to-real lead.
+Build an evaluation harness for embodied tasks for an industrial robot.
+The intended result is a sim-to-real plan.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>robotics-246</code> - create a safety envelope for a mobile robot (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert HRI designer.
+Create a safety envelope for a mobile robot for a startup.
+The intended result is a control design.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>robotics-247</code> - design a multi-robot coordination protocol (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior robotics engineer.
+Design a multi-robot coordination protocol for a research lab.
+The intended result is an architecture spec.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>robotics-248</code> - build a SLAM pipeline with loop closure (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert perception researcher.
+Build a SLAM pipeline with loop closure for a hackathon.
+The intended result is a deployment runbook.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>robotics-249</code> - create a failure-recovery plan for manipulation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior motion-planning engineer.
+Create a failure-recovery plan for manipulation for a classroom.
+The intended result is an eval harness.
+Requirements: safety first: estop, limits, and monitoring; validate in sim before hardware.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>robotics-250</code> - design a grasp planner with force feedback (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert control systems engineer.
+Design a grasp planner with force feedback for a service robot.
+The intended result is a safety checklist.
+Requirements: respect workspace and force limits; test edge cases and failure modes.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

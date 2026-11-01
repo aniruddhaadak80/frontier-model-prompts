@@ -4759,3 +4759,1199 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>multi-agent-201</code> - build a critic loop: drafter, checker, fixer (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Build a critic loop: drafter, checker, fixer for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-202</code> - build a meeting-to-actions pipeline with owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Build a meeting-to-actions pipeline with owners for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-203</code> - run competing solution spikes then merge winners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Run competing solution spikes then merge winners for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-204</code> - coordinate a test-generation swarm per module (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Coordinate a test-generation swarm per module with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-205</code> - coordinate a migration crew with ownership zones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Coordinate a migration crew with ownership zones in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-206</code> - orchestrate a translation-plus-glossary crew (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Orchestrate a translation-plus-glossary crew for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-207</code> - build a map-reduce doc review with merge rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Build a map-reduce doc review with merge rules for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-208</code> - run a red-vs-blue review (defensive) with judges (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Run a red-vs-blue review (defensive) with judges for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-209</code> - orchestrate design+code+QA agents with handoffs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Orchestrate design+code+QA agents with handoffs for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-210</code> - build a support-triage swarm with escalation (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Build a support-triage swarm with escalation with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-211</code> - split a research brief across three parallel subagents (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Split a research brief across three parallel subagents in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-212</code> - coordinate a release crew: notes, QA, comms (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Coordinate a release crew: notes, QA, comms for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-213</code> - design an agent stop/ask/continue policy (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Design an agent stop/ask/continue policy for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-214</code> - orchestrate a data pipeline: extract, validate, load agents (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Orchestrate a data pipeline: extract, validate, load agents for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-215</code> - run a docs-sync crew across repos (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Run a docs-sync crew across repos for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-216</code> - build a critic loop: drafter, checker, fixer (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Build a critic loop: drafter, checker, fixer with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-217</code> - build a meeting-to-actions pipeline with owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Build a meeting-to-actions pipeline with owners in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-218</code> - run competing solution spikes then merge winners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Run competing solution spikes then merge winners for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-219</code> - coordinate a test-generation swarm per module (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Coordinate a test-generation swarm per module for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-220</code> - coordinate a migration crew with ownership zones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Coordinate a migration crew with ownership zones for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-221</code> - orchestrate a translation-plus-glossary crew (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Orchestrate a translation-plus-glossary crew for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-222</code> - build a map-reduce doc review with merge rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Build a map-reduce doc review with merge rules with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-223</code> - run a red-vs-blue review (defensive) with judges (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Run a red-vs-blue review (defensive) with judges in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-224</code> - orchestrate design+code+QA agents with handoffs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Orchestrate design+code+QA agents with handoffs for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-225</code> - build a support-triage swarm with escalation (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Build a support-triage swarm with escalation for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-226</code> - split a research brief across three parallel subagents (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Split a research brief across three parallel subagents for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-227</code> - coordinate a release crew: notes, QA, comms (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Coordinate a release crew: notes, QA, comms for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-228</code> - design an agent stop/ask/continue policy (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Design an agent stop/ask/continue policy with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-229</code> - orchestrate a data pipeline: extract, validate, load agents (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Orchestrate a data pipeline: extract, validate, load agents in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-230</code> - run a docs-sync crew across repos (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Run a docs-sync crew across repos for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-231</code> - build a critic loop: drafter, checker, fixer (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Build a critic loop: drafter, checker, fixer for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-232</code> - build a meeting-to-actions pipeline with owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Build a meeting-to-actions pipeline with owners for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-233</code> - run competing solution spikes then merge winners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Run competing solution spikes then merge winners for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-234</code> - coordinate a test-generation swarm per module (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Coordinate a test-generation swarm per module with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-235</code> - coordinate a migration crew with ownership zones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Coordinate a migration crew with ownership zones in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-236</code> - orchestrate a translation-plus-glossary crew (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Orchestrate a translation-plus-glossary crew for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-237</code> - build a map-reduce doc review with merge rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Build a map-reduce doc review with merge rules for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-238</code> - run a red-vs-blue review (defensive) with judges (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Run a red-vs-blue review (defensive) with judges for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-239</code> - orchestrate design+code+QA agents with handoffs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Orchestrate design+code+QA agents with handoffs for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-240</code> - build a support-triage swarm with escalation (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Build a support-triage swarm with escalation with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-241</code> - split a research brief across three parallel subagents (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Split a research brief across three parallel subagents in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-242</code> - coordinate a release crew: notes, QA, comms (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Coordinate a release crew: notes, QA, comms for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-243</code> - design an agent stop/ask/continue policy (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Design an agent stop/ask/continue policy for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-244</code> - orchestrate a data pipeline: extract, validate, load agents (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Orchestrate a data pipeline: extract, validate, load agents for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-245</code> - run a docs-sync crew across repos (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a multi-agent systems lead.
+Run a docs-sync crew across repos for a startup team.
+The intended result is a merge rubric.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-246</code> - build a critic loop: drafter, checker, fixer (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior autonomy engineer.
+Build a critic loop: drafter, checker, fixer with the Responses API.
+The intended result is subagent briefs with acceptance criteria.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-247</code> - build a meeting-to-actions pipeline with owners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal agent architect.
+Build a meeting-to-actions pipeline with owners in Codex.
+The intended result is an orchestration plan with swimlanes.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-248</code> - run competing solution spikes then merge winners (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior orchestrator designer.
+Run competing solution spikes then merge winners for a hackathon.
+The intended result is a stop-and-ask policy.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-249</code> - coordinate a test-generation swarm per module (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert workflow engineer.
+Coordinate a test-generation swarm per module for a classroom demo.
+The intended result is a cost/latency estimate.
+Requirements: name when to delegate vs do directly; define each subagent's inputs, outputs, and done
+criteria.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>multi-agent-250</code> - coordinate a migration crew with ownership zones (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior Codex operator.
+Coordinate a migration crew with ownership zones for an enterprise pilot.
+The intended result is a handoff template.
+Requirements: cap parallelism; note rate and cost limits; define conflict resolution when agents
+disagree.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

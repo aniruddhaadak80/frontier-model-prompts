@@ -4659,3 +4659,1174 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>prompt-debugging-201</code> - trace a scope-escape to its instruction source (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Trace a scope-escape to its instruction source for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-202</code> - design a canary eval before wide rollout (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Design a canary eval before wide rollout for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-203</code> - design a prompt A/B with success criteria (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Design a prompt A/B with success criteria for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-204</code> - create a prompt-version log with diffs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Create a prompt-version log with diffs for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-205</code> - build a minimal repro for a flaky agent run (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Build a minimal repro for a flaky agent run for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-206</code> - write a failure taxonomy with examples (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Write a failure taxonomy with examples for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-207</code> - audit AGENTS.md for conflicting instructions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Audit AGENTS.md for conflicting instructions for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-208</code> - build a confusion matrix for a classifier prompt (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Build a confusion matrix for a classifier prompt for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-209</code> - find which SKILL.md line caused a stall and quote it (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Find which SKILL.md line caused a stall and quote it for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-210</code> - diagnose over-testing on tiny diffs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Diagnose over-testing on tiny diffs for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-211</code> - diagnose why Astra keeps asking instead of acting (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Diagnose why Astra keeps asking instead of acting for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-212</code> - audit verbosity: find the formatting instruction causing bloat (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Audit verbosity: find the formatting instruction causing bloat for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-213</code> - build a stop-word/slop-word lint pass (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Build a stop-word/slop-word lint pass for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-214</code> - build a regression set from five real failures (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Build a regression set from five real failures for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-215</code> - audit PII leakage paths in a workflow (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Audit PII leakage paths in a workflow for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-216</code> - trace a scope-escape to its instruction source (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Trace a scope-escape to its instruction source for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-217</code> - design a canary eval before wide rollout (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Design a canary eval before wide rollout for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-218</code> - design a prompt A/B with success criteria (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Design a prompt A/B with success criteria for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-219</code> - create a prompt-version log with diffs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Create a prompt-version log with diffs for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-220</code> - build a minimal repro for a flaky agent run (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Build a minimal repro for a flaky agent run for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-221</code> - write a failure taxonomy with examples (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Write a failure taxonomy with examples for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-222</code> - audit AGENTS.md for conflicting instructions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Audit AGENTS.md for conflicting instructions for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-223</code> - build a confusion matrix for a classifier prompt (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Build a confusion matrix for a classifier prompt for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-224</code> - find which SKILL.md line caused a stall and quote it (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Find which SKILL.md line caused a stall and quote it for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-225</code> - diagnose over-testing on tiny diffs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Diagnose over-testing on tiny diffs for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-226</code> - diagnose why Astra keeps asking instead of acting (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Diagnose why Astra keeps asking instead of acting for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-227</code> - audit verbosity: find the formatting instruction causing bloat (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Audit verbosity: find the formatting instruction causing bloat for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-228</code> - build a stop-word/slop-word lint pass (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Build a stop-word/slop-word lint pass for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-229</code> - build a regression set from five real failures (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Build a regression set from five real failures for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-230</code> - audit PII leakage paths in a workflow (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Audit PII leakage paths in a workflow for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-231</code> - trace a scope-escape to its instruction source (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Trace a scope-escape to its instruction source for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-232</code> - design a canary eval before wide rollout (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Design a canary eval before wide rollout for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-233</code> - design a prompt A/B with success criteria (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Design a prompt A/B with success criteria for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-234</code> - create a prompt-version log with diffs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Create a prompt-version log with diffs for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-235</code> - build a minimal repro for a flaky agent run (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Build a minimal repro for a flaky agent run for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-236</code> - write a failure taxonomy with examples (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Write a failure taxonomy with examples for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-237</code> - audit AGENTS.md for conflicting instructions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Audit AGENTS.md for conflicting instructions for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-238</code> - build a confusion matrix for a classifier prompt (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Build a confusion matrix for a classifier prompt for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-239</code> - find which SKILL.md line caused a stall and quote it (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Find which SKILL.md line caused a stall and quote it for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-240</code> - diagnose over-testing on tiny diffs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Diagnose over-testing on tiny diffs for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-241</code> - diagnose why Astra keeps asking instead of acting (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Diagnose why Astra keeps asking instead of acting for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-242</code> - audit verbosity: find the formatting instruction causing bloat (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Audit verbosity: find the formatting instruction causing bloat for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-243</code> - build a stop-word/slop-word lint pass (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Build a stop-word/slop-word lint pass for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-244</code> - build a regression set from five real failures (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Build a regression set from five real failures for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-245</code> - audit PII leakage paths in a workflow (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior skills curator.
+Audit PII leakage paths in a workflow for an enterprise.
+The intended result is an A/B plan with metrics.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-246</code> - trace a scope-escape to its instruction source (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert eval designer.
+Trace a scope-escape to its instruction source for a startup.
+The intended result is a minimal repro.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-247</code> - design a canary eval before wide rollout (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior prompt engineer.
+Design a canary eval before wide rollout for a platform team.
+The intended result is a diagnosis with quoted evidence.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-248</code> - design a prompt A/B with success criteria (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert agent debugger.
+Design a prompt A/B with success criteria for a client audit.
+The intended result is a version log.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-249</code> - create a prompt-version log with diffs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior DX engineer.
+Create a prompt-version log with diffs for open source.
+The intended result is a regression pack.
+Requirements: quote the exact file and line that caused behavior; distinguish explicit user intent
+from inferred context.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>prompt-debugging-250</code> - build a minimal repro for a flaky agent run (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a staff AI auditor.
+Build a minimal repro for a flaky agent run for a classroom.
+The intended result is a cleaned instruction set.
+Requirements: one variable per A/B; keep failing transcripts verbatim for review.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

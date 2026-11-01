@@ -162,7 +162,7 @@ export default function Home() {
                 if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
               }
             }}
-            placeholder="Search 6800 prompts, press / anytime"
+            placeholder="Search 9000 prompts, press / anytime"
             aria-label="Search prompts across the page"
           />
           <select
@@ -238,10 +238,10 @@ export default function Home() {
             <br />
             starts from a <span className="gold">great prompt</span>.
             <br />
-            Here are <span className="sea">6,800</span> of them.
+            Here are <span className="sea">9,000</span> of them.
           </h1>
           <p className="lead">
-            A cinematic, searchable showcase for the GPT-6 Astra Awesome Hub. Filter 34
+            A cinematic, searchable showcase for the GPT-6 Astra Awesome Hub. Filter 36
             hard-coded categories, expand any card downward, and copy the full prompt in
             one click. No sideways scrolling, no guesswork.
           </p>
@@ -251,7 +251,7 @@ export default function Home() {
           </div>
           <div className="stats">
             <div className="stat">
-              <b><CountUp to={6800} /></b>
+              <b><CountUp to={9000} /></b>
               <span>Copy-ready prompts</span>
             </div>
             <div className="stat">

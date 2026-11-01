@@ -4559,3 +4559,1149 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>prompt-chains-201</code> - create a data-extraction chain with schema validation (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a data-extraction chain with schema validation for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-202</code> - design a fallback chain when a model fails (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a fallback chain when a model fails for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-203</code> - build a code-gen chain: spec, implement, test, review (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a code-gen chain: spec, implement, test, review for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-204</code> - create a validation gate that blocks low-confidence outputs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a validation gate that blocks low-confidence outputs for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-205</code> - design a document-QA chain with citation verification (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a document-QA chain with citation verification for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-206</code> - build a multi-agent research crew with merge rules (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a multi-agent research crew with merge rules for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-207</code> - create a chain with self-critique and revision loop (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a chain with self-critique and revision loop for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-208</code> - design a support-triage chain with escalation rules (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a support-triage chain with escalation rules for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-209</code> - build a multi-model router that picks the best model per subtask (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a multi-model router that picks the best model per subtask for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-210</code> - create a translation chain with glossary enforcement (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a translation chain with glossary enforcement for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-211</code> - design a 5-stage research chain with validation gates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a 5-stage research chain with validation gates for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-212</code> - build a decision chain with option scoring and rationale (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a decision chain with option scoring and rationale for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-213</code> - create a cost-optimized chain with model tiering (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a cost-optimized chain with model tiering for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-214</code> - design a content pipeline: outline, draft, edit, polish (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a content pipeline: outline, draft, edit, polish for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-215</code> - build a chain observability spec with traces (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a chain observability spec with traces for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-216</code> - create a data-extraction chain with schema validation (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a data-extraction chain with schema validation for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-217</code> - design a fallback chain when a model fails (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a fallback chain when a model fails for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-218</code> - build a code-gen chain: spec, implement, test, review (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a code-gen chain: spec, implement, test, review for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-219</code> - create a validation gate that blocks low-confidence outputs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a validation gate that blocks low-confidence outputs for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-220</code> - design a document-QA chain with citation verification (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a document-QA chain with citation verification for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-221</code> - build a multi-agent research crew with merge rules (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a multi-agent research crew with merge rules for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-222</code> - create a chain with self-critique and revision loop (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a chain with self-critique and revision loop for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-223</code> - design a support-triage chain with escalation rules (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a support-triage chain with escalation rules for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-224</code> - build a multi-model router that picks the best model per subtask (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a multi-model router that picks the best model per subtask for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-225</code> - create a translation chain with glossary enforcement (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a translation chain with glossary enforcement for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-226</code> - design a 5-stage research chain with validation gates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a 5-stage research chain with validation gates for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-227</code> - build a decision chain with option scoring and rationale (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a decision chain with option scoring and rationale for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-228</code> - create a cost-optimized chain with model tiering (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a cost-optimized chain with model tiering for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-229</code> - design a content pipeline: outline, draft, edit, polish (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a content pipeline: outline, draft, edit, polish for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-230</code> - build a chain observability spec with traces (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a chain observability spec with traces for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-231</code> - create a data-extraction chain with schema validation (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a data-extraction chain with schema validation for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-232</code> - design a fallback chain when a model fails (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a fallback chain when a model fails for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-233</code> - build a code-gen chain: spec, implement, test, review (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a code-gen chain: spec, implement, test, review for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-234</code> - create a validation gate that blocks low-confidence outputs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a validation gate that blocks low-confidence outputs for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-235</code> - design a document-QA chain with citation verification (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a document-QA chain with citation verification for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-236</code> - build a multi-agent research crew with merge rules (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a multi-agent research crew with merge rules for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-237</code> - create a chain with self-critique and revision loop (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a chain with self-critique and revision loop for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-238</code> - design a support-triage chain with escalation rules (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a support-triage chain with escalation rules for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-239</code> - build a multi-model router that picks the best model per subtask (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a multi-model router that picks the best model per subtask for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-240</code> - create a translation chain with glossary enforcement (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a translation chain with glossary enforcement for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-241</code> - design a 5-stage research chain with validation gates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a 5-stage research chain with validation gates for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-242</code> - build a decision chain with option scoring and rationale (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a decision chain with option scoring and rationale for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-243</code> - create a cost-optimized chain with model tiering (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a cost-optimized chain with model tiering for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-244</code> - design a content pipeline: outline, draft, edit, polish (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a content pipeline: outline, draft, edit, polish for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-245</code> - build a chain observability spec with traces (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert validation engineer.
+Build a chain observability spec with traces for an enterprise.
+The intended result is a validation gate design.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-246</code> - create a data-extraction chain with schema validation (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior AI systems architect.
+Create a data-extraction chain with schema validation for a startup.
+The intended result is a router policy.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-247</code> - design a fallback chain when a model fails (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal prompt architect.
+Design a fallback chain when a model fails for a production API.
+The intended result is a chain spec with stages.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-248</code> - build a code-gen chain: spec, implement, test, review (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior chain designer.
+Build a code-gen chain: spec, implement, test, review for open source.
+The intended result is a test plan.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-249</code> - create a validation gate that blocks low-confidence outputs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert multi-model router.
+Create a validation gate that blocks low-confidence outputs for a classroom.
+The intended result is a cost/latency estimate.
+Requirements: cap chain length; note latency and cost; validate each stage before passing forward.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>prompt-chains-250</code> - design a document-QA chain with citation verification (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior workflow engineer.
+Design a document-QA chain with citation verification for a research lab.
+The intended result is a trace schema.
+Requirements: keep stages idempotent where possible; log inputs/outputs for audit.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

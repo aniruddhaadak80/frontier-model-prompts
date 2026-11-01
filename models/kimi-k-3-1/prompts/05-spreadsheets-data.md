@@ -4559,3 +4559,1149 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>spreadsheets-data-201</code> - design a commission model with caps and accelerators (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Design a commission model with caps and accelerators for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-202</code> - create a loan amortization schedule with extra-payment scenarios (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Create a loan amortization schedule with extra-payment scenarios for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-203</code> - create a cohort retention table from raw events (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Create a cohort retention table from raw events for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-204</code> - build a capacity plan from velocity and leave data (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Build a capacity plan from velocity and leave data for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-205</code> - build a budget tracker with variance alerts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Build a budget tracker with variance alerts for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-206</code> - reconcile invoices against POs and flag exceptions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Reconcile invoices against POs and flag exceptions for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-207</code> - clean a messy contact list: dedupe, normalize, validate (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Clean a messy contact list: dedupe, normalize, validate for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-208</code> - design a survey analysis sheet with significance flags (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Design a survey analysis sheet with significance flags for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-209</code> - build a pricing calculator with tiers, discounts, and guardrails (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Build a pricing calculator with tiers, discounts, and guardrails for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-210</code> - build a churn-risk score from usage signals (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Build a churn-risk score from usage signals for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-211</code> - reconcile two transaction exports and isolate mismatches (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Reconcile two transaction exports and isolate mismatches for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-212</code> - create a hiring pipeline funnel with conversion rates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Create a hiring pipeline funnel with conversion rates for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-213</code> - design a data-entry template with validation rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Design a data-entry template with validation rules for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-214</code> - build an inventory reorder sheet with lead-time math (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Build an inventory reorder sheet with lead-time math for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-215</code> - build a marketing attribution sheet with UTM hygiene checks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Build a marketing attribution sheet with UTM hygiene checks for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-216</code> - design a commission model with caps and accelerators (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Design a commission model with caps and accelerators for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-217</code> - create a loan amortization schedule with extra-payment scenarios (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Create a loan amortization schedule with extra-payment scenarios for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-218</code> - create a cohort retention table from raw events (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Create a cohort retention table from raw events for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-219</code> - build a capacity plan from velocity and leave data (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Build a capacity plan from velocity and leave data for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-220</code> - build a budget tracker with variance alerts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Build a budget tracker with variance alerts for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-221</code> - reconcile invoices against POs and flag exceptions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Reconcile invoices against POs and flag exceptions for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-222</code> - clean a messy contact list: dedupe, normalize, validate (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Clean a messy contact list: dedupe, normalize, validate for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-223</code> - design a survey analysis sheet with significance flags (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Design a survey analysis sheet with significance flags for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-224</code> - build a pricing calculator with tiers, discounts, and guardrails (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Build a pricing calculator with tiers, discounts, and guardrails for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-225</code> - build a churn-risk score from usage signals (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Build a churn-risk score from usage signals for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-226</code> - reconcile two transaction exports and isolate mismatches (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Reconcile two transaction exports and isolate mismatches for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-227</code> - create a hiring pipeline funnel with conversion rates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Create a hiring pipeline funnel with conversion rates for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-228</code> - design a data-entry template with validation rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Design a data-entry template with validation rules for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-229</code> - build an inventory reorder sheet with lead-time math (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Build an inventory reorder sheet with lead-time math for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-230</code> - build a marketing attribution sheet with UTM hygiene checks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Build a marketing attribution sheet with UTM hygiene checks for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-231</code> - design a commission model with caps and accelerators (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Design a commission model with caps and accelerators for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-232</code> - create a loan amortization schedule with extra-payment scenarios (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Create a loan amortization schedule with extra-payment scenarios for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-233</code> - create a cohort retention table from raw events (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Create a cohort retention table from raw events for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-234</code> - build a capacity plan from velocity and leave data (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Build a capacity plan from velocity and leave data for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-235</code> - build a budget tracker with variance alerts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Build a budget tracker with variance alerts for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-236</code> - reconcile invoices against POs and flag exceptions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Reconcile invoices against POs and flag exceptions for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-237</code> - clean a messy contact list: dedupe, normalize, validate (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Clean a messy contact list: dedupe, normalize, validate for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-238</code> - design a survey analysis sheet with significance flags (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Design a survey analysis sheet with significance flags for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-239</code> - build a pricing calculator with tiers, discounts, and guardrails (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Build a pricing calculator with tiers, discounts, and guardrails for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-240</code> - build a churn-risk score from usage signals (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Build a churn-risk score from usage signals for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-241</code> - reconcile two transaction exports and isolate mismatches (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Reconcile two transaction exports and isolate mismatches for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-242</code> - create a hiring pipeline funnel with conversion rates (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Create a hiring pipeline funnel with conversion rates for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-243</code> - design a data-entry template with validation rules (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Design a data-entry template with validation rules for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-244</code> - build an inventory reorder sheet with lead-time math (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Build an inventory reorder sheet with lead-time math for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-245</code> - build a marketing attribution sheet with UTM hygiene checks (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior RevOps analyst.
+Build a marketing attribution sheet with UTM hygiene checks for a nonprofit.
+The intended result is a dashboard-ready summary with charts described.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-246</code> - design a commission model with caps and accelerators (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert data-quality engineer.
+Design a commission model with caps and accelerators for a sales ops team.
+The intended result is a reconciliation table with exception reasons.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-247</code> - create a loan amortization schedule with extra-payment scenarios (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior data analyst.
+Create a loan amortization schedule with extra-payment scenarios for a finance team.
+The intended result is a clean workbook spec plus formulas.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-248</code> - create a cohort retention table from raw events (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert spreadsheet modeler.
+Create a cohort retention table from raw events for a manufacturing planner.
+The intended result is a QA checklist with check totals.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-249</code> - build a capacity plan from velocity and leave data (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior FP&A analyst.
+Build a capacity plan from velocity and leave data for a SaaS startup.
+The intended result is a model with sensitivity scenarios.
+Requirements: preserve raw data on a separate untouched sheet; every formula must be auditable; no
+hard-coded magic numbers.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>spreadsheets-data-250</code> - build a budget tracker with variance alerts (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an operations data lead.
+Build a budget tracker with variance alerts for a marketplace seller.
+The intended result is a CSV of cleaned rows plus a reject log.
+Requirements: validate totals against source data before concluding; use consistent date, currency,
+and timezone handling.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

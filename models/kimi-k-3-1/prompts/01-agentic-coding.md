@@ -4799,3 +4799,1209 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>agentic-coding-201</code> - optimize a slow database query path and prove the speedup with benchmark (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Optimize a slow database query path and prove the speedup with benchmarks for a healthcare data
+service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-202</code> - write a migration script with dry-run, rollback, and data validation (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Write a migration script with dry-run, rollback, and data validation for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-203</code> - add role-based access control to an existing API with tests (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Add role-based access control to an existing API with tests for an open-source library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-204</code> - add structured logging, tracing, and health checks to a service (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Add structured logging, tracing, and health checks to a service for an enterprise internal tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-205</code> - implement a background job queue with retries, idempotency, and observab (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Implement a background job queue with retries, idempotency, and observability for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-206</code> - implement pagination, filtering, and sorting for a list API (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Implement pagination, filtering, and sorting for a list API for an e-commerce platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-207</code> - migrate a callback-based flow to async/await with full type safety (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Migrate a callback-based flow to async/await with full type safety for a healthcare data service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-208</code> - convert a monolith handler into testable services with dependency inject (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Convert a monolith handler into testable services with dependency injection for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-209</code> - refactor a tangled module into clean layers without changing behavior (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Refactor a tangled module into clean layers without changing behavior for an open-source library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-210</code> - build a webhook receiver with signature verification and replay protecti (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Build a webhook receiver with signature verification and replay protection for an enterprise
+internal tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-211</code> - build a REST endpoint with validation, error handling, and OpenAPI docs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Build a REST endpoint with validation, error handling, and OpenAPI docs for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-212</code> - harden an auth flow against OWASP Top 10 issues and document the threat  (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Harden an auth flow against OWASP Top 10 issues and document the threat model for an e-commerce
+platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-213</code> - create a feature-flag system with targeting rules and audit log (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Create a feature-flag system with targeting rules and audit log for a healthcare data service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-214</code> - create a CLI tool with config files, help text, and shell completions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Create a CLI tool with config files, help text, and shell completions for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-215</code> - build a file-upload pipeline with virus-scan hooks and size limits (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Build a file-upload pipeline with virus-scan hooks and size limits for an open-source library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-216</code> - optimize a slow database query path and prove the speedup with benchmark (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Optimize a slow database query path and prove the speedup with benchmarks for an enterprise internal
+tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-217</code> - write a migration script with dry-run, rollback, and data validation (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Write a migration script with dry-run, rollback, and data validation for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-218</code> - add role-based access control to an existing API with tests (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Add role-based access control to an existing API with tests for an e-commerce platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-219</code> - add structured logging, tracing, and health checks to a service (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Add structured logging, tracing, and health checks to a service for a healthcare data service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-220</code> - implement a background job queue with retries, idempotency, and observab (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Implement a background job queue with retries, idempotency, and observability for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-221</code> - implement pagination, filtering, and sorting for a list API (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Implement pagination, filtering, and sorting for a list API for an open-source library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-222</code> - migrate a callback-based flow to async/await with full type safety (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Migrate a callback-based flow to async/await with full type safety for an enterprise internal tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-223</code> - convert a monolith handler into testable services with dependency inject (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Convert a monolith handler into testable services with dependency injection for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-224</code> - refactor a tangled module into clean layers without changing behavior (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Refactor a tangled module into clean layers without changing behavior for an e-commerce platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-225</code> - build a webhook receiver with signature verification and replay protecti (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Build a webhook receiver with signature verification and replay protection for a healthcare data
+service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-226</code> - build a REST endpoint with validation, error handling, and OpenAPI docs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Build a REST endpoint with validation, error handling, and OpenAPI docs for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-227</code> - harden an auth flow against OWASP Top 10 issues and document the threat  (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Harden an auth flow against OWASP Top 10 issues and document the threat model for an open-source
+library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-228</code> - create a feature-flag system with targeting rules and audit log (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Create a feature-flag system with targeting rules and audit log for an enterprise internal tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-229</code> - create a CLI tool with config files, help text, and shell completions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Create a CLI tool with config files, help text, and shell completions for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-230</code> - build a file-upload pipeline with virus-scan hooks and size limits (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Build a file-upload pipeline with virus-scan hooks and size limits for an e-commerce platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-231</code> - optimize a slow database query path and prove the speedup with benchmark (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Optimize a slow database query path and prove the speedup with benchmarks for a healthcare data
+service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-232</code> - write a migration script with dry-run, rollback, and data validation (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Write a migration script with dry-run, rollback, and data validation for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-233</code> - add role-based access control to an existing API with tests (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Add role-based access control to an existing API with tests for an open-source library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-234</code> - add structured logging, tracing, and health checks to a service (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Add structured logging, tracing, and health checks to a service for an enterprise internal tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-235</code> - implement a background job queue with retries, idempotency, and observab (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Implement a background job queue with retries, idempotency, and observability for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-236</code> - implement pagination, filtering, and sorting for a list API (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Implement pagination, filtering, and sorting for a list API for an e-commerce platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-237</code> - migrate a callback-based flow to async/await with full type safety (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Migrate a callback-based flow to async/await with full type safety for a healthcare data service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-238</code> - convert a monolith handler into testable services with dependency inject (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Convert a monolith handler into testable services with dependency injection for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-239</code> - refactor a tangled module into clean layers without changing behavior (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Refactor a tangled module into clean layers without changing behavior for an open-source library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-240</code> - build a webhook receiver with signature verification and replay protecti (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Build a webhook receiver with signature verification and replay protection for an enterprise
+internal tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-241</code> - build a REST endpoint with validation, error handling, and OpenAPI docs (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Build a REST endpoint with validation, error handling, and OpenAPI docs for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-242</code> - harden an auth flow against OWASP Top 10 issues and document the threat  (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Harden an auth flow against OWASP Top 10 issues and document the threat model for an e-commerce
+platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-243</code> - create a feature-flag system with targeting rules and audit log (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Create a feature-flag system with targeting rules and audit log for a healthcare data service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-244</code> - create a CLI tool with config files, help text, and shell completions (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Create a CLI tool with config files, help text, and shell completions for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-245</code> - build a file-upload pipeline with virus-scan hooks and size limits (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior platform engineer.
+Build a file-upload pipeline with virus-scan hooks and size limits for an open-source library.
+The intended result is production-ready code with README usage section.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Keep a searchable working note so the task survives context compaction.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-246</code> - optimize a slow database query path and prove the speedup with benchmark (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert code reviewer.
+Optimize a slow database query path and prove the speedup with benchmarks for an enterprise internal
+tool.
+The intended result is a unified diff with a file-by-file change summary.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Compare against the provided reference and fix the largest gaps first.
+Suggested thinking mode: `off`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-247</code> - write a migration script with dry-run, rollback, and data validation (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior staff engineer.
+Write a migration script with dry-run, rollback, and data validation for a SaaS startup.
+The intended result is a working implementation plus a short test report.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Suggested thinking mode: `low`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-248</code> - add role-based access control to an existing API with tests (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a principal software architect.
+Add role-based access control to an existing API with tests for an e-commerce platform.
+The intended result is code plus rollback instructions.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Suggested thinking mode: `medium`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-249</code> - add structured logging, tracing, and health checks to a service (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior backend engineer.
+Add structured logging, tracing, and health checks to a service for a healthcare data service.
+The intended result is implementation with before/after benchmarks in a table.
+Requirements: reuse existing project patterns; no new dependencies without justification; keep the
+diff minimal and reversible; explain every new abstraction.
+Use tools where they help; state what evidence you checked before acting.
+Suggested thinking mode: `high`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>agentic-coding-250</code> - implement a background job queue with retries, idempotency, and observab (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a staff full-stack developer.
+Implement a background job queue with retries, idempotency, and observability for a fintech backend.
+The intended result is code plus a review checklist of risks and mitigations.
+Requirements: preserve backward compatibility for existing API consumers; optimize for readability
+over cleverness; add docstrings for public APIs.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Suggested thinking mode: `max`.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

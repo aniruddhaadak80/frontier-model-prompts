@@ -4359,3 +4359,1099 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>web-dev-201</code> - create an event site with schedule, speakers, and tickets (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Create an event site with schedule, speakers, and tickets for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>web-dev-202</code> - build a waitlist page with referral mechanics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Build a waitlist page with referral mechanics for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>web-dev-203</code> - build a clinic booking site with forms and reminders copy (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Build a clinic booking site with forms and reminders copy for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>web-dev-204</code> - create a changelog page with version filters (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Create a changelog page with version filters for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>web-dev-205</code> - create a portfolio site with case-study templates (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Create a portfolio site with case-study templates for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>web-dev-206</code> - build a docs site with search-friendly structure (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Build a docs site with search-friendly structure for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>web-dev-207</code> - build a SaaS landing page with pricing and FAQ (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Build a SaaS landing page with pricing and FAQ for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>web-dev-208</code> - create a job-board page with filters and alerts copy (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Create a job-board page with filters and alerts copy for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>web-dev-209</code> - create a restaurant site with menu, reservations, and local SEO (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Create a restaurant site with menu, reservations, and local SEO for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>web-dev-210</code> - build a nonprofit donation page with impact stories (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Build a nonprofit donation page with impact stories for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>web-dev-211</code> - build a luxury auto-detailing site with booking flow (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Build a luxury auto-detailing site with booking flow for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>web-dev-212</code> - create a course landing page with curriculum and outcomes (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Create a course landing page with curriculum and outcomes for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>web-dev-213</code> - run a frontend QA pass: nav, forms, mobile, a11y (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Run a frontend QA pass: nav, forms, mobile, a11y for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>web-dev-214</code> - build a real-estate listing page with gallery and tour CTA (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Build a real-estate listing page with gallery and tour CTA for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>web-dev-215</code> - create a pricing-page A/B test plan with hypotheses (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Create a pricing-page A/B test plan with hypotheses for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>web-dev-216</code> - create an event site with schedule, speakers, and tickets (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Create an event site with schedule, speakers, and tickets for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>web-dev-217</code> - build a waitlist page with referral mechanics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Build a waitlist page with referral mechanics for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>web-dev-218</code> - build a clinic booking site with forms and reminders copy (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Build a clinic booking site with forms and reminders copy for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>web-dev-219</code> - create a changelog page with version filters (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Create a changelog page with version filters for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>web-dev-220</code> - create a portfolio site with case-study templates (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Create a portfolio site with case-study templates for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>web-dev-221</code> - build a docs site with search-friendly structure (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Build a docs site with search-friendly structure for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>web-dev-222</code> - build a SaaS landing page with pricing and FAQ (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Build a SaaS landing page with pricing and FAQ for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>web-dev-223</code> - create a job-board page with filters and alerts copy (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Create a job-board page with filters and alerts copy for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>web-dev-224</code> - create a restaurant site with menu, reservations, and local SEO (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Create a restaurant site with menu, reservations, and local SEO for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>web-dev-225</code> - build a nonprofit donation page with impact stories (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Build a nonprofit donation page with impact stories for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>web-dev-226</code> - build a luxury auto-detailing site with booking flow (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Build a luxury auto-detailing site with booking flow for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>web-dev-227</code> - create a course landing page with curriculum and outcomes (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Create a course landing page with curriculum and outcomes for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>web-dev-228</code> - run a frontend QA pass: nav, forms, mobile, a11y (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Run a frontend QA pass: nav, forms, mobile, a11y for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>web-dev-229</code> - build a real-estate listing page with gallery and tour CTA (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Build a real-estate listing page with gallery and tour CTA for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>web-dev-230</code> - create a pricing-page A/B test plan with hypotheses (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Create a pricing-page A/B test plan with hypotheses for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>web-dev-231</code> - create an event site with schedule, speakers, and tickets (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Create an event site with schedule, speakers, and tickets for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>web-dev-232</code> - build a waitlist page with referral mechanics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Build a waitlist page with referral mechanics for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>web-dev-233</code> - build a clinic booking site with forms and reminders copy (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Build a clinic booking site with forms and reminders copy for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>web-dev-234</code> - create a changelog page with version filters (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Create a changelog page with version filters for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>web-dev-235</code> - create a portfolio site with case-study templates (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Create a portfolio site with case-study templates for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>web-dev-236</code> - build a docs site with search-friendly structure (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Build a docs site with search-friendly structure for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>web-dev-237</code> - build a SaaS landing page with pricing and FAQ (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Build a SaaS landing page with pricing and FAQ for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>web-dev-238</code> - create a job-board page with filters and alerts copy (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Create a job-board page with filters and alerts copy for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>web-dev-239</code> - create a restaurant site with menu, reservations, and local SEO (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Create a restaurant site with menu, reservations, and local SEO for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>web-dev-240</code> - build a nonprofit donation page with impact stories (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Build a nonprofit donation page with impact stories for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>web-dev-241</code> - build a luxury auto-detailing site with booking flow (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Build a luxury auto-detailing site with booking flow for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>web-dev-242</code> - create a course landing page with curriculum and outcomes (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Create a course landing page with curriculum and outcomes for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>web-dev-243</code> - run a frontend QA pass: nav, forms, mobile, a11y (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Run a frontend QA pass: nav, forms, mobile, a11y for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>web-dev-244</code> - build a real-estate listing page with gallery and tour CTA (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Build a real-estate listing page with gallery and tour CTA for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>web-dev-245</code> - create a pricing-page A/B test plan with hypotheses (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior UX engineer.
+Create a pricing-page A/B test plan with hypotheses for a creator.
+The intended result is a sitemap with URL slugs.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>web-dev-246</code> - create an event site with schedule, speakers, and tickets (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert SEO copywriter.
+Create an event site with schedule, speakers, and tickets for a SaaS startup.
+The intended result is a QA report with fixes applied.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>web-dev-247</code> - build a waitlist page with referral mechanics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior frontend engineer.
+Build a waitlist page with referral mechanics for a local business.
+The intended result is a complete page spec plus copy deck.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>web-dev-248</code> - build a clinic booking site with forms and reminders copy (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert web designer.
+Build a clinic booking site with forms and reminders copy for a nonprofit.
+The intended result is a launch checklist.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>web-dev-249</code> - create a changelog page with version filters (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior conversion strategist.
+Create a changelog page with version filters for a school.
+The intended result is a component list with states.
+Requirements: mobile-responsive; strong CTAs; refined typography; no lorem ipsum; real copy
+throughout.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>web-dev-250</code> - create a portfolio site with case-study templates (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a full-stack web developer.
+Create a portfolio site with case-study templates for a clinic.
+The intended result is an SEO checklist with titles/metas.
+Requirements: fast load: note image sizes and font choices; test every CTA and form before calling
+it done.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

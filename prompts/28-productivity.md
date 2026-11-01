@@ -3657,3 +3657,924 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>productivity-201</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Create a tax-return document checklist (no filing advice beyond organizing) for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>productivity-202</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Plan a conference visit: sessions, meetings, transit for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>productivity-203</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Build a moving checklist with vendors and dates for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>productivity-204</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Build a workout plan around injury constraints for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>productivity-205</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Draft job-search outreach with tailored bullets for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>productivity-206</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Create a home-maintenance schedule for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>productivity-207</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Plan a 3-day trip with transit, stays, and backups for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>productivity-208</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Draft a landlord email with photos inventory for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>productivity-209</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Triage 200 unread emails into act/file/archive with drafts for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>productivity-210</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Build a gift list with budget and links for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>productivity-211</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Plan a week of meals from fridge contents and a budget for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>productivity-212</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Organize a family calendar with conflicts resolved for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>productivity-213</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Build a weekly review template that takes 15 minutes for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>productivity-214</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Plan a study week around work shifts for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>productivity-215</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Draft a meeting follow-up sequence for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>productivity-216</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Create a tax-return document checklist (no filing advice beyond organizing) for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>productivity-217</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Plan a conference visit: sessions, meetings, transit for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>productivity-218</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Build a moving checklist with vendors and dates for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>productivity-219</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Build a workout plan around injury constraints for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>productivity-220</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Draft job-search outreach with tailored bullets for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>productivity-221</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Create a home-maintenance schedule for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>productivity-222</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Plan a 3-day trip with transit, stays, and backups for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>productivity-223</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Draft a landlord email with photos inventory for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>productivity-224</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Triage 200 unread emails into act/file/archive with drafts for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>productivity-225</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Build a gift list with budget and links for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>productivity-226</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Plan a week of meals from fridge contents and a budget for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>productivity-227</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Organize a family calendar with conflicts resolved for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>productivity-228</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Build a weekly review template that takes 15 minutes for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>productivity-229</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Plan a study week around work shifts for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>productivity-230</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Draft a meeting follow-up sequence for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>productivity-231</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Create a tax-return document checklist (no filing advice beyond organizing) for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>productivity-232</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Plan a conference visit: sessions, meetings, transit for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>productivity-233</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Build a moving checklist with vendors and dates for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>productivity-234</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Build a workout plan around injury constraints for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>productivity-235</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Draft job-search outreach with tailored bullets for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>productivity-236</code> - create a home-maintenance schedule (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Create a home-maintenance schedule for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>productivity-237</code> - plan a 3-day trip with transit, stays, and backups (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Plan a 3-day trip with transit, stays, and backups for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>productivity-238</code> - draft a landlord email with photos inventory (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Draft a landlord email with photos inventory for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>productivity-239</code> - triage 200 unread emails into act/file/archive with drafts (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Triage 200 unread emails into act/file/archive with drafts for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>productivity-240</code> - build a gift list with budget and links (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Build a gift list with budget and links for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>productivity-241</code> - plan a week of meals from fridge contents and a budget (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Plan a week of meals from fridge contents and a budget for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>productivity-242</code> - organize a family calendar with conflicts resolved (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Organize a family calendar with conflicts resolved for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>productivity-243</code> - build a weekly review template that takes 15 minutes (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Build a weekly review template that takes 15 minutes for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>productivity-244</code> - plan a study week around work shifts (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Plan a study week around work shifts for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>productivity-245</code> - draft a meeting follow-up sequence (click to expand)</summary>
+
+```text
+Act as a meal-planning aide.
+Draft a meeting follow-up sequence for a freelancer.
+The intended result is an itinerary with links and backups.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Keep a searchable working note so the task survives context compaction.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>productivity-246</code> - create a tax-return document checklist (no filing advice beyond organizi (click to expand)</summary>
+
+```text
+Act as a senior home-ops organizer.
+Create a tax-return document checklist (no filing advice beyond organizing) for a student.
+The intended result is drafts (unsent) plus a send list.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Compare against the provided reference and fix the largest gaps first.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>productivity-247</code> - plan a conference visit: sessions, meetings, transit (click to expand)</summary>
+
+```text
+Act as an expert executive assistant.
+Plan a conference visit: sessions, meetings, transit for a busy parent.
+The intended result is a ready-to-run plan with checklist.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>productivity-248</code> - build a moving checklist with vendors and dates (click to expand)</summary>
+
+```text
+Act as a senior life-admin coach.
+Build a moving checklist with vendors and dates for a remote worker.
+The intended result is a 15-minute review template.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>productivity-249</code> - build a workout plan around injury constraints (click to expand)</summary>
+
+```text
+Act as a travel planner.
+Build a workout plan around injury constraints for a traveler.
+The intended result is a budget table.
+Requirements: confirm before any booking, purchase, send, or share; personalize with stated
+constraints; ask only if outcome-changing.
+Use tools where they help; state what evidence you checked before acting.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>productivity-250</code> - draft job-search outreach with tailored bullets (click to expand)</summary>
+
+```text
+Act as a senior career coach.
+Draft job-search outreach with tailored bullets for a new grad.
+The intended result is a tracker with owners/dates.
+Requirements: keep budgets explicit with totals; protect private details; redact for sharing.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

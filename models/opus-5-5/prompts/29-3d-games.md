@@ -4959,3 +4959,1249 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>3d-games-201</code> - create a VR interaction sandbox with grab/teleport/physics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Create a VR interaction sandbox with grab/teleport/physics for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>3d-games-202</code> - design a tower-defense 3D map with pathing and waves (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a tower-defense 3D map with pathing and waves for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>3d-games-203</code> - build a multiplayer lobby with matchmaking and rollback netcode (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a multiplayer lobby with matchmaking and rollback netcode for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>3d-games-204</code> - create an open-world traversal loop with climbing and gliding (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Create an open-world traversal loop with climbing and gliding for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>3d-games-205</code> - design a third-person action loop with lock-on and dodge (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a third-person action loop with lock-on and dodge for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>3d-games-206</code> - build a 3D inventory and crafting UI with drag-drop (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a 3D inventory and crafting UI with drag-drop for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>3d-games-207</code> - prototype a physics-based puzzle with rigidbody stacking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Prototype a physics-based puzzle with rigidbody stacking for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>3d-games-208</code> - design a boss fight with phase transitions and telegraphs (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a boss fight with phase transitions and telegraphs for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>3d-games-209</code> - build a voxel sandbox with chunk streaming and LOD (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a voxel sandbox with chunk streaming and LOD for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>3d-games-210</code> - prototype a stealth game with vision cones and noise (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Prototype a stealth game with vision cones and noise for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>3d-games-211</code> - design a 3D platformer with momentum-based movement and coyote time (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a 3D platformer with momentum-based movement and coyote time for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>3d-games-212</code> - build a procedural dungeon with seeded generation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a procedural dungeon with seeded generation for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>3d-games-213</code> - prototype a 3D metroidvania with ability gating (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Prototype a 3D metroidvania with ability gating for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>3d-games-214</code> - design a racing game with spline-based AI and drift tuning (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a racing game with spline-based AI and drift tuning for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>3d-games-215</code> - build a replay system with deterministic playback (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a replay system with deterministic playback for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>3d-games-216</code> - create a VR interaction sandbox with grab/teleport/physics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Create a VR interaction sandbox with grab/teleport/physics for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>3d-games-217</code> - design a tower-defense 3D map with pathing and waves (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a tower-defense 3D map with pathing and waves for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>3d-games-218</code> - build a multiplayer lobby with matchmaking and rollback netcode (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a multiplayer lobby with matchmaking and rollback netcode for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>3d-games-219</code> - create an open-world traversal loop with climbing and gliding (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Create an open-world traversal loop with climbing and gliding for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>3d-games-220</code> - design a third-person action loop with lock-on and dodge (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a third-person action loop with lock-on and dodge for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>3d-games-221</code> - build a 3D inventory and crafting UI with drag-drop (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a 3D inventory and crafting UI with drag-drop for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>3d-games-222</code> - prototype a physics-based puzzle with rigidbody stacking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Prototype a physics-based puzzle with rigidbody stacking for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>3d-games-223</code> - design a boss fight with phase transitions and telegraphs (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a boss fight with phase transitions and telegraphs for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>3d-games-224</code> - build a voxel sandbox with chunk streaming and LOD (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a voxel sandbox with chunk streaming and LOD for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>3d-games-225</code> - prototype a stealth game with vision cones and noise (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Prototype a stealth game with vision cones and noise for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>3d-games-226</code> - design a 3D platformer with momentum-based movement and coyote time (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a 3D platformer with momentum-based movement and coyote time for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>3d-games-227</code> - build a procedural dungeon with seeded generation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a procedural dungeon with seeded generation for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>3d-games-228</code> - prototype a 3D metroidvania with ability gating (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Prototype a 3D metroidvania with ability gating for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>3d-games-229</code> - design a racing game with spline-based AI and drift tuning (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a racing game with spline-based AI and drift tuning for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>3d-games-230</code> - build a replay system with deterministic playback (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a replay system with deterministic playback for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>3d-games-231</code> - create a VR interaction sandbox with grab/teleport/physics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Create a VR interaction sandbox with grab/teleport/physics for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>3d-games-232</code> - design a tower-defense 3D map with pathing and waves (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a tower-defense 3D map with pathing and waves for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>3d-games-233</code> - build a multiplayer lobby with matchmaking and rollback netcode (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a multiplayer lobby with matchmaking and rollback netcode for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>3d-games-234</code> - create an open-world traversal loop with climbing and gliding (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Create an open-world traversal loop with climbing and gliding for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>3d-games-235</code> - design a third-person action loop with lock-on and dodge (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a third-person action loop with lock-on and dodge for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>3d-games-236</code> - build a 3D inventory and crafting UI with drag-drop (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a 3D inventory and crafting UI with drag-drop for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>3d-games-237</code> - prototype a physics-based puzzle with rigidbody stacking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Prototype a physics-based puzzle with rigidbody stacking for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>3d-games-238</code> - design a boss fight with phase transitions and telegraphs (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a boss fight with phase transitions and telegraphs for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>3d-games-239</code> - build a voxel sandbox with chunk streaming and LOD (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a voxel sandbox with chunk streaming and LOD for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>3d-games-240</code> - prototype a stealth game with vision cones and noise (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Prototype a stealth game with vision cones and noise for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>3d-games-241</code> - design a 3D platformer with momentum-based movement and coyote time (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a 3D platformer with momentum-based movement and coyote time for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>3d-games-242</code> - build a procedural dungeon with seeded generation (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a procedural dungeon with seeded generation for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>3d-games-243</code> - prototype a 3D metroidvania with ability gating (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Prototype a 3D metroidvania with ability gating for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>3d-games-244</code> - design a racing game with spline-based AI and drift tuning (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a racing game with spline-based AI and drift tuning for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>3d-games-245</code> - build a replay system with deterministic playback (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior multiplayer engineer.
+Build a replay system with deterministic playback for Godot.
+The intended result is a playtest script with pass/fail criteria.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>3d-games-246</code> - create a VR interaction sandbox with grab/teleport/physics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert VR interaction designer.
+Create a VR interaction sandbox with grab/teleport/physics for Unreal.
+The intended result is a mechanics table with tuning numbers.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>3d-games-247</code> - design a tower-defense 3D map with pathing and waves (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior game engine programmer.
+Design a tower-defense 3D map with pathing and waves for Unity.
+The intended result is a game design one-pager plus build steps.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>3d-games-248</code> - build a multiplayer lobby with matchmaking and rollback netcode (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert 3D gameplay designer.
+Build a multiplayer lobby with matchmaking and rollback netcode for a game jam.
+The intended result is a polish backlog ordered by fun impact.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>3d-games-249</code> - create an open-world traversal loop with climbing and gliding (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior Unity/Unreal developer.
+Create an open-world traversal loop with climbing and gliding for VR headsets.
+The intended result is a level layout description.
+Requirements: playable first: controls, goal, fail/win before polish; no copied characters, music,
+or brand assets.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>3d-games-250</code> - design a third-person action loop with lock-on and dodge (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert physics programmer.
+Design a third-person action loop with lock-on and dodge for a web build (Three.js).
+The intended result is a cut/keep scope list.
+Requirements: design for keyboard plus controller plus touch; include pause, restart, mute,
+tutorial, and settings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

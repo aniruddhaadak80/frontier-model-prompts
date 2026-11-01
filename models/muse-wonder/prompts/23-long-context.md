@@ -4759,3 +4759,1199 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>long-context-201</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Build a changelog across 50 release notes for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>long-context-202</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Summarize a research corpus with gaps flagged for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>long-context-203</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Summarize a monorepo's conventions from ten docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>long-context-204</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Create a personalized glossary from course material for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>long-context-205</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Extract all action items from a year of meeting notes for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>long-context-206</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Trace a decision across emails and docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>long-context-207</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Build a citation map for a claim family for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>long-context-208</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Build a FAQ from 200 support threads for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>long-context-209</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Reconcile conflicting specs across versions for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>long-context-210</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Audit a contract set for renewal dates for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>long-context-211</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Digest a 500-page manual into a task-indexed guide for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>long-context-212</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Merge three handbooks into one canonical SOP for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>long-context-213</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Design a context-refresh plan for a long project for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>long-context-214</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Find every mention of a deprecated flag for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>long-context-215</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Build a compliance evidence pack for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>long-context-216</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Build a changelog across 50 release notes for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>long-context-217</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Summarize a research corpus with gaps flagged for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>long-context-218</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Summarize a monorepo's conventions from ten docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>long-context-219</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Create a personalized glossary from course material for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>long-context-220</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Extract all action items from a year of meeting notes for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>long-context-221</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Trace a decision across emails and docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>long-context-222</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Build a citation map for a claim family for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>long-context-223</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Build a FAQ from 200 support threads for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>long-context-224</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Reconcile conflicting specs across versions for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>long-context-225</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Audit a contract set for renewal dates for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>long-context-226</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Digest a 500-page manual into a task-indexed guide for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>long-context-227</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Merge three handbooks into one canonical SOP for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>long-context-228</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Design a context-refresh plan for a long project for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>long-context-229</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Find every mention of a deprecated flag for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>long-context-230</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Build a compliance evidence pack for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>long-context-231</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Build a changelog across 50 release notes for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>long-context-232</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Summarize a research corpus with gaps flagged for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>long-context-233</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Summarize a monorepo's conventions from ten docs for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>long-context-234</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Create a personalized glossary from course material for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>long-context-235</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Extract all action items from a year of meeting notes for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>long-context-236</code> - trace a decision across emails and docs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Trace a decision across emails and docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>long-context-237</code> - build a citation map for a claim family (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Build a citation map for a claim family for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>long-context-238</code> - build a FAQ from 200 support threads (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Build a FAQ from 200 support threads for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>long-context-239</code> - reconcile conflicting specs across versions (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Reconcile conflicting specs across versions for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>long-context-240</code> - audit a contract set for renewal dates (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Audit a contract set for renewal dates for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>long-context-241</code> - digest a 500-page manual into a task-indexed guide (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Digest a 500-page manual into a task-indexed guide for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>long-context-242</code> - merge three handbooks into one canonical SOP (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Merge three handbooks into one canonical SOP for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>long-context-243</code> - design a context-refresh plan for a long project (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Design a context-refresh plan for a long project for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>long-context-244</code> - find every mention of a deprecated flag (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Find every mention of a deprecated flag for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>long-context-245</code> - build a compliance evidence pack (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior docs miner.
+Build a compliance evidence pack for support.
+The intended result is a citation map.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Keep a searchable working note so the task survives context compaction.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>long-context-246</code> - build a changelog across 50 release notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert librarian.
+Build a changelog across 50 release notes for engineering.
+The intended result is a conflicts table with resolutions.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Compare against the provided reference and fix the largest gaps first.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>long-context-247</code> - summarize a research corpus with gaps flagged (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior knowledge engineer.
+Summarize a research corpus with gaps flagged for legal.
+The intended result is an indexed summary with locators.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>long-context-248</code> - summarize a monorepo's conventions from ten docs (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as an expert archivist.
+Summarize a monorepo's conventions from ten docs for execs.
+The intended result is a gaps list.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>long-context-249</code> - create a personalized glossary from course material (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a senior legal-discovery aide.
+Create a personalized glossary from course material for auditors.
+The intended result is a canonical SOP draft.
+Requirements: label authoritative vs reference sources explicitly; state what is stale and what
+supersedes it.
+Use tools where they help; state what evidence you checked before acting.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>long-context-250</code> - extract all action items from a year of meeting notes (click to expand)</summary>
+
+```text
+Target model: Muse Wonder (muse-wonder).
+Act as a principal analyst.
+Extract all action items from a year of meeting notes for students.
+The intended result is an evidence pack.
+Requirements: note what was not found, not just what was; resolve conflicts by recency+authority,
+then flag residue.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Active memory + goal persistence for long-context conversations.
+Meta Model API $4/$20.
+Released Oct 12, 2026.
+Strong agentic task completion.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

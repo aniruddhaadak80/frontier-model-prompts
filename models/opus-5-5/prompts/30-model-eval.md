@@ -4859,3 +4859,1224 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>model-eval-201</code> - create a hallucination-detection eval with gold answers (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create a hallucination-detection eval with gold answers for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>model-eval-202</code> - design a bias and fairness probe across demographics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design a bias and fairness probe across demographics for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>model-eval-203</code> - build a capability probe for tool-use reliability (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a capability probe for tool-use reliability for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>model-eval-204</code> - create an agentic-task completion eval with checkpoints (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create an agentic-task completion eval with checkpoints for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>model-eval-205</code> - design an A/B comparison protocol for two model versions (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design an A/B comparison protocol for two model versions for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>model-eval-206</code> - build a structured-output validity eval with schema checks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a structured-output validity eval with schema checks for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>model-eval-207</code> - create a regression pack that pins behavior per task type (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create a regression pack that pins behavior per task type for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>model-eval-208</code> - design a multi-turn coherence eval with state tracking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design a multi-turn coherence eval with state tracking for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>model-eval-209</code> - build a red-team prompt set for jailbreak resistance (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a red-team prompt set for jailbreak resistance for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>model-eval-210</code> - create a long-context retrieval eval with needle tasks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create a long-context retrieval eval with needle tasks for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>model-eval-211</code> - design an eval suite for a coding agent with hidden tests (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design an eval suite for a coding agent with hidden tests for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>model-eval-212</code> - build a safety refusal eval with benign and adversarial cases (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a safety refusal eval with benign and adversarial cases for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>model-eval-213</code> - create a regression dashboard spec with trend alerts (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create a regression dashboard spec with trend alerts for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>model-eval-214</code> - design a latency/cost/quality trade-off benchmark (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design a latency/cost/quality trade-off benchmark for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>model-eval-215</code> - build a robustness eval with paraphrase and noise (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a robustness eval with paraphrase and noise for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>model-eval-216</code> - create a hallucination-detection eval with gold answers (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create a hallucination-detection eval with gold answers for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>model-eval-217</code> - design a bias and fairness probe across demographics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design a bias and fairness probe across demographics for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>model-eval-218</code> - build a capability probe for tool-use reliability (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a capability probe for tool-use reliability for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>model-eval-219</code> - create an agentic-task completion eval with checkpoints (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create an agentic-task completion eval with checkpoints for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>model-eval-220</code> - design an A/B comparison protocol for two model versions (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design an A/B comparison protocol for two model versions for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>model-eval-221</code> - build a structured-output validity eval with schema checks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a structured-output validity eval with schema checks for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>model-eval-222</code> - create a regression pack that pins behavior per task type (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create a regression pack that pins behavior per task type for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>model-eval-223</code> - design a multi-turn coherence eval with state tracking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design a multi-turn coherence eval with state tracking for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>model-eval-224</code> - build a red-team prompt set for jailbreak resistance (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a red-team prompt set for jailbreak resistance for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>model-eval-225</code> - create a long-context retrieval eval with needle tasks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create a long-context retrieval eval with needle tasks for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>model-eval-226</code> - design an eval suite for a coding agent with hidden tests (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design an eval suite for a coding agent with hidden tests for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>model-eval-227</code> - build a safety refusal eval with benign and adversarial cases (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a safety refusal eval with benign and adversarial cases for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>model-eval-228</code> - create a regression dashboard spec with trend alerts (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create a regression dashboard spec with trend alerts for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>model-eval-229</code> - design a latency/cost/quality trade-off benchmark (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design a latency/cost/quality trade-off benchmark for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>model-eval-230</code> - build a robustness eval with paraphrase and noise (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a robustness eval with paraphrase and noise for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>model-eval-231</code> - create a hallucination-detection eval with gold answers (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create a hallucination-detection eval with gold answers for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>model-eval-232</code> - design a bias and fairness probe across demographics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design a bias and fairness probe across demographics for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>model-eval-233</code> - build a capability probe for tool-use reliability (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a capability probe for tool-use reliability for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>model-eval-234</code> - create an agentic-task completion eval with checkpoints (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create an agentic-task completion eval with checkpoints for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>model-eval-235</code> - design an A/B comparison protocol for two model versions (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design an A/B comparison protocol for two model versions for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>model-eval-236</code> - build a structured-output validity eval with schema checks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a structured-output validity eval with schema checks for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>model-eval-237</code> - create a regression pack that pins behavior per task type (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create a regression pack that pins behavior per task type for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>model-eval-238</code> - design a multi-turn coherence eval with state tracking (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design a multi-turn coherence eval with state tracking for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>model-eval-239</code> - build a red-team prompt set for jailbreak resistance (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a red-team prompt set for jailbreak resistance for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>model-eval-240</code> - create a long-context retrieval eval with needle tasks (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create a long-context retrieval eval with needle tasks for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>model-eval-241</code> - design an eval suite for a coding agent with hidden tests (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design an eval suite for a coding agent with hidden tests for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>model-eval-242</code> - build a safety refusal eval with benign and adversarial cases (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a safety refusal eval with benign and adversarial cases for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>model-eval-243</code> - create a regression dashboard spec with trend alerts (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create a regression dashboard spec with trend alerts for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>model-eval-244</code> - design a latency/cost/quality trade-off benchmark (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design a latency/cost/quality trade-off benchmark for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>model-eval-245</code> - build a robustness eval with paraphrase and noise (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior safety tester.
+Build a robustness eval with paraphrase and noise for a startup.
+The intended result is a red-team report outline.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Keep a searchable working note so the task survives context compaction.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>model-eval-246</code> - create a hallucination-detection eval with gold answers (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert capability analyst.
+Create a hallucination-detection eval with gold answers for an enterprise pilot.
+The intended result is a test matrix with oracles.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Compare against the provided reference and fix the largest gaps first.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>model-eval-247</code> - design a bias and fairness probe across demographics (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior eval engineer.
+Design a bias and fairness probe across demographics for a model vendor.
+The intended result is an eval plan with pass criteria.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>model-eval-248</code> - build a capability probe for tool-use reliability (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as an expert red-team lead.
+Build a capability probe for tool-use reliability for open source.
+The intended result is a dashboard wireframe.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>model-eval-249</code> - create an agentic-task completion eval with checkpoints (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a senior benchmark designer.
+Create an agentic-task completion eval with checkpoints for a classroom.
+The intended result is a benchmark spec.
+Requirements: one variable per A/B; record seeds and versions; separate tested/failed/unverified in
+reports.
+Use tools where they help; state what evidence you checked before acting.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>model-eval-250</code> - design an A/B comparison protocol for two model versions (click to expand)</summary>
+
+```text
+Target model: Claude Opus 5.5 (claude-opus-5-5).
+Act as a ML quality engineer.
+Design an A/B comparison protocol for two model versions for a research lab.
+The intended result is a regression pack.
+Requirements: include confidence intervals where possible; redact PII; protect test data.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Adaptive thinking is always on; steer depth with the effort parameter (default medium).
+Context 1M, max output 128K.
+$4/$20 per MTok.
+Knowledge cutoff Jun 2026.
+Cache reads 5% of base input.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

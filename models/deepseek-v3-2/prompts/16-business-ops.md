@@ -4259,3 +4259,1074 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>business-ops-201</code> - create an escalation matrix with SLAs (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Create an escalation matrix with SLAs for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>business-ops-202</code> - write a returns QA checklist (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Write a returns QA checklist for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>business-ops-203</code> - draft support macros that stay human (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Draft support macros that stay human for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>business-ops-204</code> - create a meeting-notes-to-tasks pipeline (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Create a meeting-notes-to-tasks pipeline for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>business-ops-205</code> - build a weekly ops review agenda with metrics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Build a weekly ops review agenda with metrics for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>business-ops-206</code> - build a hiring scorecard with structured questions (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Build a hiring scorecard with structured questions for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>business-ops-207</code> - write an SOP for refunds with edge cases (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Write an SOP for refunds with edge cases for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>business-ops-208</code> - draft a renewal play with risk flags (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Draft a renewal play with risk flags for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>business-ops-209</code> - dedupe CRM contacts and merge with audit notes (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Dedupe CRM contacts and merge with audit notes for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>business-ops-210</code> - create a customer health review template (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Create a customer health review template for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>business-ops-211</code> - triage today's inbox into urgent/reply/file with drafts unsent (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Triage today's inbox into urgent/reply/file with drafts unsent for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>business-ops-212</code> - write a launch checklist with owners (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Write a launch checklist with owners for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>business-ops-213</code> - draft a status page update template (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Draft a status page update template for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>business-ops-214</code> - build a vendor comparison with total cost (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Build a vendor comparison with total cost for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>business-ops-215</code> - build a knowledge-base article from tickets (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Build a knowledge-base article from tickets for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>business-ops-216</code> - create an escalation matrix with SLAs (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Create an escalation matrix with SLAs for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>business-ops-217</code> - write a returns QA checklist (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Write a returns QA checklist for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>business-ops-218</code> - draft support macros that stay human (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Draft support macros that stay human for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>business-ops-219</code> - create a meeting-notes-to-tasks pipeline (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Create a meeting-notes-to-tasks pipeline for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>business-ops-220</code> - build a weekly ops review agenda with metrics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Build a weekly ops review agenda with metrics for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>business-ops-221</code> - build a hiring scorecard with structured questions (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Build a hiring scorecard with structured questions for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>business-ops-222</code> - write an SOP for refunds with edge cases (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Write an SOP for refunds with edge cases for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>business-ops-223</code> - draft a renewal play with risk flags (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Draft a renewal play with risk flags for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>business-ops-224</code> - dedupe CRM contacts and merge with audit notes (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Dedupe CRM contacts and merge with audit notes for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>business-ops-225</code> - create a customer health review template (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Create a customer health review template for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>business-ops-226</code> - triage today's inbox into urgent/reply/file with drafts unsent (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Triage today's inbox into urgent/reply/file with drafts unsent for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>business-ops-227</code> - write a launch checklist with owners (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Write a launch checklist with owners for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>business-ops-228</code> - draft a status page update template (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Draft a status page update template for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>business-ops-229</code> - build a vendor comparison with total cost (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Build a vendor comparison with total cost for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>business-ops-230</code> - build a knowledge-base article from tickets (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Build a knowledge-base article from tickets for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>business-ops-231</code> - create an escalation matrix with SLAs (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Create an escalation matrix with SLAs for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>business-ops-232</code> - write a returns QA checklist (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Write a returns QA checklist for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>business-ops-233</code> - draft support macros that stay human (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Draft support macros that stay human for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>business-ops-234</code> - create a meeting-notes-to-tasks pipeline (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Create a meeting-notes-to-tasks pipeline for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>business-ops-235</code> - build a weekly ops review agenda with metrics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Build a weekly ops review agenda with metrics for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>business-ops-236</code> - build a hiring scorecard with structured questions (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Build a hiring scorecard with structured questions for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>business-ops-237</code> - write an SOP for refunds with edge cases (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Write an SOP for refunds with edge cases for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>business-ops-238</code> - draft a renewal play with risk flags (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Draft a renewal play with risk flags for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>business-ops-239</code> - dedupe CRM contacts and merge with audit notes (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Dedupe CRM contacts and merge with audit notes for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>business-ops-240</code> - create a customer health review template (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Create a customer health review template for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>business-ops-241</code> - triage today's inbox into urgent/reply/file with drafts unsent (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Triage today's inbox into urgent/reply/file with drafts unsent for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>business-ops-242</code> - write a launch checklist with owners (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Write a launch checklist with owners for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>business-ops-243</code> - draft a status page update template (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Draft a status page update template for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>business-ops-244</code> - build a vendor comparison with total cost (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Build a vendor comparison with total cost for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>business-ops-245</code> - build a knowledge-base article from tickets (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior SOP writer.
+Build a knowledge-base article from tickets for a sales team.
+The intended result is a one-page SOP.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Keep a searchable working note so the task survives context compaction.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>business-ops-246</code> - create an escalation matrix with SLAs (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert executive assistant.
+Create an escalation matrix with SLAs for a support team.
+The intended result is a cleaned list plus merge log.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>business-ops-247</code> - write a returns QA checklist (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior operations manager.
+Write a returns QA checklist for a 10-person startup.
+The intended result is a triage table with drafts.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>business-ops-248</code> - draft support macros that stay human (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as an expert RevOps lead.
+Draft support macros that stay human for a nonprofit.
+The intended result is an exceptions list.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>business-ops-249</code> - create a meeting-notes-to-tasks pipeline (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a senior support lead.
+Create a meeting-notes-to-tasks pipeline for a school office.
+The intended result is a macro pack.
+Requirements: drafts only; stop before sending, charging, or deleting; log every CRM change with
+before/after.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>business-ops-250</code> - build a weekly ops review agenda with metrics (click to expand)</summary>
+
+```text
+Target model: DeepSeek V3.2 (deepseek-v3.2).
+Act as a CRM administrator.
+Build a weekly ops review agenda with metrics for a clinic front desk.
+The intended result is a review template.
+Requirements: define SLAs and owners for each step; keep SOPs to one page plus appendix.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight MoE; 128K context; strong coding/math.
+Cost-efficient frontier quality.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

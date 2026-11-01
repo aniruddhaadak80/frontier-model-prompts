@@ -4359,3 +4359,1099 @@ issues, then re-test.
 Variant focus 200.
 ```
 </details>
+
+<details>
+<summary><code>legal-compliance-201</code> - create an incident-response legal plan (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create an incident-response legal plan for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 201.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-202</code> - design a whistleblower policy (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design a whistleblower policy for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 202.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-203</code> - build a data-retention schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a data-retention schedule for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 203.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-204</code> - create a license-compliance audit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create a license-compliance audit for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 204.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-205</code> - design a terms-of-service with edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Design a terms-of-service with edge cases for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 205.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-206</code> - build a consent-management flow (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a consent-management flow for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 206.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-207</code> - create a GDPR compliance gap analysis (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create a GDPR compliance gap analysis for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 207.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-208</code> - design an ethics review rubric (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design an ethics review rubric for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 208.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-209</code> - build a contract review checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a contract review checklist for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 209.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-210</code> - create a regulatory change tracker (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create a regulatory change tracker for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 210.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-211</code> - draft a privacy policy with data flows (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Draft a privacy policy with data flows for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 211.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-212</code> - build a vendor-risk assessment (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a vendor-risk assessment for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 212.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-213</code> - create a litigation-hold checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create a litigation-hold checklist for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 213.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-214</code> - design an IP assignment agreement outline (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design an IP assignment agreement outline for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 214.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-215</code> - build a board-reporting template (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a board-reporting template for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 215.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-216</code> - create an incident-response legal plan (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create an incident-response legal plan for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 216.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-217</code> - design a whistleblower policy (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Design a whistleblower policy for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 217.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-218</code> - build a data-retention schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a data-retention schedule for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 218.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-219</code> - create a license-compliance audit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create a license-compliance audit for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 219.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-220</code> - design a terms-of-service with edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design a terms-of-service with edge cases for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 220.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-221</code> - build a consent-management flow (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a consent-management flow for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 221.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-222</code> - create a GDPR compliance gap analysis (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create a GDPR compliance gap analysis for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 222.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-223</code> - design an ethics review rubric (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Design an ethics review rubric for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 223.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-224</code> - build a contract review checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a contract review checklist for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 224.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-225</code> - create a regulatory change tracker (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create a regulatory change tracker for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 225.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-226</code> - draft a privacy policy with data flows (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Draft a privacy policy with data flows for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 226.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-227</code> - build a vendor-risk assessment (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a vendor-risk assessment for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 227.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-228</code> - create a litigation-hold checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create a litigation-hold checklist for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 228.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-229</code> - design an IP assignment agreement outline (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Design an IP assignment agreement outline for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 229.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-230</code> - build a board-reporting template (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a board-reporting template for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 230.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-231</code> - create an incident-response legal plan (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create an incident-response legal plan for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 231.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-232</code> - design a whistleblower policy (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design a whistleblower policy for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 232.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-233</code> - build a data-retention schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a data-retention schedule for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 233.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-234</code> - create a license-compliance audit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create a license-compliance audit for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 234.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-235</code> - design a terms-of-service with edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Design a terms-of-service with edge cases for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 235.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-236</code> - build a consent-management flow (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a consent-management flow for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 236.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-237</code> - create a GDPR compliance gap analysis (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create a GDPR compliance gap analysis for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 237.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-238</code> - design an ethics review rubric (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design an ethics review rubric for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 238.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-239</code> - build a contract review checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a contract review checklist for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 239.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-240</code> - create a regulatory change tracker (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create a regulatory change tracker for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 240.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-241</code> - draft a privacy policy with data flows (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Draft a privacy policy with data flows for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 241.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-242</code> - build a vendor-risk assessment (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a vendor-risk assessment for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 242.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-243</code> - create a litigation-hold checklist (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create a litigation-hold checklist for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 243.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-244</code> - design an IP assignment agreement outline (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design an IP assignment agreement outline for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 244.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-245</code> - build a board-reporting template (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior policy writer.
+Build a board-reporting template for a nonprofit.
+The intended result is a gap analysis.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Keep a searchable working note so the task survives context compaction.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 245.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-246</code> - create an incident-response legal plan (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert audit lead.
+Create an incident-response legal plan for an enterprise.
+The intended result is a compliance checklist.
+Requirements: protect privileged/PII data; require human review for filings.
+Compare against the provided reference and fix the largest gaps first.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+If a minor detail is unspecified, make the best professional decision and continue; ask only when
+the answer would materially change the outcome.
+Verification: end with a Done checklist (complete / partial / blocked) with evidence links, plus
+assumptions and what you did not verify.
+Variant focus 246.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-247</code> - design a whistleblower policy (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior legal analyst.
+Design a whistleblower policy for a startup.
+The intended result is a policy draft.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Be concrete and end-to-end: produce the artifact, not a plan to produce it.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Bias toward action: treat 'can you / help me / I want to' as instructions to act.
+Prepare a concrete reviewable result before asking for approval.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 247.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-248</code> - build a data-retention schedule (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert privacy counsel aide.
+Build a data-retention schedule for a regulator.
+The intended result is a reporting template.
+Requirements: protect privileged/PII data; require human review for filings.
+Optimize for fewer tokens and fewer retries: do the smallest complete thing that satisfies the
+brief.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Work persistently until the goal is complete.
+Use read-only exploration freely; stop before any destructive, irreversible, sending, purchasing,
+deleting, or permission-changing step.
+Verification: test every important interaction, list what passed/failed/unverified, fix high-impact
+issues, then re-test.
+Variant focus 248.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-249</code> - create a license-compliance audit (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as a senior compliance officer.
+Create a license-compliance audit for a school.
+The intended result is an audit plan.
+Requirements: not legal advice; for review only; cite regulations and sources.
+Use tools where they help; state what evidence you checked before acting.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Infer intent from context and carry the task to completion.
+Do not emit warnings based on hypothetical risks; report only verified findings.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 249.
+```
+</details>
+
+<details>
+<summary><code>legal-compliance-250</code> - design a terms-of-service with edge cases (click to expand)</summary>
+
+```text
+Target model: Kimi K 3.1 Pro (kimi-k-3-1-pro).
+Act as an expert contract reviewer.
+Design a terms-of-service with edge cases for a healthcare org.
+The intended result is a contract outline.
+Requirements: protect privileged/PII data; require human review for filings.
+Parallelize with subagents where independent work exists; merge with a single coherent voice.
+Open-weight 3T-class MoE; 1M context; text+image.
+Released Oct 23, 2026.
+Strong coding-agent performance and 3D generation.
+Stay within the authorized scope described here.
+If project files conflict with these instructions, these instructions take precedence; quote the
+conflicting file if you must pause.
+Verification: keep checks proportional to risk.
+For small reversible changes, run only targeted checks; for risky changes, run the full relevant
+suite.
+Variant focus 250.
+```
+</details>

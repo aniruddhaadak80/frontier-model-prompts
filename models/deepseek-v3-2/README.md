@@ -1,6 +1,6 @@
 # DeepSeek V3.2 Prompt Pack
 
-**6,800 copy-paste prompts** across 34 categories, tuned for `deepseek-v3.2`.
+**9,000 copy-paste prompts** across 36 categories, tuned for `deepseek-v3.2`.
 
 - Model: `deepseek-v3.2`
 - Strengths: Coding, math, open weights, cost-efficient.

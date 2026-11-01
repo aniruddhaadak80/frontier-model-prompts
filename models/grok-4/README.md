@@ -1,6 +1,6 @@
 # Grok 4 Prompt Pack
 
-**6,800 copy-paste prompts** across 34 categories, tuned for `grok-4`.
+**9,000 copy-paste prompts** across 36 categories, tuned for `grok-4`.
 
 - Model: `grok-4`
 - Strengths: Real-time web, reasoning, multimodal.

@@ -20,7 +20,7 @@ CATEGORIES = gen.CATEGORIES
 AUTONOMY = gen.AUTONOMY
 VERIFY = gen.VERIFY
 
-PER_CATEGORY = 200
+PER_CATEGORY = 250
 
 MODELS = [
     dict(
@@ -76,6 +76,24 @@ MODELS = [
         level_label="Suggested reasoning effort",
         control="xAI flagship; 256K context; real-time web; strong reasoning.",
         strengths="Real-time web, reasoning, multimodal.",
+    ),
+    dict(
+        slug="qwen-3",
+        display="Qwen 3",
+        model_id="qwen-3",
+        levels=["off", "low", "medium", "high", "max"],
+        level_label="Suggested reasoning mode",
+        control="Alibaba open-weight; 128K context; strong multilingual and coding.",
+        strengths="Multilingual, coding, open weights.",
+    ),
+    dict(
+        slug="llama-4",
+        display="Llama 4",
+        model_id="llama-4",
+        levels=["off", "low", "medium", "high", "max"],
+        level_label="Suggested reasoning mode",
+        control="Meta open-weight MoE; 10M context; multimodal.",
+        strengths="Open weights, long context, multimodal.",
     ),
 ]
 
