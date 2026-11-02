@@ -152,6 +152,24 @@ For strictly found material, use the builds table plus `SOURCES.md`. For a worki
 
 ---
 
+## How to choose a model
+
+```mermaid
+flowchart TD
+  Start[What is your task?] --> Code{Coding agent?}
+  Code -->|yes, long-running| Opus[Claude Opus 5.5]
+  Code -->|yes, cost-sensitive| Kimi[Kimi K 3.1 Pro]
+  Code -->|yes, real-time web| Grok[Grok 4]
+  Start --> Vision{Heavy vision/multimodal?}
+  Vision -->|yes| Gemini[Gemini 4 Argon]
+  Start --> Memory{Long conversation memory?}
+  Memory -->|yes| Muse[Muse Wonder]
+  Start --> Open{Need open weights?}
+  Open -->|yes| DeepSeek[DeepSeek V3.2]
+  Start --> General{General frontier?}
+  General -->|yes| Astra[GPT-6 Astra]
+```
+
 ## Models covered
 
 Five frontier models, one prompt library. Each pack ships 28 categories x 120 prompts with markdown, JSONL, CSV, and an index.
