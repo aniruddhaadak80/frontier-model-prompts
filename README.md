@@ -220,6 +220,16 @@ flowchart LR
 | Muse Wonder | Reasoning depth: quick / balanced / deep / deeper / max |
 | Kimi K 3.1 Pro | Thinking mode: off / low / medium / high / max |
 
+## Community-sourced prompts
+
+Real prompts pulled from Reddit, X, and prompt platforms (Sept–Oct 2026), adapted and attributed. See [`prompts/37-community-sourced.md`](prompts/37-community-sourced.md).
+
+- Astra initiative & follow-through prompt (OpenAI-recommended)
+- Campaign brief, motion-graphics brief, continue-the-mission loop
+- Claude Opus 5.5 launch-video and typing-game one-shot prompts
+- Time-budgeted agent teams, delegation clarity, stop-before-destructive gates
+- Concise no-slop writing, honest sourcing, structured-output-with-unknown
+
 ## Highlights
 
 | Highlight | Detail |
