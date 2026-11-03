@@ -1,4 +1,4 @@
-# 🔍 Prompt Debugging & Audits - 120 copyable Gemini 4 Argon prompts
+# 🔍 Prompt Debugging & Audits - 250 copyable Gemini 4 Argon prompts
 
 > Trace stalls to the exact file/line: authority, conflicts, staleness.
 

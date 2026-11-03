@@ -1,4 +1,4 @@
-# 📄 Professional Docs & Decks - 120 copyable Kimi K 3.1 Pro prompts
+# 📄 Professional Docs & Decks - 250 copyable Kimi K 3.1 Pro prompts
 
 > Polished documents, spreadsheets, and presentations Astra can draft end-to-end.
 

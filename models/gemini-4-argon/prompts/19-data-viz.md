@@ -1,4 +1,4 @@
-# 📈 Data Analysis & Visualization - 120 copyable Gemini 4 Argon prompts
+# 📈 Data Analysis & Visualization - 250 copyable Gemini 4 Argon prompts
 
 > From question to chart spec to decision, with honest scales.
 

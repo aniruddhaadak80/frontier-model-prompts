@@ -1,4 +1,4 @@
-# 🧩 Structured Outputs & Schemas - 120 copyable Muse Wonder prompts
+# 🧩 Structured Outputs & Schemas - 250 copyable Muse Wonder prompts
 
 > Schemas for structure; prompts for semantics. No temperature/top_p with Astra tool-calling.
 

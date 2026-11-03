@@ -1,4 +1,4 @@
-# 📈 Data Analysis & Visualization - 120 copyable Qwen 3 prompts
+# 📈 Data Analysis & Visualization - 250 copyable Qwen 3 prompts
 
 > From question to chart spec to decision, with honest scales.
 

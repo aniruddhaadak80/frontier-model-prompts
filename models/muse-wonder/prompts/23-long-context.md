@@ -1,4 +1,4 @@
-# 📚 Long Context (1M Tokens) - 120 copyable Muse Wonder prompts
+# 📚 Long Context (1M Tokens) - 250 copyable Muse Wonder prompts
 
 > Authoritative vs reference sources, conflict rules, staleness handling.
 

@@ -1,4 +1,4 @@
-# 🏢 Business Ops, CRM & Support - 120 copyable Claude Opus 5.5 prompts
+# 🏢 Business Ops, CRM & Support - 250 copyable Claude Opus 5.5 prompts
 
 > Inbox triage, CRM hygiene, SOPs with stop-before-send guardrails.
 

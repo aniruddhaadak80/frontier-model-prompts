@@ -1,4 +1,4 @@
-# 🌐 Browser Research & Deep Dives - 120 copyable Kimi K 3.1 Pro prompts
+# 🌐 Browser Research & Deep Dives - 250 copyable Kimi K 3.1 Pro prompts
 
 > Multi-site research, comparisons, citations, and monitoring with source hygiene.
 

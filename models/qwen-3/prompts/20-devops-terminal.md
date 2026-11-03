@@ -1,4 +1,4 @@
-# 🧰 DevOps & Terminal-Bench Style - 120 copyable Qwen 3 prompts
+# 🧰 DevOps & Terminal-Bench Style - 250 copyable Qwen 3 prompts
 
 > Reproducible shell workflows, containers, CI, and incident drills.
 

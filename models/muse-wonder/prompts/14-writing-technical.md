@@ -1,4 +1,4 @@
-# 📝 Technical Writing (No Slop) - 120 copyable Muse Wonder prompts
+# 📝 Technical Writing (No Slop) - 250 copyable Muse Wonder prompts
 
 > Concise paragraphs, plain verbs, explicit structure per Astra style guidance.
 

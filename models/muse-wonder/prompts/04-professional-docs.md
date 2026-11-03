@@ -1,4 +1,4 @@
-# 📄 Professional Docs & Decks - 120 copyable Muse Wonder prompts
+# 📄 Professional Docs & Decks - 250 copyable Muse Wonder prompts
 
 > Polished documents, spreadsheets, and presentations Astra can draft end-to-end.
 

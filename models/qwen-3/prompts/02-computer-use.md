@@ -1,4 +1,4 @@
-# 🖥️ Computer Use & Desktop Automation - 120 copyable Qwen 3 prompts
+# 🖥️ Computer Use & Desktop Automation - 250 copyable Qwen 3 prompts
 
 > Astra operating files, apps, forms, calendars, QA flows, with explicit stop points and approvals.
 

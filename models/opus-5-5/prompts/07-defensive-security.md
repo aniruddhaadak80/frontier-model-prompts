@@ -1,4 +1,4 @@
-# 🛡️ Defensive Security (Blue Team Only) - 120 copyable Claude Opus 5.5 prompts
+# 🛡️ Defensive Security (Blue Team Only) - 250 copyable Claude Opus 5.5 prompts
 
 > Defensive posture only: hardening, detection, triage, recovery. No exploits, no bypasses.
 

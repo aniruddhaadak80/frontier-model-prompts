@@ -1,4 +1,4 @@
-# 📄 Professional Docs & Decks - 120 copyable Grok 4 prompts
+# 📄 Professional Docs & Decks - 250 copyable Grok 4 prompts
 
 > Polished documents, spreadsheets, and presentations Astra can draft end-to-end.
 

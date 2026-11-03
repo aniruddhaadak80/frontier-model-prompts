@@ -1,4 +1,4 @@
-# 🎮 Game Dev & Playable Prototypes - 120 copyable Qwen 3 prompts
+# 🎮 Game Dev & Playable Prototypes - 250 copyable Qwen 3 prompts
 
 > Browser games, Godot/Unity prototypes, playtest-fix loops like the viral Astra builds.
 

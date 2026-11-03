@@ -1,4 +1,4 @@
-# 💻 Agentic Coding - 120 copyable Claude Opus 5.5 prompts
+# 💻 Agentic Coding - 250 copyable Claude Opus 5.5 prompts
 
 > Long-horizon coding tasks, refactors, Codex/Copilot workflows with verification proportional to risk.
 

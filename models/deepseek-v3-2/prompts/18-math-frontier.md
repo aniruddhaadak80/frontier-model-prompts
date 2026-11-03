@@ -1,4 +1,4 @@
-# 🧮 Math (Frontier-Style Rigor) - 120 copyable DeepSeek V3.2 prompts
+# 🧮 Math (Frontier-Style Rigor) - 250 copyable DeepSeek V3.2 prompts
 
 > Proof sketches, counterexamples, and verification discipline.
 

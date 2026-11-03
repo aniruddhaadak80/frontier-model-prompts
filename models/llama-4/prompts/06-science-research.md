@@ -1,4 +1,4 @@
-# 🔬 Science & Lab Workflows - 120 copyable Llama 4 prompts
+# 🔬 Science & Lab Workflows - 250 copyable Llama 4 prompts
 
 > Literature synthesis, protocols, analysis plans, and figure specs.
 

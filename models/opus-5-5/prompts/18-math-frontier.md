@@ -1,4 +1,4 @@
-# 🧮 Math (Frontier-Style Rigor) - 120 copyable Claude Opus 5.5 prompts
+# 🧮 Math (Frontier-Style Rigor) - 250 copyable Claude Opus 5.5 prompts
 
 > Proof sketches, counterexamples, and verification discipline.
 

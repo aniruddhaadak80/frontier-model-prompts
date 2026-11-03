@@ -1,4 +1,4 @@
-# 📝 Technical Writing (No Slop) - 120 copyable Llama 4 prompts
+# 📝 Technical Writing (No Slop) - 250 copyable Llama 4 prompts
 
 > Concise paragraphs, plain verbs, explicit structure per Astra style guidance.
 

@@ -1,4 +1,4 @@
-# 📊 Advanced Model Testing & Evaluation - 120 copyable Gemini 4 Argon prompts
+# 📊 Advanced Model Testing & Evaluation - 250 copyable Gemini 4 Argon prompts
 
 > Evals, red-teaming, benchmarking, regression, and capability probing for frontier models.
 

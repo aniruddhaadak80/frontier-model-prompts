@@ -1,4 +1,4 @@
-# 🌐 Browser Research & Deep Dives - 120 copyable Claude Opus 5.5 prompts
+# 🌐 Browser Research & Deep Dives - 250 copyable Claude Opus 5.5 prompts
 
 > Multi-site research, comparisons, citations, and monitoring with source hygiene.
 

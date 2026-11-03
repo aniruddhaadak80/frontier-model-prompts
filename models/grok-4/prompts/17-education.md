@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable Grok 4 prompts
+# 🎓 Education & Tutoring - 250 copyable Grok 4 prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

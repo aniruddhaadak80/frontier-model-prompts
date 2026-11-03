@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable Gemini 4 Argon prompts
+# 🎨 Design, Figma & Flora - 250 copyable Gemini 4 Argon prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

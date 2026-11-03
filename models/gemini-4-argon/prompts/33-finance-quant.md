@@ -1,4 +1,4 @@
-# 💰 Finance & Quantitative Analysis - 120 copyable Gemini 4 Argon prompts
+# 💰 Finance & Quantitative Analysis - 250 copyable Gemini 4 Argon prompts
 
 > Pricing, risk, portfolios, and market analysis with rigorous assumptions.
 

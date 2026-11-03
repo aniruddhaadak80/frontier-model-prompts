@@ -1,4 +1,4 @@
-# 🎚️ Reasoning Effort Tuning - 120 copyable Claude Opus 5.5 prompts
+# 🎚️ Reasoning Effort Tuning - 250 copyable Claude Opus 5.5 prompts
 
 > low→max calibration: start low/medium, escalate only with evidence.
 

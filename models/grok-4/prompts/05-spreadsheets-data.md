@@ -1,4 +1,4 @@
-# 📊 Spreadsheets & Data Wrangling - 120 copyable Grok 4 prompts
+# 📊 Spreadsheets & Data Wrangling - 250 copyable Grok 4 prompts
 
 > Excel/Sheets models, cleaning recipes, and reconciliation flows.
 

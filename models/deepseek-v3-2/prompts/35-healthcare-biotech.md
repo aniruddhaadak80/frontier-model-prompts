@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Biotech - 120 copyable DeepSeek V3.2 prompts
+# 🏥 Healthcare & Biotech - 250 copyable DeepSeek V3.2 prompts
 
 > Clinical workflows, EHR, trials, and diagnostics (analysis only, not medical advice).
 

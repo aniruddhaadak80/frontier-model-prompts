@@ -1,4 +1,4 @@
-# 🖥️ Computer Use & Desktop Automation - 120 copyable Kimi K 3.1 Pro prompts
+# 🖥️ Computer Use & Desktop Automation - 250 copyable Kimi K 3.1 Pro prompts
 
 > Astra operating files, apps, forms, calendars, QA flows, with explicit stop points and approvals.
 

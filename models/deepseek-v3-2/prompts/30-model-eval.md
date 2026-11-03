@@ -1,4 +1,4 @@
-# 📊 Advanced Model Testing & Evaluation - 120 copyable DeepSeek V3.2 prompts
+# 📊 Advanced Model Testing & Evaluation - 250 copyable DeepSeek V3.2 prompts
 
 > Evals, red-teaming, benchmarking, regression, and capability probing for frontier models.
 

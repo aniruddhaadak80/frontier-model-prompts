@@ -1,4 +1,4 @@
-# 🧰 DevOps & Terminal-Bench Style - 120 copyable Claude Opus 5.5 prompts
+# 🧰 DevOps & Terminal-Bench Style - 250 copyable Claude Opus 5.5 prompts
 
 > Reproducible shell workflows, containers, CI, and incident drills.
 

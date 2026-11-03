@@ -1,4 +1,4 @@
-# 💻 Agentic Coding - 120 copyable Grok 4 prompts
+# 💻 Agentic Coding - 250 copyable Grok 4 prompts
 
 > Long-horizon coding tasks, refactors, Codex/Copilot workflows with verification proportional to risk.
 

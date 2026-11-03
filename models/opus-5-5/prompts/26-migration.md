@@ -1,4 +1,4 @@
-# 🔀 Migration: GPT-5.x → Astra - 120 copyable Claude Opus 5.5 prompts
+# 🔀 Migration: GPT-5.x → Astra - 250 copyable Claude Opus 5.5 prompts
 
 > Checklist migration: Responses API, removed params, cache, subagents, verification.
 

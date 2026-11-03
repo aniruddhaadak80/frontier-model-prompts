@@ -1,4 +1,4 @@
-# 📊 Advanced Model Testing & Evaluation - 120 copyable Qwen 3 prompts
+# 📊 Advanced Model Testing & Evaluation - 250 copyable Qwen 3 prompts
 
 > Evals, red-teaming, benchmarking, regression, and capability probing for frontier models.
 

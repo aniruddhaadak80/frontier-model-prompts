@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Biotech - 120 copyable Kimi K 3.1 Pro prompts
+# 🏥 Healthcare & Biotech - 250 copyable Kimi K 3.1 Pro prompts
 
 > Clinical workflows, EHR, trials, and diagnostics (analysis only, not medical advice).
 

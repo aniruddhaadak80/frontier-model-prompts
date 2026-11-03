@@ -1,4 +1,4 @@
-# 💻 Agentic Coding - 120 copyable Gemini 4 Argon prompts
+# 💻 Agentic Coding - 250 copyable Gemini 4 Argon prompts
 
 > Long-horizon coding tasks, refactors, Codex/Copilot workflows with verification proportional to risk.
 

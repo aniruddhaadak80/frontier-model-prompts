@@ -1,4 +1,4 @@
-# 🧑‍💻 Web Dev & Sites in ChatGPT - 120 copyable Gemini 4 Argon prompts
+# 🧑‍💻 Web Dev & Sites in ChatGPT - 250 copyable Gemini 4 Argon prompts
 
 > Premium sites, booking flows, SEO copy, frontend QA Astra can self-check.
 

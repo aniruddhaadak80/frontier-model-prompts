@@ -1,4 +1,4 @@
-# 🧑‍💻 Web Dev & Sites in ChatGPT - 120 copyable Kimi K 3.1 Pro prompts
+# 🧑‍💻 Web Dev & Sites in ChatGPT - 250 copyable Kimi K 3.1 Pro prompts
 
 > Premium sites, booking flows, SEO copy, frontend QA Astra can self-check.
 

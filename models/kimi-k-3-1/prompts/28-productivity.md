@@ -1,4 +1,4 @@
-# ⚡ Everyday Productivity - 120 copyable Kimi K 3.1 Pro prompts
+# ⚡ Everyday Productivity - 250 copyable Kimi K 3.1 Pro prompts
 
 > Inbox, calendar, travel, job search, food ordering, plus Astra tedious-task wins.
 

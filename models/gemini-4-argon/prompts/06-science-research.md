@@ -1,4 +1,4 @@
-# 🔬 Science & Lab Workflows - 120 copyable Gemini 4 Argon prompts
+# 🔬 Science & Lab Workflows - 250 copyable Gemini 4 Argon prompts
 
 > Literature synthesis, protocols, analysis plans, and figure specs.
 

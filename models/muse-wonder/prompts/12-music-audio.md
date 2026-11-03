@@ -1,4 +1,4 @@
-# 🎧 Music & Audio (Ableton-style) - 120 copyable Muse Wonder prompts
+# 🎧 Music & Audio (Ableton-style) - 250 copyable Muse Wonder prompts
 
 > Arrangement, sound design, and mix notes for DAW-assisted builds.
 

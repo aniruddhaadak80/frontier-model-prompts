@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable Claude Opus 5.5 prompts
+# 🎨 Design, Figma & Flora - 250 copyable Claude Opus 5.5 prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

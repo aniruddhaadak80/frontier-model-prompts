@@ -1,4 +1,4 @@
-# 🧪 Testing, QA & Verification - 120 copyable Muse Wonder prompts
+# 🧪 Testing, QA & Verification - 250 copyable Muse Wonder prompts
 
 > Calibrate Astra's thoroughness: targeted checks for small diffs, full suites for risky ones.
 

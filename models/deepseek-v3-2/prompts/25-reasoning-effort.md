@@ -1,4 +1,4 @@
-# 🎚️ Reasoning Effort Tuning - 120 copyable DeepSeek V3.2 prompts
+# 🎚️ Reasoning Effort Tuning - 250 copyable DeepSeek V3.2 prompts
 
 > low→max calibration: start low/medium, escalate only with evidence.
 

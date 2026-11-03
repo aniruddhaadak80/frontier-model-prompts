@@ -1,4 +1,4 @@
-# 🎬 Video & Cinematic AI - 120 copyable DeepSeek V3.2 prompts
+# 🎬 Video & Cinematic AI - 250 copyable DeepSeek V3.2 prompts
 
 > Remotion/Final Cut workflows, shot lists, 5-minute explainers like the T-cell demo.
 

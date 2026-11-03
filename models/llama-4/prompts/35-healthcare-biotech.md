@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Biotech - 120 copyable Llama 4 prompts
+# 🏥 Healthcare & Biotech - 250 copyable Llama 4 prompts
 
 > Clinical workflows, EHR, trials, and diagnostics (analysis only, not medical advice).
 

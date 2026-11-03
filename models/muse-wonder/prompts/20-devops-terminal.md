@@ -1,4 +1,4 @@
-# 🧰 DevOps & Terminal-Bench Style - 120 copyable Muse Wonder prompts
+# 🧰 DevOps & Terminal-Bench Style - 250 copyable Muse Wonder prompts
 
 > Reproducible shell workflows, containers, CI, and incident drills.
 

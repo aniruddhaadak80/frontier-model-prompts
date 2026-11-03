@@ -1,4 +1,4 @@
-# 🧪 Testing, QA & Verification - 120 copyable Grok 4 prompts
+# 🧪 Testing, QA & Verification - 250 copyable Grok 4 prompts
 
 > Calibrate Astra's thoroughness: targeted checks for small diffs, full suites for risky ones.
 

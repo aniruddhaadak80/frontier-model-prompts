@@ -1,4 +1,4 @@
-# 🔬 Science & Lab Workflows - 120 copyable DeepSeek V3.2 prompts
+# 🔬 Science & Lab Workflows - 250 copyable DeepSeek V3.2 prompts
 
 > Literature synthesis, protocols, analysis plans, and figure specs.
 

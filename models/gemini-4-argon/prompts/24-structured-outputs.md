@@ -1,4 +1,4 @@
-# 🧩 Structured Outputs & Schemas - 120 copyable Gemini 4 Argon prompts
+# 🧩 Structured Outputs & Schemas - 250 copyable Gemini 4 Argon prompts
 
 > Schemas for structure; prompts for semantics. No temperature/top_p with Astra tool-calling.
 

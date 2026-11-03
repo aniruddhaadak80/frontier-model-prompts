@@ -1,4 +1,4 @@
-# 🎬 Video & Cinematic AI - 120 copyable Gemini 4 Argon prompts
+# 🎬 Video & Cinematic AI - 250 copyable Gemini 4 Argon prompts
 
 > Remotion/Final Cut workflows, shot lists, 5-minute explainers like the T-cell demo.
 

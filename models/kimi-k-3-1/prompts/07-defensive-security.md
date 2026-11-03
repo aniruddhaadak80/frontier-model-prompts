@@ -1,4 +1,4 @@
-# 🛡️ Defensive Security (Blue Team Only) - 120 copyable Kimi K 3.1 Pro prompts
+# 🛡️ Defensive Security (Blue Team Only) - 250 copyable Kimi K 3.1 Pro prompts
 
 > Defensive posture only: hardening, detection, triage, recovery. No exploits, no bypasses.
 

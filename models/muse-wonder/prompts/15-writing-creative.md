@@ -1,4 +1,4 @@
-# ✍️ Creative & Story Writing - 120 copyable Muse Wonder prompts
+# ✍️ Creative & Story Writing - 250 copyable Muse Wonder prompts
 
 > Voice control, constraints, and revision passes without purple slop.
 

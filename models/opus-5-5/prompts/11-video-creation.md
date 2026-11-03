@@ -1,4 +1,4 @@
-# 🎬 Video & Cinematic AI - 120 copyable Claude Opus 5.5 prompts
+# 🎬 Video & Cinematic AI - 250 copyable Claude Opus 5.5 prompts
 
 > Remotion/Final Cut workflows, shot lists, 5-minute explainers like the T-cell demo.
 

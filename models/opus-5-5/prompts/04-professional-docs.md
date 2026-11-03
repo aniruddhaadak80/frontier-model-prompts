@@ -1,4 +1,4 @@
-# 📄 Professional Docs & Decks - 120 copyable Claude Opus 5.5 prompts
+# 📄 Professional Docs & Decks - 250 copyable Claude Opus 5.5 prompts
 
 > Polished documents, spreadsheets, and presentations Astra can draft end-to-end.
 

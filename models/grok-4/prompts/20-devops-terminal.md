@@ -1,4 +1,4 @@
-# 🧰 DevOps & Terminal-Bench Style - 120 copyable Grok 4 prompts
+# 🧰 DevOps & Terminal-Bench Style - 250 copyable Grok 4 prompts
 
 > Reproducible shell workflows, containers, CI, and incident drills.
 

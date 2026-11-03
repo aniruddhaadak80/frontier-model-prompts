@@ -312,15 +312,38 @@ export function ResourcesSection() {
   );
 }
 
+export function ModelsSection({ models }) {
+  return (
+    <div className="cat-grid">
+      {models.map((m, i) => (
+        <Reveal key={m.slug} delay={(i % 8) * 60}>
+          <a className="cat-card model-card" href={m.url} target="_blank" rel="noreferrer">
+            <span className="model-head">
+              <b>{m.display}</b>
+              <span className="model-vendor">{m.vendor}</span>
+            </span>
+            <small>{m.strengths}</small>
+            <div className="model-meta">
+              <span className="cat-count">{m.prompts.toLocaleString()} prompts</span>
+              <span className="cat-link">{m.categories} categories · {m.context} context</span>
+            </div>
+          </a>
+        </Reveal>
+      ))}
+    </div>
+  );
+}
+
 export function SiteFooter() {
   return (
     <footer>
       <div className="foot-inner">
         <div>
-          <b style={{ color: "var(--ink)" }}>GPT-6 Astra Awesome Hub</b>
+          <b style={{ color: "var(--ink)" }}>Frontier Model Prompts</b>
           <p>
-            3360 original Astra-tuned prompts across 28 categories, bundled with the showcase.
-            Builds belong to their creators. Model facts and scores are vendor claims with links.
+            107,250 hard prompts across 11 frontier models and 39 categories, bundled with the
+            showcase. Builds belong to their creators. Model facts and scores are vendor claims
+            with links.
           </p>
         </div>
         <div>

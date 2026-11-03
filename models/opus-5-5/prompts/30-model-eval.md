@@ -1,4 +1,4 @@
-# 📊 Advanced Model Testing & Evaluation - 120 copyable Claude Opus 5.5 prompts
+# 📊 Advanced Model Testing & Evaluation - 250 copyable Claude Opus 5.5 prompts
 
 > Evals, red-teaming, benchmarking, regression, and capability probing for frontier models.
 

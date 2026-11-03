@@ -1,4 +1,4 @@
-# ⚖️ Legal & Compliance - 120 copyable Qwen 3 prompts
+# ⚖️ Legal & Compliance - 250 copyable Qwen 3 prompts
 
 > Contracts, policy, privacy, and regulatory workflows with careful sourcing.
 

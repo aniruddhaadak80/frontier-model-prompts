@@ -1,4 +1,4 @@
-# 💻 Agentic Coding - 120 copyable Kimi K 3.1 Pro prompts
+# 💻 Agentic Coding - 250 copyable Kimi K 3.1 Pro prompts
 
 > Long-horizon coding tasks, refactors, Codex/Copilot workflows with verification proportional to risk.
 

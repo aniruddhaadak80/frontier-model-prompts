@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import prompts from "../data/prompts.json";
 import categories from "../data/categories.json";
+import models from "../data/models.json";
 import { CountUp, ErrorBoundary, Loader, Reveal, ScrollProgress, Starfield } from "../components/fx";
 import { PromptExplorer } from "../components/explorer";
 import {
@@ -10,6 +11,7 @@ import {
   CategoryGrid,
   Framework,
   LevelBars,
+  ModelsSection,
   Pipeline3D,
   Quickstart,
   ResourcesSection,
@@ -28,6 +30,9 @@ const TICKER = [
   "Playable games",
   "Video and audio",
   "Multi-agent fleets",
+  "Quantum circuits",
+  "Climate and energy",
+  "Space missions",
   "1M context",
   "Structured outputs",
   "Effort routing",
@@ -36,12 +41,13 @@ const TICKER = [
 
 const SECTIONS = [
   { n: "1", id: "prompts", label: "Prompt vault" },
-  { n: "2", id: "pipeline", label: "3D pipeline" },
-  { n: "3", id: "builds", label: "Builds" },
-  { n: "4", id: "framework", label: "Framework" },
-  { n: "5", id: "quickstart", label: "Quickstart" },
-  { n: "6", id: "safety", label: "Safety" },
-  { n: "7", id: "resources", label: "Sources" }
+  { n: "2", id: "models", label: "Model packs" },
+  { n: "3", id: "pipeline", label: "3D pipeline" },
+  { n: "4", id: "builds", label: "Builds" },
+  { n: "5", id: "framework", label: "Framework" },
+  { n: "6", id: "quickstart", label: "Quickstart" },
+  { n: "7", id: "safety", label: "Safety" },
+  { n: "8", id: "resources", label: "Sources" }
 ];
 
 const SHORTCUTS = [
@@ -51,7 +57,7 @@ const SHORTCUTS = [
   ["j / k", "Move down or up across prompt cards, opening each one"],
   ["Enter", "Expand or collapse the highlighted card"],
   ["c", "Copy the open or highlighted prompt"],
-  ["1 - 7", "Jump straight to a page section"]
+  ["1 - 8", "Jump straight to a page section"]
 ];
 
 function GithubIcon() {
@@ -108,7 +114,7 @@ export default function Home() {
         if (ex) ex.toggle();
       } else if (e.key === "c") {
         if (ex) ex.copyOpen();
-      } else if (e.key >= "1" && e.key <= "7") {
+      } else if (e.key >= "1" && e.key <= "8") {
         const s = SECTIONS[Number(e.key) - 1];
         const el = document.getElementById(s.id);
         if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -149,7 +155,7 @@ export default function Home() {
         <div className="nav-inner">
           <a className="brand" href="#top">
             <span className="brand-mark" />
-            <span>Astra Showcase</span>
+            <span>Frontier Prompts</span>
           </a>
           <input
             ref={navSearch}
@@ -162,7 +168,7 @@ export default function Home() {
                 if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
               }
             }}
-            placeholder="Search 9000 prompts, press / anytime"
+            placeholder={`Search ${prompts.length} prompts, press / anytime`}
             aria-label="Search prompts across the page"
           />
           <select
@@ -180,6 +186,7 @@ export default function Home() {
           </select>
           <div className="nav-links">
             <a href="#prompts">Prompts</a>
+            <a href="#models">Models</a>
             <a href="#pipeline">3D Pipeline</a>
             <a href="#builds">Builds</a>
             <a href="#framework">Framework</a>
@@ -231,19 +238,20 @@ export default function Home() {
         <div className="hero-inner">
           <span className="eyebrow">
             <span className="pulse-dot" />
-            Live prompt arsenal · Sept 2026 launch
+            Live prompt arsenal · November 2026 update
           </span>
           <h1>
             Every Astra build
             <br />
             starts from a <span className="gold">great prompt</span>.
             <br />
-            Here are <span className="sea">9,000</span> of them.
+            Here are <span className="sea">{prompts.length.toLocaleString()}</span> of them.
           </h1>
           <p className="lead">
-            A cinematic, searchable showcase for the GPT-6 Astra Awesome Hub. Filter 36
-            hard-coded categories, expand any card downward, and copy the full prompt in
-            one click. No sideways scrolling, no guesswork.
+            A cinematic, searchable showcase for the Frontier Model Prompts library.
+            Filter {categories.length} hard-coded categories across {models.length} frontier
+            models, expand any card downward, and copy the full prompt in one click. No
+            sideways scrolling, no guesswork.
           </p>
           <div className="hero-actions">
             <a className="btn btn-gold" href="#explorer">Browse the vault</a>
@@ -251,16 +259,16 @@ export default function Home() {
           </div>
           <div className="stats">
             <div className="stat">
-              <b><CountUp to={9000} /></b>
-              <span>Copy-ready prompts</span>
+              <b><CountUp to={prompts.length} /></b>
+              <span>Astra prompts on this page</span>
             </div>
             <div className="stat">
-              <b><CountUp to={28} /></b>
+              <b><CountUp to={categories.length} /></b>
               <span>Curated categories</span>
             </div>
             <div className="stat">
-              <b><CountUp to={25} /></b>
-              <span>Verified community builds</span>
+              <b><CountUp to={models.length} /></b>
+              <span>Frontier model packs</span>
             </div>
             <div className="stat">
               <b><CountUp to={100} /></b>
@@ -317,6 +325,24 @@ export default function Home() {
               onLevelChange={setLevel}
             />
           </Reveal>
+          </ErrorBoundary>
+        </section>
+
+        <section className="section" id="models">
+          <Reveal>
+            <div className="kicker">One library, eleven frontiers</div>
+            <h2>
+              Pick your model. <em>Same hard bar.</em>
+            </h2>
+            <p className="sub">
+              Every pack mirrors the Astra shell across the same {categories.length} categories,
+              then tunes control knobs for that model. Browse the full{" "}
+              {models.reduce((sum, m) => sum + m.prompts, 0).toLocaleString()}-prompt library by
+              opening any card on GitHub.
+            </p>
+          </Reveal>
+          <ErrorBoundary>
+            <ModelsSection models={models} />
           </ErrorBoundary>
         </section>
 

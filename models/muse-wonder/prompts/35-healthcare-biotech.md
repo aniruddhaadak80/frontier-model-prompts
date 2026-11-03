@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Biotech - 120 copyable Muse Wonder prompts
+# 🏥 Healthcare & Biotech - 250 copyable Muse Wonder prompts
 
 > Clinical workflows, EHR, trials, and diagnostics (analysis only, not medical advice).
 

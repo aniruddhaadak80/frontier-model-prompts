@@ -1,4 +1,4 @@
-# 🤖 Robotics & Embodied AI - 120 copyable Muse Wonder prompts
+# 🤖 Robotics & Embodied AI - 250 copyable Muse Wonder prompts
 
 > Perception, planning, control, sim-to-real, and safety for embodied agents.
 

@@ -1,4 +1,4 @@
-# ⚡ Everyday Productivity - 120 copyable Qwen 3 prompts
+# ⚡ Everyday Productivity - 250 copyable Qwen 3 prompts
 
 > Inbox, calendar, travel, job search, food ordering, plus Astra tedious-task wins.
 

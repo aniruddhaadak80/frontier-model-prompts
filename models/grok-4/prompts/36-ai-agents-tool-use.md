@@ -1,4 +1,4 @@
-# 🛠️ AI Agents & Tool Use - 120 copyable Grok 4 prompts
+# 🛠️ AI Agents & Tool Use - 250 copyable Grok 4 prompts
 
 > Tool calling, function calling, agentic loops, MCP, and orchestration.
 

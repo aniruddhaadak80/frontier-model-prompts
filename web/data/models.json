@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "opus-5-5",
+  "display": "Claude Opus 5.5",
+  "vendor": "Anthropic",
+  "context": "1M",
+  "strengths": "Long-running agentic coding, vision, computer use",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/opus-5-5/prompts"
+ },
+ {
+  "slug": "deepseek-v3-2",
+  "display": "DeepSeek V3.2",
+  "vendor": "DeepSeek",
+  "context": "128K",
+  "strengths": "Coding, math, open weights, cost-efficient",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/deepseek-v3-2/prompts"
+ },
+ {
+  "slug": "gemini-4-argon",
+  "display": "Gemini 4 Argon",
+  "vendor": "Google DeepMind",
+  "context": "1M",
+  "strengths": "Deep visual perception, finance/legal, cybersecurity",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/gemini-4-argon/prompts"
+ },
+ {
+  "slug": "glm-5",
+  "display": "GLM-5",
+  "vendor": "Zhipu AI",
+  "context": "long",
+  "strengths": "Agentic coding, reasoning, open weights",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/glm-5/prompts"
+ },
+ {
+  "slug": "gpt-6-astra",
+  "display": "GPT-6 Astra",
+  "vendor": "OpenAI",
+  "context": "1.05M",
+  "strengths": "Agentic coding, 3D, computer use, long context",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/prompts"
+ },
+ {
+  "slug": "grok-4",
+  "display": "Grok 4",
+  "vendor": "xAI",
+  "context": "256K",
+  "strengths": "Real-time web, reasoning, multimodal",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/grok-4/prompts"
+ },
+ {
+  "slug": "kimi-k-3-1",
+  "display": "Kimi K 3.1 Pro",
+  "vendor": "Moonshot",
+  "context": "1M",
+  "strengths": "Coding agents, 3D generation, open weights",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/kimi-k-3-1/prompts"
+ },
+ {
+  "slug": "llama-4",
+  "display": "Llama 4",
+  "vendor": "Meta",
+  "context": "10M",
+  "strengths": "Open weights, long context, multimodal",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/llama-4/prompts"
+ },
+ {
+  "slug": "mistral-large-3",
+  "display": "Mistral Large 3",
+  "vendor": "Mistral AI",
+  "context": "256K",
+  "strengths": "Multilingual, coding, function calling, open weights",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/mistral-large-3/prompts"
+ },
+ {
+  "slug": "muse-wonder",
+  "display": "Muse Wonder",
+  "vendor": "Meta",
+  "context": "long",
+  "strengths": "Active memory, goal persistence, agentic tasks",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/muse-wonder/prompts"
+ },
+ {
+  "slug": "qwen-3",
+  "display": "Qwen 3",
+  "vendor": "Alibaba",
+  "context": "128K",
+  "strengths": "Multilingual, coding, open weights",
+  "prompts": 9750,
+  "categories": 39,
+  "url": "https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/models/qwen-3/prompts"
+ }
+]

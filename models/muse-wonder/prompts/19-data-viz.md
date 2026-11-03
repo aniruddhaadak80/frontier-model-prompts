@@ -1,4 +1,4 @@
-# 📈 Data Analysis & Visualization - 120 copyable Muse Wonder prompts
+# 📈 Data Analysis & Visualization - 250 copyable Muse Wonder prompts
 
 > From question to chart spec to decision, with honest scales.
 

@@ -1,4 +1,4 @@
-# 📊 Spreadsheets & Data Wrangling - 120 copyable Qwen 3 prompts
+# 📊 Spreadsheets & Data Wrangling - 250 copyable Qwen 3 prompts
 
 > Excel/Sheets models, cleaning recipes, and reconciliation flows.
 

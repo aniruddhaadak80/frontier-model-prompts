@@ -1,4 +1,4 @@
-# 🎚️ Reasoning Effort Tuning - 120 copyable Muse Wonder prompts
+# 🎚️ Reasoning Effort Tuning - 250 copyable Muse Wonder prompts
 
 > low→max calibration: start low/medium, escalate only with evidence.
 

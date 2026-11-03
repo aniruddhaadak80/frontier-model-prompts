@@ -1,4 +1,4 @@
-# 🖥️ Computer Use & Desktop Automation - 120 copyable Gemini 4 Argon prompts
+# 🖥️ Computer Use & Desktop Automation - 250 copyable Gemini 4 Argon prompts
 
 > Astra operating files, apps, forms, calendars, QA flows, with explicit stop points and approvals.
 

@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable DeepSeek V3.2 prompts
+# 🎨 Design, Figma & Flora - 250 copyable DeepSeek V3.2 prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

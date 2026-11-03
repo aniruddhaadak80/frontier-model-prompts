@@ -1,4 +1,4 @@
-# 🧑‍💻 Web Dev & Sites in ChatGPT - 120 copyable DeepSeek V3.2 prompts
+# 🧑‍💻 Web Dev & Sites in ChatGPT - 250 copyable DeepSeek V3.2 prompts
 
 > Premium sites, booking flows, SEO copy, frontend QA Astra can self-check.
 

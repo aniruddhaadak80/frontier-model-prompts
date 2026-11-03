@@ -1,4 +1,4 @@
-# 🖥️ Computer Use & Desktop Automation - 120 copyable Claude Opus 5.5 prompts
+# 🖥️ Computer Use & Desktop Automation - 250 copyable Claude Opus 5.5 prompts
 
 > Astra operating files, apps, forms, calendars, QA flows, with explicit stop points and approvals.
 

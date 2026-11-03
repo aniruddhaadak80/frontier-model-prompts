@@ -1,4 +1,4 @@
-# 🧮 Math (Frontier-Style Rigor) - 120 copyable Qwen 3 prompts
+# 🧮 Math (Frontier-Style Rigor) - 250 copyable Qwen 3 prompts
 
 > Proof sketches, counterexamples, and verification discipline.
 

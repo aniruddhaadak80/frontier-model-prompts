@@ -1,4 +1,4 @@
-# 📚 Long Context (1M Tokens) - 120 copyable Claude Opus 5.5 prompts
+# 📚 Long Context (1M Tokens) - 250 copyable Claude Opus 5.5 prompts
 
 > Authoritative vs reference sources, conflict rules, staleness handling.
 

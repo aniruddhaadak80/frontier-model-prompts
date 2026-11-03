@@ -1,4 +1,4 @@
-# 🌐 Browser Research & Deep Dives - 120 copyable Grok 4 prompts
+# 🌐 Browser Research & Deep Dives - 250 copyable Grok 4 prompts
 
 > Multi-site research, comparisons, citations, and monitoring with source hygiene.
 

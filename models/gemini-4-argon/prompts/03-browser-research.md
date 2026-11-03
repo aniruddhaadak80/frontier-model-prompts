@@ -1,4 +1,4 @@
-# 🌐 Browser Research & Deep Dives - 120 copyable Gemini 4 Argon prompts
+# 🌐 Browser Research & Deep Dives - 250 copyable Gemini 4 Argon prompts
 
 > Multi-site research, comparisons, citations, and monitoring with source hygiene.
 

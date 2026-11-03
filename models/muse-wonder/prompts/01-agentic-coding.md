@@ -1,4 +1,4 @@
-# 💻 Agentic Coding - 120 copyable Muse Wonder prompts
+# 💻 Agentic Coding - 250 copyable Muse Wonder prompts
 
 > Long-horizon coding tasks, refactors, Codex/Copilot workflows with verification proportional to risk.
 

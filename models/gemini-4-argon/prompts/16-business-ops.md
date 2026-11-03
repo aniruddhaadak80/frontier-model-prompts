@@ -1,4 +1,4 @@
-# 🏢 Business Ops, CRM & Support - 120 copyable Gemini 4 Argon prompts
+# 🏢 Business Ops, CRM & Support - 250 copyable Gemini 4 Argon prompts
 
 > Inbox triage, CRM hygiene, SOPs with stop-before-send guardrails.
 

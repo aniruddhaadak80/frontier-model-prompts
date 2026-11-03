@@ -1,4 +1,4 @@
-# 🎧 Music & Audio (Ableton-style) - 120 copyable Kimi K 3.1 Pro prompts
+# 🎧 Music & Audio (Ableton-style) - 250 copyable Kimi K 3.1 Pro prompts
 
 > Arrangement, sound design, and mix notes for DAW-assisted builds.
 

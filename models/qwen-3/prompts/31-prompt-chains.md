@@ -1,4 +1,4 @@
-# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 120 copyable Qwen 3 prompts
+# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 250 copyable Qwen 3 prompts
 
 > Multi-step chains, multi-model routing, validation gates, and compounding-error control.
 

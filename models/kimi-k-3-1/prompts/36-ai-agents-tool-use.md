@@ -1,4 +1,4 @@
-# 🛠️ AI Agents & Tool Use - 120 copyable Kimi K 3.1 Pro prompts
+# 🛠️ AI Agents & Tool Use - 250 copyable Kimi K 3.1 Pro prompts
 
 > Tool calling, function calling, agentic loops, MCP, and orchestration.
 

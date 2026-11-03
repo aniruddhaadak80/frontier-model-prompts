@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable Qwen 3 prompts
+# 🎨 Design, Figma & Flora - 250 copyable Qwen 3 prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

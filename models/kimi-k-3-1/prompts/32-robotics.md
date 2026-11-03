@@ -1,4 +1,4 @@
-# 🤖 Robotics & Embodied AI - 120 copyable Kimi K 3.1 Pro prompts
+# 🤖 Robotics & Embodied AI - 250 copyable Kimi K 3.1 Pro prompts
 
 > Perception, planning, control, sim-to-real, and safety for embodied agents.
 

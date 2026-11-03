@@ -1,4 +1,4 @@
-# ✍️ Creative & Story Writing - 120 copyable Kimi K 3.1 Pro prompts
+# ✍️ Creative & Story Writing - 250 copyable Kimi K 3.1 Pro prompts
 
 > Voice control, constraints, and revision passes without purple slop.
 

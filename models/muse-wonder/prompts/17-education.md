@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable Muse Wonder prompts
+# 🎓 Education & Tutoring - 250 copyable Muse Wonder prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

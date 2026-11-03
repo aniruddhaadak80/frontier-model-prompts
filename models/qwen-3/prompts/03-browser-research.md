@@ -1,4 +1,4 @@
-# 🌐 Browser Research & Deep Dives - 120 copyable Qwen 3 prompts
+# 🌐 Browser Research & Deep Dives - 250 copyable Qwen 3 prompts
 
 > Multi-site research, comparisons, citations, and monitoring with source hygiene.
 

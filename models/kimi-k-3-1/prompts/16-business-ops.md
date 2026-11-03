@@ -1,4 +1,4 @@
-# 🏢 Business Ops, CRM & Support - 120 copyable Kimi K 3.1 Pro prompts
+# 🏢 Business Ops, CRM & Support - 250 copyable Kimi K 3.1 Pro prompts
 
 > Inbox triage, CRM hygiene, SOPs with stop-before-send guardrails.
 

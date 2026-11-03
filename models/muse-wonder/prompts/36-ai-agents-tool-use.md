@@ -1,4 +1,4 @@
-# 🛠️ AI Agents & Tool Use - 120 copyable Muse Wonder prompts
+# 🛠️ AI Agents & Tool Use - 250 copyable Muse Wonder prompts
 
 > Tool calling, function calling, agentic loops, MCP, and orchestration.
 

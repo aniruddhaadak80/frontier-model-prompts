@@ -1,4 +1,4 @@
-# 📚 Long Context (1M Tokens) - 120 copyable DeepSeek V3.2 prompts
+# 📚 Long Context (1M Tokens) - 250 copyable DeepSeek V3.2 prompts
 
 > Authoritative vs reference sources, conflict rules, staleness handling.
 

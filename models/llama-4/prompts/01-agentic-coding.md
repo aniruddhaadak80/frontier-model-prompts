@@ -1,4 +1,4 @@
-# 💻 Agentic Coding - 120 copyable Llama 4 prompts
+# 💻 Agentic Coding - 250 copyable Llama 4 prompts
 
 > Long-horizon coding tasks, refactors, Codex/Copilot workflows with verification proportional to risk.
 

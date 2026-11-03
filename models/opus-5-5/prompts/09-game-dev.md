@@ -1,4 +1,4 @@
-# 🎮 Game Dev & Playable Prototypes - 120 copyable Claude Opus 5.5 prompts
+# 🎮 Game Dev & Playable Prototypes - 250 copyable Claude Opus 5.5 prompts
 
 > Browser games, Godot/Unity prototypes, playtest-fix loops like the viral Astra builds.
 

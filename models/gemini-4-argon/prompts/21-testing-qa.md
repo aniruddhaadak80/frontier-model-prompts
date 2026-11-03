@@ -1,4 +1,4 @@
-# 🧪 Testing, QA & Verification - 120 copyable Gemini 4 Argon prompts
+# 🧪 Testing, QA & Verification - 250 copyable Gemini 4 Argon prompts
 
 > Calibrate Astra's thoroughness: targeted checks for small diffs, full suites for risky ones.
 

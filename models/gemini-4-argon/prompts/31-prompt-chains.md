@@ -1,4 +1,4 @@
-# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 120 copyable Gemini 4 Argon prompts
+# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 250 copyable Gemini 4 Argon prompts
 
 > Multi-step chains, multi-model routing, validation gates, and compounding-error control.
 

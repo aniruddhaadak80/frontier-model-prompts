@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Biotech - 120 copyable Claude Opus 5.5 prompts
+# 🏥 Healthcare & Biotech - 250 copyable Claude Opus 5.5 prompts
 
 > Clinical workflows, EHR, trials, and diagnostics (analysis only, not medical advice).
 

@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable Qwen 3 prompts
+# 🎓 Education & Tutoring - 250 copyable Qwen 3 prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

@@ -1,4 +1,4 @@
-# ⚖️ Legal & Compliance - 120 copyable Grok 4 prompts
+# ⚖️ Legal & Compliance - 250 copyable Grok 4 prompts
 
 > Contracts, policy, privacy, and regulatory workflows with careful sourcing.
 

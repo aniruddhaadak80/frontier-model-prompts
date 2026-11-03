@@ -1,4 +1,4 @@
-# 🧰 DevOps & Terminal-Bench Style - 120 copyable Gemini 4 Argon prompts
+# 🧰 DevOps & Terminal-Bench Style - 250 copyable Gemini 4 Argon prompts
 
 > Reproducible shell workflows, containers, CI, and incident drills.
 

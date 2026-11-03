@@ -1,4 +1,4 @@
-# 📝 Technical Writing (No Slop) - 120 copyable Kimi K 3.1 Pro prompts
+# 📝 Technical Writing (No Slop) - 250 copyable Kimi K 3.1 Pro prompts
 
 > Concise paragraphs, plain verbs, explicit structure per Astra style guidance.
 

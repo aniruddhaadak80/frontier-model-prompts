@@ -1,4 +1,4 @@
-# 🤖 Robotics & Embodied AI - 120 copyable Claude Opus 5.5 prompts
+# 🤖 Robotics & Embodied AI - 250 copyable Claude Opus 5.5 prompts
 
 > Perception, planning, control, sim-to-real, and safety for embodied agents.
 

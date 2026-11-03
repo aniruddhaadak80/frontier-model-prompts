@@ -1,4 +1,4 @@
-# 🔍 Prompt Debugging & Audits - 120 copyable DeepSeek V3.2 prompts
+# 🔍 Prompt Debugging & Audits - 250 copyable DeepSeek V3.2 prompts
 
 > Trace stalls to the exact file/line: authority, conflicts, staleness.
 

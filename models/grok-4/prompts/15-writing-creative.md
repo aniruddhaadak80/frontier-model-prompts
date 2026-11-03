@@ -1,4 +1,4 @@
-# ✍️ Creative & Story Writing - 120 copyable Grok 4 prompts
+# ✍️ Creative & Story Writing - 250 copyable Grok 4 prompts
 
 > Voice control, constraints, and revision passes without purple slop.
 

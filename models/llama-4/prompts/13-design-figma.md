@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable Llama 4 prompts
+# 🎨 Design, Figma & Flora - 250 copyable Llama 4 prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

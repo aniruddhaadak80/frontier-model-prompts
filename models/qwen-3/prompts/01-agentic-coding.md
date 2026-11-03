@@ -1,4 +1,4 @@
-# 💻 Agentic Coding - 120 copyable Qwen 3 prompts
+# 💻 Agentic Coding - 250 copyable Qwen 3 prompts
 
 > Long-horizon coding tasks, refactors, Codex/Copilot workflows with verification proportional to risk.
 

@@ -1,4 +1,4 @@
-# 📈 Data Analysis & Visualization - 120 copyable Claude Opus 5.5 prompts
+# 📈 Data Analysis & Visualization - 250 copyable Claude Opus 5.5 prompts
 
 > From question to chart spec to decision, with honest scales.
 

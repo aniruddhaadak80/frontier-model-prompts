@@ -1,4 +1,4 @@
-# 🕹️ 3D Games & Interactive Experiences - 120 copyable Llama 4 prompts
+# 🕹️ 3D Games & Interactive Experiences - 250 copyable Llama 4 prompts
 
 > Playable 3D worlds, engines, physics, multiplayer, VR, and game loops tuned for frontier models.
 

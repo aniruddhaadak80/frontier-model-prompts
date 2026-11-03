@@ -1,4 +1,4 @@
-# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 120 copyable Kimi K 3.1 Pro prompts
+# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 250 copyable Kimi K 3.1 Pro prompts
 
 > Multi-step chains, multi-model routing, validation gates, and compounding-error control.
 

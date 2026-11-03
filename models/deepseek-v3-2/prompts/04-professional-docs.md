@@ -1,4 +1,4 @@
-# 📄 Professional Docs & Decks - 120 copyable DeepSeek V3.2 prompts
+# 📄 Professional Docs & Decks - 250 copyable DeepSeek V3.2 prompts
 
 > Polished documents, spreadsheets, and presentations Astra can draft end-to-end.
 

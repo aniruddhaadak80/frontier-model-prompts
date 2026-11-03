@@ -1,4 +1,4 @@
-# 🎧 Music & Audio (Ableton-style) - 120 copyable Qwen 3 prompts
+# 🎧 Music & Audio (Ableton-style) - 250 copyable Qwen 3 prompts
 
 > Arrangement, sound design, and mix notes for DAW-assisted builds.
 

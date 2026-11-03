@@ -1,4 +1,4 @@
-# 🎚️ Reasoning Effort Tuning - 120 copyable Qwen 3 prompts
+# 🎚️ Reasoning Effort Tuning - 250 copyable Qwen 3 prompts
 
 > low→max calibration: start low/medium, escalate only with evidence.
 

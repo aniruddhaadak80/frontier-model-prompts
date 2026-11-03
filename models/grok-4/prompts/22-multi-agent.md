@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent & Subagent Orchestration - 120 copyable Grok 4 prompts
+# 🤖 Multi-Agent & Subagent Orchestration - 250 copyable Grok 4 prompts
 
 > Explicit delegation: when, how much, and how agents report back.
 

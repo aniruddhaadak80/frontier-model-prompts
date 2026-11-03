@@ -1,4 +1,4 @@
-# 📊 Spreadsheets & Data Wrangling - 120 copyable Claude Opus 5.5 prompts
+# 📊 Spreadsheets & Data Wrangling - 250 copyable Claude Opus 5.5 prompts
 
 > Excel/Sheets models, cleaning recipes, and reconciliation flows.
 

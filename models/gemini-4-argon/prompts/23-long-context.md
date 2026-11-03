@@ -1,4 +1,4 @@
-# 📚 Long Context (1M Tokens) - 120 copyable Gemini 4 Argon prompts
+# 📚 Long Context (1M Tokens) - 250 copyable Gemini 4 Argon prompts
 
 > Authoritative vs reference sources, conflict rules, staleness handling.
 

@@ -1,4 +1,4 @@
-# 🧮 Math (Frontier-Style Rigor) - 120 copyable Kimi K 3.1 Pro prompts
+# 🧮 Math (Frontier-Style Rigor) - 250 copyable Kimi K 3.1 Pro prompts
 
 > Proof sketches, counterexamples, and verification discipline.
 

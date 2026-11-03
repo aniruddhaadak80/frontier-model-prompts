@@ -1,4 +1,4 @@
-# 🏢 Business Ops, CRM & Support - 120 copyable DeepSeek V3.2 prompts
+# 🏢 Business Ops, CRM & Support - 250 copyable DeepSeek V3.2 prompts
 
 > Inbox triage, CRM hygiene, SOPs with stop-before-send guardrails.
 

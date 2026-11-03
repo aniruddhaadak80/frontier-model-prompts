@@ -1,4 +1,4 @@
-# 💰 Finance & Quantitative Analysis - 120 copyable Claude Opus 5.5 prompts
+# 💰 Finance & Quantitative Analysis - 250 copyable Claude Opus 5.5 prompts
 
 > Pricing, risk, portfolios, and market analysis with rigorous assumptions.
 

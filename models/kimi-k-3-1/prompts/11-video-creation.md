@@ -1,4 +1,4 @@
-# 🎬 Video & Cinematic AI - 120 copyable Kimi K 3.1 Pro prompts
+# 🎬 Video & Cinematic AI - 250 copyable Kimi K 3.1 Pro prompts
 
 > Remotion/Final Cut workflows, shot lists, 5-minute explainers like the T-cell demo.
 

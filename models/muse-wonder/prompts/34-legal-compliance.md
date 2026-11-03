@@ -1,4 +1,4 @@
-# ⚖️ Legal & Compliance - 120 copyable Muse Wonder prompts
+# ⚖️ Legal & Compliance - 250 copyable Muse Wonder prompts
 
 > Contracts, policy, privacy, and regulatory workflows with careful sourcing.
 

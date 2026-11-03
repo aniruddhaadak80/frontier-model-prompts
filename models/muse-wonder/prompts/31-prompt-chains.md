@@ -1,4 +1,4 @@
-# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 120 copyable Muse Wonder prompts
+# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 250 copyable Muse Wonder prompts
 
 > Multi-step chains, multi-model routing, validation gates, and compounding-error control.
 

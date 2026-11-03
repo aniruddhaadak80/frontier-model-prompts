@@ -1,4 +1,4 @@
-# 🔀 Migration: GPT-5.x → Astra - 120 copyable Llama 4 prompts
+# 🔀 Migration: GPT-5.x → Astra - 250 copyable Llama 4 prompts
 
 > Checklist migration: Responses API, removed params, cache, subagents, verification.
 

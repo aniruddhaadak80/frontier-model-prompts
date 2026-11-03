@@ -1,4 +1,4 @@
-# 🧪 Testing, QA & Verification - 120 copyable Qwen 3 prompts
+# 🧪 Testing, QA & Verification - 250 copyable Qwen 3 prompts
 
 > Calibrate Astra's thoroughness: targeted checks for small diffs, full suites for risky ones.
 

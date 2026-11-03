@@ -1,4 +1,4 @@
-# ✍️ Creative & Story Writing - 120 copyable Gemini 4 Argon prompts
+# ✍️ Creative & Story Writing - 250 copyable Gemini 4 Argon prompts
 
 > Voice control, constraints, and revision passes without purple slop.
 

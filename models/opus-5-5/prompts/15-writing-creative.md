@@ -1,4 +1,4 @@
-# ✍️ Creative & Story Writing - 120 copyable Claude Opus 5.5 prompts
+# ✍️ Creative & Story Writing - 250 copyable Claude Opus 5.5 prompts
 
 > Voice control, constraints, and revision passes without purple slop.
 

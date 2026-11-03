@@ -1,4 +1,4 @@
-# 📈 Data Analysis & Visualization - 120 copyable Grok 4 prompts
+# 📈 Data Analysis & Visualization - 250 copyable Grok 4 prompts
 
 > From question to chart spec to decision, with honest scales.
 

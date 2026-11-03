@@ -1,4 +1,4 @@
-# 🎮 Game Dev & Playable Prototypes - 120 copyable Muse Wonder prompts
+# 🎮 Game Dev & Playable Prototypes - 250 copyable Muse Wonder prompts
 
 > Browser games, Godot/Unity prototypes, playtest-fix loops like the viral Astra builds.
 

@@ -1,4 +1,4 @@
-# 📊 Spreadsheets & Data Wrangling - 120 copyable DeepSeek V3.2 prompts
+# 📊 Spreadsheets & Data Wrangling - 250 copyable DeepSeek V3.2 prompts
 
 > Excel/Sheets models, cleaning recipes, and reconciliation flows.
 

@@ -1,4 +1,4 @@
-# ⚖️ Legal & Compliance - 120 copyable DeepSeek V3.2 prompts
+# ⚖️ Legal & Compliance - 250 copyable DeepSeek V3.2 prompts
 
 > Contracts, policy, privacy, and regulatory workflows with careful sourcing.
 

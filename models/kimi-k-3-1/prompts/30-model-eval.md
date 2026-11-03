@@ -1,4 +1,4 @@
-# 📊 Advanced Model Testing & Evaluation - 120 copyable Kimi K 3.1 Pro prompts
+# 📊 Advanced Model Testing & Evaluation - 250 copyable Kimi K 3.1 Pro prompts
 
 > Evals, red-teaming, benchmarking, regression, and capability probing for frontier models.
 

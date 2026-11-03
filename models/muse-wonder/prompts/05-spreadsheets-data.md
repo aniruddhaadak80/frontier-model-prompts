@@ -1,4 +1,4 @@
-# 📊 Spreadsheets & Data Wrangling - 120 copyable Muse Wonder prompts
+# 📊 Spreadsheets & Data Wrangling - 250 copyable Muse Wonder prompts
 
 > Excel/Sheets models, cleaning recipes, and reconciliation flows.
 

@@ -1,4 +1,4 @@
-# 🧊 3D: Blender / Unreal / Three.js - 120 copyable DeepSeek V3.2 prompts
+# 🧊 3D: Blender / Unreal / Three.js - 250 copyable DeepSeek V3.2 prompts
 
 > Inspired by real Astra demos: blockout to inhabited detail, editable geometry, shot planning.
 

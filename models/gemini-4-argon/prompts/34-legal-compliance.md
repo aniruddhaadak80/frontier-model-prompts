@@ -1,4 +1,4 @@
-# ⚖️ Legal & Compliance - 120 copyable Gemini 4 Argon prompts
+# ⚖️ Legal & Compliance - 250 copyable Gemini 4 Argon prompts
 
 > Contracts, policy, privacy, and regulatory workflows with careful sourcing.
 

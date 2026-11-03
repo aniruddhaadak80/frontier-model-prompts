@@ -1,4 +1,4 @@
-# 🔬 Science & Lab Workflows - 120 copyable Kimi K 3.1 Pro prompts
+# 🔬 Science & Lab Workflows - 250 copyable Kimi K 3.1 Pro prompts
 
 > Literature synthesis, protocols, analysis plans, and figure specs.
 

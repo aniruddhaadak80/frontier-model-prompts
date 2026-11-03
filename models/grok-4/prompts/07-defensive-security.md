@@ -1,4 +1,4 @@
-# 🛡️ Defensive Security (Blue Team Only) - 120 copyable Grok 4 prompts
+# 🛡️ Defensive Security (Blue Team Only) - 250 copyable Grok 4 prompts
 
 > Defensive posture only: hardening, detection, triage, recovery. No exploits, no bypasses.
 

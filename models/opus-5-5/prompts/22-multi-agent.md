@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent & Subagent Orchestration - 120 copyable Claude Opus 5.5 prompts
+# 🤖 Multi-Agent & Subagent Orchestration - 250 copyable Claude Opus 5.5 prompts
 
 > Explicit delegation: when, how much, and how agents report back.
 

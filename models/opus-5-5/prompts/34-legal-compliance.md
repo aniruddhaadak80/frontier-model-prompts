@@ -1,4 +1,4 @@
-# ⚖️ Legal & Compliance - 120 copyable Claude Opus 5.5 prompts
+# ⚖️ Legal & Compliance - 250 copyable Claude Opus 5.5 prompts
 
 > Contracts, policy, privacy, and regulatory workflows with careful sourcing.
 

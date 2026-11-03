@@ -1,4 +1,4 @@
-# 🎧 Music & Audio (Ableton-style) - 120 copyable Grok 4 prompts
+# 🎧 Music & Audio (Ableton-style) - 250 copyable Grok 4 prompts
 
 > Arrangement, sound design, and mix notes for DAW-assisted builds.
 

@@ -1,4 +1,4 @@
-# 🏢 Business Ops, CRM & Support - 120 copyable Qwen 3 prompts
+# 🏢 Business Ops, CRM & Support - 250 copyable Qwen 3 prompts
 
 > Inbox triage, CRM hygiene, SOPs with stop-before-send guardrails.
 

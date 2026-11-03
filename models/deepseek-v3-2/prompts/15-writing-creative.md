@@ -1,4 +1,4 @@
-# ✍️ Creative & Story Writing - 120 copyable DeepSeek V3.2 prompts
+# ✍️ Creative & Story Writing - 250 copyable DeepSeek V3.2 prompts
 
 > Voice control, constraints, and revision passes without purple slop.
 

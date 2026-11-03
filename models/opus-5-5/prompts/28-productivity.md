@@ -1,4 +1,4 @@
-# ⚡ Everyday Productivity - 120 copyable Claude Opus 5.5 prompts
+# ⚡ Everyday Productivity - 250 copyable Claude Opus 5.5 prompts
 
 > Inbox, calendar, travel, job search, food ordering, plus Astra tedious-task wins.
 

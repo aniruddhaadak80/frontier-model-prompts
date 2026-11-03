@@ -1,4 +1,4 @@
-# 💰 Finance & Quantitative Analysis - 120 copyable Qwen 3 prompts
+# 💰 Finance & Quantitative Analysis - 250 copyable Qwen 3 prompts
 
 > Pricing, risk, portfolios, and market analysis with rigorous assumptions.
 

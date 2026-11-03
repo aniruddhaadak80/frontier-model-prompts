@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent & Subagent Orchestration - 120 copyable Muse Wonder prompts
+# 🤖 Multi-Agent & Subagent Orchestration - 250 copyable Muse Wonder prompts
 
 > Explicit delegation: when, how much, and how agents report back.
 

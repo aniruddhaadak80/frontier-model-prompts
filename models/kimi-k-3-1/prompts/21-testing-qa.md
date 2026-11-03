@@ -1,4 +1,4 @@
-# 🧪 Testing, QA & Verification - 120 copyable Kimi K 3.1 Pro prompts
+# 🧪 Testing, QA & Verification - 250 copyable Kimi K 3.1 Pro prompts
 
 > Calibrate Astra's thoroughness: targeted checks for small diffs, full suites for risky ones.
 

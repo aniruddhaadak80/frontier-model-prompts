@@ -4,6 +4,7 @@ Reads ../prompts/prompts.jsonl plus ../categories.json, writes
 data/prompts.json and data/categories.json for the Next.js bundle.
 Run from web/: py data/build-data.py
 """
+
 import json
 import re
 from pathlib import Path
@@ -50,7 +51,19 @@ DEFAULT_LEVEL = {
     "26-migration": "high-level",
     "27-prompt-debugging": "high-level",
     "28-productivity": "low-level",
+    "29-3d-games": "medium-level",
+    "30-model-eval": "high-level",
+    "31-prompt-chains": "high-level",
+    "32-robotics": "high-level",
+    "33-finance-quant": "high-level",
+    "34-legal-compliance": "high-level",
+    "35-healthcare-biotech": "high-level",
+    "36-ai-agents-tool-use": "high-level",
+    "37-quantum-computing": "high-level",
+    "38-climate-energy": "high-level",
+    "39-space-aerospace": "high-level",
 }
+
 
 def main():
     index = {}
@@ -67,26 +80,35 @@ def main():
         m = EFFORT_RE.search(rec.get("prompt", ""))
         effort = m.group(1) if m else None
         meta = index.get(rec["id"], {})
-        level = EFFORT_LEVEL.get(effort, DEFAULT_LEVEL.get(rec["category"], "medium-level"))
-        rows.append({
-            "n": len(rows) + 1,
-            "id": rec["id"],
-            "category": rec["category"],
-            "catTitle": meta.get("title", rec["category"]),
-            "task": meta.get("task", ""),
-            "prompt": rec["prompt"],
-            "effort": effort,
-            "level": level,
-        })
+        level = EFFORT_LEVEL.get(
+            effort, DEFAULT_LEVEL.get(rec["category"], "medium-level")
+        )
+        rows.append(
+            {
+                "n": len(rows) + 1,
+                "id": rec["id"],
+                "category": rec["category"],
+                "catTitle": meta.get("title", rec["category"]),
+                "task": meta.get("task", ""),
+                "prompt": rec["prompt"],
+                "effort": effort,
+                "level": level,
+            }
+        )
     cats = json.loads((ROOT / "categories.json").read_text(encoding="utf-8"))
     counts = {}
     for r in rows:
         counts[r["category"]] = counts.get(r["category"], 0) + 1
     for c in cats:
         c["count"] = counts.get(c["slug"], 0)
-    (HERE / "prompts.json").write_text(json.dumps(rows, ensure_ascii=False), encoding="utf-8")
-    (HERE / "categories.json").write_text(json.dumps(cats, ensure_ascii=False, indent=1), encoding="utf-8")
+    (HERE / "prompts.json").write_text(
+        json.dumps(rows, ensure_ascii=False), encoding="utf-8"
+    )
+    (HERE / "categories.json").write_text(
+        json.dumps(cats, ensure_ascii=False, indent=1), encoding="utf-8"
+    )
     print(f"wrote {len(rows)} prompts across {len(cats)} categories")
+
 
 if __name__ == "__main__":
     main()

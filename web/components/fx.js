@@ -8,13 +8,13 @@ export function Loader({ ready }) {
       <div className="loader-box">
         <div className="loader-ring" />
         <div style={{ fontWeight: 900, fontSize: 20, marginBottom: 6 }}>
-          GPT-6 Astra Showcase
+          Frontier Model Prompts
         </div>
         <div className="loader-bar">
           <span />
         </div>
         <div style={{ marginTop: 12 }}>
-          <small>Loading 3360 prompts</small>
+          <small>Loading 9,750 Astra prompts across 11 model packs</small>
         </div>
       </div>
     </div>

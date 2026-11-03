@@ -1,26 +1,26 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-81000-orange" alt="81000 prompts">
-  <img src="https://img.shields.io/badge/models-9-blueviolet" alt="9 models">
-  <img src="https://img.shields.io/badge/categories-36-yellow" alt="36 categories">
+  <img src="https://img.shields.io/badge/prompts-107250-orange" alt="107250 prompts">
+  <img src="https://img.shields.io/badge/models-11-blueviolet" alt="11 models">
+  <img src="https://img.shields.io/badge/categories-39-yellow" alt="39 categories">
   <img src="https://img.shields.io/badge/unique-100_percent-brightgreen" alt="100 percent unique">
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license">
   <img src="https://img.shields.io/badge/showcase-live-brightgreen" alt="showcase live">
-  <img src="https://img.shields.io/badge/updated-2026--10--28-informational" alt="updated Oct 28 2026">
+  <img src="https://img.shields.io/badge/updated-2026--11--03-informational" alt="updated Nov 3 2026">
 </p>
 
 <h1 align="center">Frontier Model Prompt Universe</h1>
 
 <p align="center">
-  <b>81,000 copy-paste prompts across 9 frontier models: GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1 Pro, DeepSeek V3.2, Grok 4, Qwen 3, Llama 4</b>
+  <b>107,250 copy-paste prompts across 11 frontier models: GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1 Pro, DeepSeek V3.2, Grok 4, Qwen 3, Llama 4, Mistral Large 3, GLM-5</b>
   <br>
-  28 categories x 120 prompts per model. Carousel navigator, real community builds index, API quickstarts, safety notes.
+  39 categories x 250 prompts per model. Carousel navigator, real community builds index, API quickstarts, safety notes.
   <br>
   Launch-aware: every model here shipped between Sept and Oct 2026. This repo stays factual about that.
 </p>
 
 <p align="center">
   <a href="https://frontier-model-prompts.vercel.app"><img src="https://img.shields.io/badge/open_live_showcase-orange" alt="Open live showcase"></a>
-  <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/prompts"><img src="https://img.shields.io/badge/browse-3360_prompts-yellow" alt="Browse 3360 prompts"></a>
+  <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/tree/main/prompts"><img src="https://img.shields.io/badge/browse-9750_prompts-yellow" alt="Browse 9750 prompts"></a>
   <a href="https://github.com/aniruddhaadak80/frontier-model-prompts/blob/main/docs/3d-advanced-guide.md"><img src="https://img.shields.io/badge/advanced-3D_guide-blue" alt="Advanced 3D guide"></a>
   <a href="https://vercel.com/new/clone?repository-url=https://github.com/aniruddhaadak80/frontier-model-prompts&amp;root-directory=web"><img src="https://vercel.com/button" alt="Deploy with Vercel"></a>
 </p>
@@ -29,13 +29,13 @@
   <a href="https://awesome.re">Awesome</a> - <a href="prompts/">Prompts</a> - <a href="#category-carousel">Categories</a> - <a href="#live-web-showcase">Live showcase</a> - <a href="LICENSE">License</a> - <a href="SOURCES.md">Sources</a>
 </p>
 
-**Status line:** Prompts 3360 | Categories 28 | Unique verified SHA-256 | License MIT | Updated 2026-09-10 | Web showcase Next.js 14, static export, live preview linked above
+**Status line:** Prompts 107,250 | Models 11 | Categories 39 | Unique verified SHA-256 | License MIT | Updated 2026-11-03 | Web showcase Next.js 15, static export, live preview linked above
 
 ---
 
 ## Live web showcase
 
-The full library now runs as a cinematic web app: all 3360 prompts hard-coded in the bundle, one-click copy, dropdown filters, advanced search, animated hero with particle canvas, scroll reveals, stat counters, marquee ticker, 3D pipeline timeline, builds gallery, framework, quickstart, safety, and sources.
+The full library runs as a cinematic web app: 9,750 Astra prompts hard-coded in the bundle, an 11-model gallery linking every pack, one-click copy, dropdown filters, advanced search, animated hero with particle canvas, scroll reveals, stat counters, marquee ticker, 3D pipeline timeline, builds gallery, framework, quickstart, safety, and sources.
 
 - **Production URL:** https://frontier-model-prompts.vercel.app
 - **Project:** `frontier-model-prompts-showcase` under the account workspace, root directory `web`, auto-deploys every push to `main` once the Git integration is connected. Fresh deploys from an authenticated shell use `npx vercel deploy --prod` inside `web/`.
@@ -51,7 +51,7 @@ The full library now runs as a cinematic web app: all 3360 prompts hard-coded in
 
 Public search across GitHub, X, LinkedIn, Reddit mirrors, DEV, Substack, and vendor docs on 2026-09-10 shows Astra is real and very new, with thin public signal: mostly launch shares, access questions, score screenshots, and about 15 to 20 substantive demos. No 2,000-plus community prompt corpus exists yet in the wild. This repo therefore contains two distinct parts:
 
-1. `prompts/` - **3,360 original, unique, Astra-tuned prompts** (28 times 120), built from official Astra guidance patterns. Labeled as curation, not scraped content.
+1. `prompts/` - **9,750 original, unique, Astra-tuned prompts** (39 times 250), built from official Astra guidance patterns. Labeled as curation, not scraped content.
 2. **Real builds index** - significant public builds with creator attribution and links. Inclusion does not mean reproduction. Confidence labels reflect evidence quality.
 
 For strictly found material, use the builds table plus `SOURCES.md`. For a working library, use `prompts/` plus `examples/` plus `docs/`, or the live showcase above.
@@ -172,7 +172,7 @@ flowchart TD
 
 ## Models covered
 
-Five frontier models, one prompt library. Each pack ships 28 categories x 120 prompts with markdown, JSONL, CSV, and an index.
+Eleven frontier models, one prompt library. Each pack ships 39 categories x 250 prompts with markdown, JSONL, CSV, and an index.
 
 | Model | Provider | Model ID | Context | Max out | Price (in/out per MTok) | Knowledge cutoff | Strengths |
 |---|---|---|---|---|---|---|---|
@@ -185,6 +185,8 @@ Five frontier models, one prompt library. Each pack ships 28 categories x 120 pr
 | Grok 4 | xAI | `grok-4` | 256,000 | - | (see xAI) | - | Real-time web, reasoning, multimodal |
 | Qwen 3 | Alibaba | `qwen-3` | 128,000 | - | open weights | - | Multilingual, coding, open weights |
 | Llama 4 | Meta | `llama-4` | 10,000,000 | - | open weights | - | Open weights, long context, multimodal |
+| Mistral Large 3 | Mistral AI | `mistral-large-3` | 256,000 | - | open weights | - | Multilingual, coding, function calling |
+| GLM-5 | Zhipu AI | `glm-5` | long-context | - | open weights | - | Agentic coding, reasoning, cost-efficient |
 
 ```mermaid
 flowchart LR
@@ -193,11 +195,23 @@ flowchart LR
   A --> D[Gemini 4 Argon]
   A --> E[Muse Wonder]
   A --> F[Kimi K 3.1 Pro]
-  B --> G[28 categories x 120]
+  A --> H[DeepSeek V3.2]
+  A --> I[Grok 4]
+  A --> J[Qwen 3]
+  A --> K[Llama 4]
+  A --> L[Mistral Large 3]
+  A --> M[GLM-5]
+  B --> G[39 categories x 250]
   C --> G
   D --> G
   E --> G
   F --> G
+  H --> G
+  I --> G
+  J --> G
+  K --> G
+  L --> G
+  M --> G
 ```
 
 ### Where each pack lives
@@ -209,6 +223,12 @@ flowchart LR
 | Gemini 4 Argon | `models/gemini-4-argon/` |
 | Muse Wonder | `models/muse-wonder/` |
 | Kimi K 3.1 Pro | `models/kimi-k-3-1/` |
+| DeepSeek V3.2 | `models/deepseek-v3-2/` |
+| Grok 4 | `models/grok-4/` |
+| Qwen 3 | `models/qwen-3/` |
+| Llama 4 | `models/llama-4/` |
+| Mistral Large 3 | `models/mistral-large-3/` |
+| GLM-5 | `models/glm-5/` |
 
 ### Model control knobs
 
@@ -219,10 +239,16 @@ flowchart LR
 | Gemini 4 Argon | Thinking level: low / medium / high |
 | Muse Wonder | Reasoning depth: quick / balanced / deep / deeper / max |
 | Kimi K 3.1 Pro | Thinking mode: off / low / medium / high / max |
+| DeepSeek V3.2 | Reasoning mode: off / low / medium / high / max |
+| Grok 4 | Reasoning effort: low / medium / high / xhigh / max |
+| Qwen 3 | Reasoning mode: off / low / medium / high / max |
+| Llama 4 | Reasoning mode: off / low / medium / high / max |
+| Mistral Large 3 | Reasoning mode: off / low / medium / high / max |
+| GLM-5 | Reasoning mode: off / low / medium / high / max |
 
 ## Community-sourced prompts
 
-Real prompts pulled from Reddit, X, and prompt platforms (Sept–Oct 2026), adapted and attributed. See [`prompts/37-community-sourced.md`](prompts/37-community-sourced.md).
+Real prompts pulled from Reddit, X, and prompt platforms (Sept–Oct 2026), adapted and attributed. See [`prompts/99-community-sourced.md`](prompts/99-community-sourced.md).
 
 - Astra initiative & follow-through prompt (OpenAI-recommended)
 - Campaign brief, motion-graphics brief, continue-the-mission loop
@@ -234,13 +260,13 @@ Real prompts pulled from Reddit, X, and prompt platforms (Sept–Oct 2026), adap
 
 | Highlight | Detail |
 |---|---|
-| 3360 prompts, zero duplicates | SHA-256 verified on every push by `scripts/verify_prompts.py` plus CI |
+| 9,750 Astra prompts, zero duplicates | SHA-256 verified on every push by `scripts/verify_prompts.py` plus CI |
 | Collapsible vertical blocks | Click any title to expand top to bottom, copy icon on the inner fence, no sideways scrolling |
 | Circular category chain | Every file links Index, Prev, Next, Search, Carousel, so navigation never dead-ends |
 | Machine-readable twins | `prompts.jsonl`, `prompts.csv`, `prompts_index.json` ship beside the markdown |
 | Interactive carousel | `docs/carousel.html` with search, prev, next, random, keyboard control |
-| Cinematic web showcase | Next.js 14 static export with loader, particle hero, counters, marquee, reveals, filters |
-| Numbered cards with previews | Stable numbers 1 to 3360, one-line summaries, pre-open previews, low, medium, and high difficulty tags |
+| Cinematic web showcase | Next.js 15 static export with loader, particle hero, counters, marquee, reveals, filters, model gallery |
+| Numbered cards with previews | Stable numbers 1 to 9,750, one-line summaries, pre-open previews, low, medium, and high difficulty tags |
 | Command-grade navigation | Navbar search, section jumper, GitHub shortcut, full keyboard map with guide overlay |
 | Advanced 3D pipeline | Nine-gate playbook plus budgets, export matrix, QA gate in `docs/3d-advanced-guide.md` |
 | Honest sourcing | Vendor claims labeled as claims, builds carry attribution plus confidence |
@@ -253,7 +279,7 @@ A screen-by-screen walk of the [live showcase](https://frontier-model-prompts.ve
 
 | Stop | Screen | What to do there |
 |---|---|---|
-| 1 | Loader plus hero (`#top`) | Watch the boot ring, particle canvas, and counters land on 3360, then read the three-line promise |
+| 1 | Loader plus hero (`#top`) | Watch the boot ring, particle canvas, and counters land on 9,750, then read the three-line promise |
 | 2 | Marquee ticker | Let the category strip loop once to feel the full 28-lane scope |
 | 3 | Category grid (`#prompts`) | Hover the cards for lift and glow, tap one to filter the vault below |
 | 4 | Explorer (`#explorer`) | Search, set the category dropdown, filter by difficulty or effort, sort, expand a card, copy it |
@@ -271,8 +297,8 @@ Press `?` anywhere for the keyboard map. Press `/` to jump back into search from
 
 | Slice | Count | Share |
 |---|---|---|
-| Total prompts (all models) | 81000 | 100 percent |
-| Prompts per model | 9000 | 9 models |
+| Total prompts (all models) | 107250 | 100 percent |
+| Prompts per model | 9750 | 11 models |
 | Low-level starters | 864 | 25.7 percent |
 | Medium-level builds | 1584 | 47.1 percent |
 | High-level deep work | 912 | 27.1 percent |
@@ -452,7 +478,7 @@ Swap one slot at a time: new role, new task, new audience, tighter constraints, 
 
 ## Category carousel
 
-> **3,360 prompts, 28 categories, 120 each, all unique with SHA-256 verification.**
+> **9,750 Astra prompts, 39 categories, 250 each, all unique with SHA-256 verification.**
 > Each file uses collapsible sections. Click a title to expand it top to bottom, then use the copy icon on the inner code block. Text wraps vertically. There is no left to right scrolling.
 > Interactive version with search plus prev, next, random, and keyboard support: [`docs/carousel.html`](docs/carousel.html).
 > Cinematic version with filters and animations: [live showcase](https://frontier-model-prompts.vercel.app).
@@ -640,7 +666,7 @@ Measure full-task cost with retries, not list price. Pin effort per task type af
 How the 23,250 prompts flow from generators to every surface:
 
 ```text
-scripts/generate_prompts.py          (GPT-6 Astra: 28 categories x 120)
+scripts/generate_prompts.py          (GPT-6 Astra: 39 categories x 250)
 scripts/generate_model_prompts.py    (Opus 5.5, Gemini 4 Argon, Muse Wonder, Kimi K 3.1: 4 x 28 x 120)
   -> prompts/NN-name.md             (Astra, root)
   -> models/<slug>/prompts/NN-name.md (per model)
@@ -788,7 +814,7 @@ frontier-model-prompts/
   - carousel.html, interactive carousel with search, copy, prev, next, keyboard
   - 3d-advanced-guide.md, advanced 3D pipeline, budgets, checklists, handoffs
 - examples/, six production-grade official-pattern prompts
-- web/, Next.js 14 showcase app (static export, deploys from web/ as root)
+- web/, Next.js 15 showcase app (static export, deploys from web/ as root)
   - app/, layout, page, global styles
   - components/, loader, canvas, reveals, explorer, showcase sections
   - data/, build-data.py plus generated prompts.json and categories.json
@@ -866,11 +892,11 @@ npm run build
 **Is GPT-6 Astra publicly available.**
 Yes, with rollout gates. API as `gpt-6-astra` since Sept 4, 2026, plus ChatGPT Work, Codex, Copilot, Azure, and Bedrock surfaces. Enterprise access is off by default and paid plans propagate over days.
 
-**Are the 3360 prompts scraped from the community.**
+**Are the 9,750 prompts scraped from the community.**
 No. They are original curation written to official Astra patterns. Community builds are indexed separately with attribution. The distinction is stated wherever both appear.
 
 **How is uniqueness enforced.**
-`scripts/verify_prompts.py` hashes every prompt with SHA-256 and fails below 3360 rows or on any duplicate. CI runs the same gate on push and pull requests.
+`scripts/verify_prompts.py` hashes every prompt with SHA-256 and fails below 9,750 rows or on any duplicate. CI runs the same gate on push and pull requests.
 
 **Which effort level belongs on a new task.**
 Start low for triage and edits, medium with planning for features, high for deep bugs, xhigh for frontier work, max only behind an eval harness with cost sign-off. Details in category 25.
@@ -891,7 +917,7 @@ Scraped dumps without provenance, offensive-security content, jailbreaks, bypass
 Low-level prompts are starters with narrow scope. Medium-level prompts are full builds with realistic constraints. High-level prompts are deep, long-horizon, or frontier-adjacent work. Tags derive from effort hints with per-category defaults and stay filterable in the showcase.
 
 **Are prompt numbers stable.**
-Yes. Numbers 1 to 3360 follow dataset order and persist across search, filters, and sorts. Cite a number plus its id when reporting issues.
+Yes. Numbers 1 to 9,750 follow dataset order and persist across search, filters, and sorts. Cite a number plus its id when reporting issues.
 
 **What keyboard shortcuts exist.**
 Slash focuses search, question mark opens the guide, Escape closes, J and K walk cards, Enter toggles, C copies, digits jump sections. Shortcuts pause while typing.
@@ -912,6 +938,7 @@ Hard-refresh for a fresh copy (Ctrl plus Shift plus R on desktop). Every animate
 - **v1.2.0, 2026-09-10:** Next.js 14 cinematic showcase with all prompts bundled, advanced search and filters, dropdowns, one-click copy, loader plus particles plus reveals plus counters, static export, live Vercel preview, advanced README pass with badges, benchmarks, anatomy, architecture, FAQ.
 - **v1.1.0, 2026-09-10:** Collapsible vertical prompt blocks with circular navigation, advanced 3D guide, expanded operations, machine-readable twins, interactive carousel page, CI verification.
 - **v1.0.0, 2026-09-10:** Initial hub with 2520 unique prompts across 28 categories, real builds index, official and community sources, API quickstarts, safety notes.
+- **v1.5.0, 2026-11-03:** 11 frontier model packs, 39 categories, 9,750 prompts per model, 107,250 total, plus quantum, climate-energy, and space-aerospace categories and an on-site model gallery.
 
 ---
 
@@ -923,7 +950,7 @@ New real build: open a PR adding a row to the builds table plus a line in `SOURC
 
 ## License and citations
 
-MIT, see [`LICENSE`](LICENSE). Builds and demos belong to their creators, linked in the tables. Model facts and scores are vendor claims, linked in `SOURCES.md`. The prompt library in `prompts/` is original curation for this repo, dated Sept 2026, not a scrape. Cite as: `GPT-6 Astra Awesome Hub - 3,360 Astra-tuned prompts plus verified builds index, accessed 2026-09-10`.
+MIT, see [`LICENSE`](LICENSE). Builds and demos belong to their creators, linked in the tables. Model facts and scores are vendor claims, linked in `SOURCES.md`. The prompt library in `prompts/` is original curation for this repo, dated Sept 2026, not a scrape. Cite as: `Frontier Model Prompts - 107,250 prompts across 11 frontier models, accessed 2026-11-03`.
 
 ---
 

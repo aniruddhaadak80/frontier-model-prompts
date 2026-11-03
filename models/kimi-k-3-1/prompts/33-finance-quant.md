@@ -1,4 +1,4 @@
-# 💰 Finance & Quantitative Analysis - 120 copyable Kimi K 3.1 Pro prompts
+# 💰 Finance & Quantitative Analysis - 250 copyable Kimi K 3.1 Pro prompts
 
 > Pricing, risk, portfolios, and market analysis with rigorous assumptions.
 

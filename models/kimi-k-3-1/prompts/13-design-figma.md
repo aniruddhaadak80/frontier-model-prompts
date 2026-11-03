@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable Kimi K 3.1 Pro prompts
+# 🎨 Design, Figma & Flora - 250 copyable Kimi K 3.1 Pro prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

@@ -1,4 +1,4 @@
-# 📊 Advanced Model Testing & Evaluation - 120 copyable Muse Wonder prompts
+# 📊 Advanced Model Testing & Evaluation - 250 copyable Muse Wonder prompts
 
 > Evals, red-teaming, benchmarking, regression, and capability probing for frontier models.
 

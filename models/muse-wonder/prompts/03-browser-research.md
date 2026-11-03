@@ -1,4 +1,4 @@
-# 🌐 Browser Research & Deep Dives - 120 copyable Muse Wonder prompts
+# 🌐 Browser Research & Deep Dives - 250 copyable Muse Wonder prompts
 
 > Multi-site research, comparisons, citations, and monitoring with source hygiene.
 

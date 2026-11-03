@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable Kimi K 3.1 Pro prompts
+# 🎓 Education & Tutoring - 250 copyable Kimi K 3.1 Pro prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

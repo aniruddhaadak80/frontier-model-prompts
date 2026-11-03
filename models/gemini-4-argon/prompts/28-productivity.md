@@ -1,4 +1,4 @@
-# ⚡ Everyday Productivity - 120 copyable Gemini 4 Argon prompts
+# ⚡ Everyday Productivity - 250 copyable Gemini 4 Argon prompts
 
 > Inbox, calendar, travel, job search, food ordering, plus Astra tedious-task wins.
 

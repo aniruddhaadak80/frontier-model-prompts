@@ -1,4 +1,4 @@
-# 🤖 Robotics & Embodied AI - 120 copyable Grok 4 prompts
+# 🤖 Robotics & Embodied AI - 250 copyable Grok 4 prompts
 
 > Perception, planning, control, sim-to-real, and safety for embodied agents.
 

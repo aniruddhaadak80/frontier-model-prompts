@@ -1,4 +1,4 @@
-# 🧰 DevOps & Terminal-Bench Style - 120 copyable DeepSeek V3.2 prompts
+# 🧰 DevOps & Terminal-Bench Style - 250 copyable DeepSeek V3.2 prompts
 
 > Reproducible shell workflows, containers, CI, and incident drills.
 

@@ -1,4 +1,4 @@
-# 🏢 Business Ops, CRM & Support - 120 copyable Grok 4 prompts
+# 🏢 Business Ops, CRM & Support - 250 copyable Grok 4 prompts
 
 > Inbox triage, CRM hygiene, SOPs with stop-before-send guardrails.
 

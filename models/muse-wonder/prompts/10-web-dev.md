@@ -1,4 +1,4 @@
-# 🧑‍💻 Web Dev & Sites in ChatGPT - 120 copyable Muse Wonder prompts
+# 🧑‍💻 Web Dev & Sites in ChatGPT - 250 copyable Muse Wonder prompts
 
 > Premium sites, booking flows, SEO copy, frontend QA Astra can self-check.
 

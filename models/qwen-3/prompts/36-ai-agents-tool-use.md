@@ -1,4 +1,4 @@
-# 🛠️ AI Agents & Tool Use - 120 copyable Qwen 3 prompts
+# 🛠️ AI Agents & Tool Use - 250 copyable Qwen 3 prompts
 
 > Tool calling, function calling, agentic loops, MCP, and orchestration.
 

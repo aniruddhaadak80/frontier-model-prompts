@@ -1,4 +1,4 @@
-# 🖥️ Computer Use & Desktop Automation - 120 copyable DeepSeek V3.2 prompts
+# 🖥️ Computer Use & Desktop Automation - 250 copyable DeepSeek V3.2 prompts
 
 > Astra operating files, apps, forms, calendars, QA flows, with explicit stop points and approvals.
 

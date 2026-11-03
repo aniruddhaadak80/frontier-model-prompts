@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent & Subagent Orchestration - 120 copyable DeepSeek V3.2 prompts
+# 🤖 Multi-Agent & Subagent Orchestration - 250 copyable DeepSeek V3.2 prompts
 
 > Explicit delegation: when, how much, and how agents report back.
 

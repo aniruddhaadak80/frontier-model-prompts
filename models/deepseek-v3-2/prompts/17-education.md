@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable DeepSeek V3.2 prompts
+# 🎓 Education & Tutoring - 250 copyable DeepSeek V3.2 prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

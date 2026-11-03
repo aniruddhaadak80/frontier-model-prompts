@@ -1,4 +1,4 @@
-# 📚 Long Context (1M Tokens) - 120 copyable Llama 4 prompts
+# 📚 Long Context (1M Tokens) - 250 copyable Llama 4 prompts
 
 > Authoritative vs reference sources, conflict rules, staleness handling.
 

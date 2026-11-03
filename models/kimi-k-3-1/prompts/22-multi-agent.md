@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent & Subagent Orchestration - 120 copyable Kimi K 3.1 Pro prompts
+# 🤖 Multi-Agent & Subagent Orchestration - 250 copyable Kimi K 3.1 Pro prompts
 
 > Explicit delegation: when, how much, and how agents report back.
 

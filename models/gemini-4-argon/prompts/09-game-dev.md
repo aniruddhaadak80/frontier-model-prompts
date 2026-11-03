@@ -1,4 +1,4 @@
-# 🎮 Game Dev & Playable Prototypes - 120 copyable Gemini 4 Argon prompts
+# 🎮 Game Dev & Playable Prototypes - 250 copyable Gemini 4 Argon prompts
 
 > Browser games, Godot/Unity prototypes, playtest-fix loops like the viral Astra builds.
 

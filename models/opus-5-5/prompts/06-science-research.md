@@ -1,4 +1,4 @@
-# 🔬 Science & Lab Workflows - 120 copyable Claude Opus 5.5 prompts
+# 🔬 Science & Lab Workflows - 250 copyable Claude Opus 5.5 prompts
 
 > Literature synthesis, protocols, analysis plans, and figure specs.
 

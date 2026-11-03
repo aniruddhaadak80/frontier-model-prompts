@@ -1,4 +1,4 @@
-# 🕹️ 3D Games & Interactive Experiences - 120 copyable Gemini 4 Argon prompts
+# 🕹️ 3D Games & Interactive Experiences - 250 copyable Gemini 4 Argon prompts
 
 > Playable 3D worlds, engines, physics, multiplayer, VR, and game loops tuned for frontier models.
 

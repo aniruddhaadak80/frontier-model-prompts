@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent & Subagent Orchestration - 120 copyable Qwen 3 prompts
+# 🤖 Multi-Agent & Subagent Orchestration - 250 copyable Qwen 3 prompts
 
 > Explicit delegation: when, how much, and how agents report back.
 

@@ -1,4 +1,4 @@
-# 🧊 3D: Blender / Unreal / Three.js - 120 copyable Qwen 3 prompts
+# 🧊 3D: Blender / Unreal / Three.js - 250 copyable Qwen 3 prompts
 
 > Inspired by real Astra demos: blockout to inhabited detail, editable geometry, shot planning.
 

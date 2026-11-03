@@ -1,4 +1,4 @@
-# 🧮 Math (Frontier-Style Rigor) - 120 copyable Grok 4 prompts
+# 🧮 Math (Frontier-Style Rigor) - 250 copyable Grok 4 prompts
 
 > Proof sketches, counterexamples, and verification discipline.
 

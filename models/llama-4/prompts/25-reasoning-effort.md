@@ -1,4 +1,4 @@
-# 🎚️ Reasoning Effort Tuning - 120 copyable Llama 4 prompts
+# 🎚️ Reasoning Effort Tuning - 250 copyable Llama 4 prompts
 
 > low→max calibration: start low/medium, escalate only with evidence.
 

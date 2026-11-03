@@ -250,5 +250,26 @@
   "title": "AI Agents & Tool Use",
   "desc": "Tool calling, function calling, agentic loops, MCP, and orchestration.",
   "count": 250
+ },
+ {
+  "slug": "37-quantum-computing",
+  "emoji": "⚛️",
+  "title": "Quantum Computing",
+  "desc": "Circuits, error correction, calibration, and hybrid quantum-classical workflows.",
+  "count": 250
+ },
+ {
+  "slug": "38-climate-energy",
+  "emoji": "🌍",
+  "title": "Climate & Energy Systems",
+  "desc": "Grid modeling, decarbonization, geospatial risk, and energy policy analysis.",
+  "count": 250
+ },
+ {
+  "slug": "39-space-aerospace",
+  "emoji": "🚀",
+  "title": "Space & Aerospace",
+  "desc": "Mission design, orbital mechanics, GNC, and space systems engineering.",
+  "count": 250
  }
 ]

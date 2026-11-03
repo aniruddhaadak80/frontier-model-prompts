@@ -1,4 +1,4 @@
-# 📊 Advanced Model Testing & Evaluation - 120 copyable Llama 4 prompts
+# 📊 Advanced Model Testing & Evaluation - 250 copyable Llama 4 prompts
 
 > Evals, red-teaming, benchmarking, regression, and capability probing for frontier models.
 

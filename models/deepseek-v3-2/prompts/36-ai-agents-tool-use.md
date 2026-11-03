@@ -1,4 +1,4 @@
-# 🛠️ AI Agents & Tool Use - 120 copyable DeepSeek V3.2 prompts
+# 🛠️ AI Agents & Tool Use - 250 copyable DeepSeek V3.2 prompts
 
 > Tool calling, function calling, agentic loops, MCP, and orchestration.
 

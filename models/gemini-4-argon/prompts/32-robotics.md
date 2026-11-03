@@ -1,4 +1,4 @@
-# 🤖 Robotics & Embodied AI - 120 copyable Gemini 4 Argon prompts
+# 🤖 Robotics & Embodied AI - 250 copyable Gemini 4 Argon prompts
 
 > Perception, planning, control, sim-to-real, and safety for embodied agents.
 

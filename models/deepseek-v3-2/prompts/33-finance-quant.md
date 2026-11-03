@@ -1,4 +1,4 @@
-# 💰 Finance & Quantitative Analysis - 120 copyable DeepSeek V3.2 prompts
+# 💰 Finance & Quantitative Analysis - 250 copyable DeepSeek V3.2 prompts
 
 > Pricing, risk, portfolios, and market analysis with rigorous assumptions.
 

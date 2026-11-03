@@ -1,4 +1,4 @@
-# 🧰 DevOps & Terminal-Bench Style - 120 copyable Kimi K 3.1 Pro prompts
+# 🧰 DevOps & Terminal-Bench Style - 250 copyable Kimi K 3.1 Pro prompts
 
 > Reproducible shell workflows, containers, CI, and incident drills.
 

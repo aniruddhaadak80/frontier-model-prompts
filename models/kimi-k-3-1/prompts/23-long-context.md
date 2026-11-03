@@ -1,4 +1,4 @@
-# 📚 Long Context (1M Tokens) - 120 copyable Kimi K 3.1 Pro prompts
+# 📚 Long Context (1M Tokens) - 250 copyable Kimi K 3.1 Pro prompts
 
 > Authoritative vs reference sources, conflict rules, staleness handling.
 

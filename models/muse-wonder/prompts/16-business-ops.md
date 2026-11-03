@@ -1,4 +1,4 @@
-# 🏢 Business Ops, CRM & Support - 120 copyable Muse Wonder prompts
+# 🏢 Business Ops, CRM & Support - 250 copyable Muse Wonder prompts
 
 > Inbox triage, CRM hygiene, SOPs with stop-before-send guardrails.
 

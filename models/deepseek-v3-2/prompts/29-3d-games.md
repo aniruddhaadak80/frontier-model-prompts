@@ -1,4 +1,4 @@
-# 🕹️ 3D Games & Interactive Experiences - 120 copyable DeepSeek V3.2 prompts
+# 🕹️ 3D Games & Interactive Experiences - 250 copyable DeepSeek V3.2 prompts
 
 > Playable 3D worlds, engines, physics, multiplayer, VR, and game loops tuned for frontier models.
 

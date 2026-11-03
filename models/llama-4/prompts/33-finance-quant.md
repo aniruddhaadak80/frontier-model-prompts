@@ -1,4 +1,4 @@
-# 💰 Finance & Quantitative Analysis - 120 copyable Llama 4 prompts
+# 💰 Finance & Quantitative Analysis - 250 copyable Llama 4 prompts
 
 > Pricing, risk, portfolios, and market analysis with rigorous assumptions.
 

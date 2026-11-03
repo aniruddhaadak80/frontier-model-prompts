@@ -1,4 +1,4 @@
-# 🛡️ Defensive Security (Blue Team Only) - 120 copyable Gemini 4 Argon prompts
+# 🛡️ Defensive Security (Blue Team Only) - 250 copyable Gemini 4 Argon prompts
 
 > Defensive posture only: hardening, detection, triage, recovery. No exploits, no bypasses.
 

@@ -1,4 +1,4 @@
-# 🧪 Testing, QA & Verification - 120 copyable DeepSeek V3.2 prompts
+# 🧪 Testing, QA & Verification - 250 copyable DeepSeek V3.2 prompts
 
 > Calibrate Astra's thoroughness: targeted checks for small diffs, full suites for risky ones.
 

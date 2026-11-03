@@ -1,4 +1,4 @@
-# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 120 copyable Claude Opus 5.5 prompts
+# 🔗 Complex Prompt Chains & Multi-Model Orchestration - 250 copyable Claude Opus 5.5 prompts
 
 > Multi-step chains, multi-model routing, validation gates, and compounding-error control.
 

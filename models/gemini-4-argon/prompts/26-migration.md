@@ -1,4 +1,4 @@
-# 🔀 Migration: GPT-5.x → Astra - 120 copyable Gemini 4 Argon prompts
+# 🔀 Migration: GPT-5.x → Astra - 250 copyable Gemini 4 Argon prompts
 
 > Checklist migration: Responses API, removed params, cache, subagents, verification.
 

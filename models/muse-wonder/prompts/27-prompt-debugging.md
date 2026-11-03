@@ -1,4 +1,4 @@
-# 🔍 Prompt Debugging & Audits - 120 copyable Muse Wonder prompts
+# 🔍 Prompt Debugging & Audits - 250 copyable Muse Wonder prompts
 
 > Trace stalls to the exact file/line: authority, conflicts, staleness.
 

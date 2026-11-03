@@ -1,4 +1,4 @@
-# 🛡️ Defensive Security (Blue Team Only) - 120 copyable Muse Wonder prompts
+# 🛡️ Defensive Security (Blue Team Only) - 250 copyable Muse Wonder prompts
 
 > Defensive posture only: hardening, detection, triage, recovery. No exploits, no bypasses.
 

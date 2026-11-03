@@ -1,4 +1,4 @@
-# 🎮 Game Dev & Playable Prototypes - 120 copyable Kimi K 3.1 Pro prompts
+# 🎮 Game Dev & Playable Prototypes - 250 copyable Kimi K 3.1 Pro prompts
 
 > Browser games, Godot/Unity prototypes, playtest-fix loops like the viral Astra builds.
 

@@ -1,4 +1,4 @@
-# 🧩 Structured Outputs & Schemas - 120 copyable Kimi K 3.1 Pro prompts
+# 🧩 Structured Outputs & Schemas - 250 copyable Kimi K 3.1 Pro prompts
 
 > Schemas for structure; prompts for semantics. No temperature/top_p with Astra tool-calling.
 

@@ -1,4 +1,4 @@
-# 📈 Data Analysis & Visualization - 120 copyable DeepSeek V3.2 prompts
+# 📈 Data Analysis & Visualization - 250 copyable DeepSeek V3.2 prompts
 
 > From question to chart spec to decision, with honest scales.
 

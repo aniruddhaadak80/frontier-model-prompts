@@ -1,4 +1,4 @@
-# 💰 Finance & Quantitative Analysis - 120 copyable Muse Wonder prompts
+# 💰 Finance & Quantitative Analysis - 250 copyable Muse Wonder prompts
 
 > Pricing, risk, portfolios, and market analysis with rigorous assumptions.
 

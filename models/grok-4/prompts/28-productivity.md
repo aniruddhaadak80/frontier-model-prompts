@@ -1,4 +1,4 @@
-# ⚡ Everyday Productivity - 120 copyable Grok 4 prompts
+# ⚡ Everyday Productivity - 250 copyable Grok 4 prompts
 
 > Inbox, calendar, travel, job search, food ordering, plus Astra tedious-task wins.
 

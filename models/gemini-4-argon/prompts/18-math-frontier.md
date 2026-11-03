@@ -1,4 +1,4 @@
-# 🧮 Math (Frontier-Style Rigor) - 120 copyable Gemini 4 Argon prompts
+# 🧮 Math (Frontier-Style Rigor) - 250 copyable Gemini 4 Argon prompts
 
 > Proof sketches, counterexamples, and verification discipline.
 

@@ -1,4 +1,4 @@
-# 🎬 Video & Cinematic AI - 120 copyable Muse Wonder prompts
+# 🎬 Video & Cinematic AI - 250 copyable Muse Wonder prompts
 
 > Remotion/Final Cut workflows, shot lists, 5-minute explainers like the T-cell demo.
 

@@ -1,4 +1,4 @@
-# 🎚️ Reasoning Effort Tuning - 120 copyable Kimi K 3.1 Pro prompts
+# 🎚️ Reasoning Effort Tuning - 250 copyable Kimi K 3.1 Pro prompts
 
 > low→max calibration: start low/medium, escalate only with evidence.
 

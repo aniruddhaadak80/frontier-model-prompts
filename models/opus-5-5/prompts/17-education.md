@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable Claude Opus 5.5 prompts
+# 🎓 Education & Tutoring - 250 copyable Claude Opus 5.5 prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

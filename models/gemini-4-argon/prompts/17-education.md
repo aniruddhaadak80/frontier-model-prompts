@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable Gemini 4 Argon prompts
+# 🎓 Education & Tutoring - 250 copyable Gemini 4 Argon prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

@@ -1,4 +1,4 @@
-# 📄 Professional Docs & Decks - 120 copyable Gemini 4 Argon prompts
+# 📄 Professional Docs & Decks - 250 copyable Gemini 4 Argon prompts
 
 > Polished documents, spreadsheets, and presentations Astra can draft end-to-end.
 

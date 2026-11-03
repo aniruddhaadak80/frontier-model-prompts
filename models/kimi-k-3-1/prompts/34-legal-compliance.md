@@ -1,4 +1,4 @@
-# ⚖️ Legal & Compliance - 120 copyable Kimi K 3.1 Pro prompts
+# ⚖️ Legal & Compliance - 250 copyable Kimi K 3.1 Pro prompts
 
 > Contracts, policy, privacy, and regulatory workflows with careful sourcing.
 

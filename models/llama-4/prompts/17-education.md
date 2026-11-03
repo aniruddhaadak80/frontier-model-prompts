@@ -1,4 +1,4 @@
-# 🎓 Education & Tutoring - 120 copyable Llama 4 prompts
+# 🎓 Education & Tutoring - 250 copyable Llama 4 prompts
 
 > Mr-Ranedeer-style tutoring, lesson plans, and worked examples.
 

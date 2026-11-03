@@ -1,4 +1,4 @@
-# 📊 Spreadsheets & Data Wrangling - 120 copyable Kimi K 3.1 Pro prompts
+# 📊 Spreadsheets & Data Wrangling - 250 copyable Kimi K 3.1 Pro prompts
 
 > Excel/Sheets models, cleaning recipes, and reconciliation flows.
 

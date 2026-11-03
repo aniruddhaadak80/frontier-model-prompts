@@ -1,4 +1,4 @@
-# 🛠️ AI Agents & Tool Use - 120 copyable Claude Opus 5.5 prompts
+# 🛠️ AI Agents & Tool Use - 250 copyable Claude Opus 5.5 prompts
 
 > Tool calling, function calling, agentic loops, MCP, and orchestration.
 

@@ -1,4 +1,4 @@
-# 📈 Data Analysis & Visualization - 120 copyable Kimi K 3.1 Pro prompts
+# 📈 Data Analysis & Visualization - 250 copyable Kimi K 3.1 Pro prompts
 
 > From question to chart spec to decision, with honest scales.
 

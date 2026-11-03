@@ -1,4 +1,4 @@
-# 🔀 Migration: GPT-5.x → Astra - 120 copyable Kimi K 3.1 Pro prompts
+# 🔀 Migration: GPT-5.x → Astra - 250 copyable Kimi K 3.1 Pro prompts
 
 > Checklist migration: Responses API, removed params, cache, subagents, verification.
 

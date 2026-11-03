@@ -1,4 +1,4 @@
-# 🔬 Science & Lab Workflows - 120 copyable Qwen 3 prompts
+# 🔬 Science & Lab Workflows - 250 copyable Qwen 3 prompts
 
 > Literature synthesis, protocols, analysis plans, and figure specs.
 

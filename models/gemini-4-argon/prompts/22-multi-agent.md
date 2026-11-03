@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent & Subagent Orchestration - 120 copyable Gemini 4 Argon prompts
+# 🤖 Multi-Agent & Subagent Orchestration - 250 copyable Gemini 4 Argon prompts
 
 > Explicit delegation: when, how much, and how agents report back.
 

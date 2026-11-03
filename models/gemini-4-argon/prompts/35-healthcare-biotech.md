@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Biotech - 120 copyable Gemini 4 Argon prompts
+# 🏥 Healthcare & Biotech - 250 copyable Gemini 4 Argon prompts
 
 > Clinical workflows, EHR, trials, and diagnostics (analysis only, not medical advice).
 

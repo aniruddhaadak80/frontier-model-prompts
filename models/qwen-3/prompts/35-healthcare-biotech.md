@@ -1,4 +1,4 @@
-# 🏥 Healthcare & Biotech - 120 copyable Qwen 3 prompts
+# 🏥 Healthcare & Biotech - 250 copyable Qwen 3 prompts
 
 > Clinical workflows, EHR, trials, and diagnostics (analysis only, not medical advice).
 

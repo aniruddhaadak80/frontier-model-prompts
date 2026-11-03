@@ -1,4 +1,4 @@
-# 🤖 Robotics & Embodied AI - 120 copyable DeepSeek V3.2 prompts
+# 🤖 Robotics & Embodied AI - 250 copyable DeepSeek V3.2 prompts
 
 > Perception, planning, control, sim-to-real, and safety for embodied agents.
 

@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable Grok 4 prompts
+# 🎨 Design, Figma & Flora - 250 copyable Grok 4 prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

@@ -1,4 +1,4 @@
-# 🔀 Migration: GPT-5.x → Astra - 120 copyable Muse Wonder prompts
+# 🔀 Migration: GPT-5.x → Astra - 250 copyable Muse Wonder prompts
 
 > Checklist migration: Responses API, removed params, cache, subagents, verification.
 

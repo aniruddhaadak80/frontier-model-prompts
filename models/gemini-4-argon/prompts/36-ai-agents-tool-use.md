@@ -1,4 +1,4 @@
-# 🛠️ AI Agents & Tool Use - 120 copyable Gemini 4 Argon prompts
+# 🛠️ AI Agents & Tool Use - 250 copyable Gemini 4 Argon prompts
 
 > Tool calling, function calling, agentic loops, MCP, and orchestration.
 

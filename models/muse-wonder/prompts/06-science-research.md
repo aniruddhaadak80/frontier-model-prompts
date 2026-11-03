@@ -1,4 +1,4 @@
-# 🔬 Science & Lab Workflows - 120 copyable Muse Wonder prompts
+# 🔬 Science & Lab Workflows - 250 copyable Muse Wonder prompts
 
 > Literature synthesis, protocols, analysis plans, and figure specs.
 

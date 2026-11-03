@@ -1,4 +1,4 @@
-# 📝 Technical Writing (No Slop) - 120 copyable Grok 4 prompts
+# 📝 Technical Writing (No Slop) - 250 copyable Grok 4 prompts
 
 > Concise paragraphs, plain verbs, explicit structure per Astra style guidance.
 

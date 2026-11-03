@@ -1,4 +1,4 @@
-# 🧑‍💻 Web Dev & Sites in ChatGPT - 120 copyable Claude Opus 5.5 prompts
+# 🧑‍💻 Web Dev & Sites in ChatGPT - 250 copyable Claude Opus 5.5 prompts
 
 > Premium sites, booking flows, SEO copy, frontend QA Astra can self-check.
 

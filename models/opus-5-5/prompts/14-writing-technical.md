@@ -1,4 +1,4 @@
-# 📝 Technical Writing (No Slop) - 120 copyable Claude Opus 5.5 prompts
+# 📝 Technical Writing (No Slop) - 250 copyable Claude Opus 5.5 prompts
 
 > Concise paragraphs, plain verbs, explicit structure per Astra style guidance.
 

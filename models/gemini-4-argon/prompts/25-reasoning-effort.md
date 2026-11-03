@@ -1,4 +1,4 @@
-# 🎚️ Reasoning Effort Tuning - 120 copyable Gemini 4 Argon prompts
+# 🎚️ Reasoning Effort Tuning - 250 copyable Gemini 4 Argon prompts
 
 > low→max calibration: start low/medium, escalate only with evidence.
 

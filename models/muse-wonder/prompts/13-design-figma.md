@@ -1,4 +1,4 @@
-# 🎨 Design, Figma & Flora - 120 copyable Muse Wonder prompts
+# 🎨 Design, Figma & Flora - 250 copyable Muse Wonder prompts
 
 > Interface direction with explicit visual references, no generic dashboards.
 

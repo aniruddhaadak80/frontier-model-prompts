@@ -510,3 +510,10 @@ kbd {
 .rp-you { color: var(--amber); }
 .rp-astra { color: #cfe3da; }
 .caret { color: var(--teal); animation: blinksoft 0.9s steps(1) infinite; }
+
+/* Model pack gallery */
+.model-card { display: block; text-decoration: none; }
+.model-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+.model-head b { display: block; font-size: 16px; }
+.model-vendor { font-size: 11px; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; color: var(--faint); white-space: nowrap; }
+.model-meta { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 12px; flex-wrap: wrap; }

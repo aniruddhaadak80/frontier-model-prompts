@@ -1,4 +1,4 @@
-# 🔍 Prompt Debugging & Audits - 120 copyable Grok 4 prompts
+# 🔍 Prompt Debugging & Audits - 250 copyable Grok 4 prompts
 
 > Trace stalls to the exact file/line: authority, conflicts, staleness.
 

@@ -1,4 +1,4 @@
-# 🧮 Math (Frontier-Style Rigor) - 120 copyable Muse Wonder prompts
+# 🧮 Math (Frontier-Style Rigor) - 250 copyable Muse Wonder prompts
 
 > Proof sketches, counterexamples, and verification discipline.
 
